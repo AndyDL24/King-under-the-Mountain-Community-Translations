@@ -238,6 +238,7 @@ GUI.DIALOG.ERROR_TITLE,Shown as the title of an error dialog,An error has occurr
 GUI.DIALOG.ERROR_WHILE_LOADING,Unexpected error while loading a previous save,There was an unexpected error while loading the game.,
 GUI.DIALOG.ERROR_WHILE_SAVING,Unexpected error while saving the game,There was an unexpected error while saving the game.,
 GUI.DIALOG.JUMP_TO,,Go to location,
+GUI.DIALOG.LANGUAGE_TRANSLATION_INCOMPLETE,,The selected language translation is currently incomplete and will be missing some text. A fallback language will be used.,
 GUI.DIALOG.OK_BUTTON,Single button shown to dismiss an error dialog,OK,OK
 GUI.DIALOG.RENAME_ROOM_TITLE,,Rename room,
 GUI.DIALOG.RESTART_REQUIRED.BODY,,You must restart the game for this change to take effect,
