@@ -2,49 +2,49 @@ KEY,NOTES,ENGLISH,GERMAN
 
 ACTION.JOB.CLEAR_GROUND,E.g. “Clearing shrub”,Clearing {{targetPlant}},Entfernt {{plantDescription}}
 ACTION.JOB.CONSTRUCT_FURNITURE,E.g. “Crafting furniture”,{{profession.verb}} {{targetDescription}},{{profession.verb}} {{targetDescription}}
-ACTION.JOB.CREATE_GENERIC,,Producing {{targetDescription}},
+ACTION.JOB.CREATE_GENERIC,,Producing {{targetDescription}},Produziert {{targetDescription}}
 ACTION.JOB.DECONSTRUCT,E.g. “Removing stone wall” “Removing wooden wall”,Removing {{targetDescription}},Baut {{targetDescription}} ab
-ACTION.JOB.DIGGING,,Digging {{targetDescription}},
-ACTION.JOB.FILL_GRAVE,For filling a grave with dirt,Filling {{targetDescription}},
+ACTION.JOB.DIGGING,,Digging {{targetDescription}},Gräbt {{targetDescription}}
+ACTION.JOB.FILL_GRAVE,For filling a grave with dirt,Filling {{targetDescription}},Füllt {{targetDescription}}
 ACTION.JOB.GENERIC,"E.g. “Smelting iron ore”, “Crafting wooden planks”",{{profession.verb}} {{targetDescription}},{{profession.verb}} {{targetDescription}}
 ACTION.JOB.HARVESTING,,Harvesting {{targetPlant}},Erntet {{targetPlant}}
-ACTION.JOB.INNOCULATE_MUSHROOM_LOG,,Injecting mushroom spawn,
+ACTION.JOB.INNOCULATE_MUSHROOM_LOG,,Injecting mushroom spawn,Injiziert Pilzkultur
 ACTION.JOB.LOGGING,,{{profession.verb}} {{targetPlant}},{{profession.verb}} {{targetPlant}}
 ACTION.JOB.PLANTING,,Planting {{requiredItem}},Pflanzt {{requiredItem}}
 ACTION.JOB.REMOVE_PESTS_FROM_CROP,,Removing pests from {{targetPlant}},Entfernt Schädlinge von {{targetPlant}}
-ACTION.JOB.SHOVELLING,,Shovelling {{targetDescription}},
-ACTION.JOB.TILLING,,Tilling the earth,Beackert den Boden
+ACTION.JOB.SHOVELLING,,Shovelling {{targetDescription}},Schaufelt {{targetDescription}}
+ACTION.JOB.TILLING,,Tilling the earth,Bestellt das Feld
 ACTION.JOB.TRANSFER_LIQUID,For filling a container with a liquid,Filling {{targetDescription}},Füllt {{targetDescription}}
-ACTION.PREPARATION.VERB,,Preparing,
+ACTION.PREPARATION.VERB,,Preparing,Bereitet vor
 ACTION.SELECT_JOB.DESCRIPTION,When looking for a job to work,Looking for work to do,Sucht Arbeit
 ACTION.SLEEP_IN_BED.DESCRIPTION,E.g. “Sleeping in wooden bed”,Sleeping in {{containerDescription}},Schläft in {{containerDescription}}
 ACTION.SLEEP_ON_FLOOR.DESCRIPTION,E.g. “Sleeping on rough stone floor”,Sleeping on {{tileDescription}},Schläft auf {{tileDescription}}
 
 CONSTRUCTION.DESCRIPTION,E.g. “Construction of granite stonemason workbench”,Construction of {{materialType.adjective}} {{furnitureType.noun}},Herstellung von {{furnitureType.noun}} aus {{materialType}}
 CONSTRUCTION.ITEM_ALLOCATION,E.g. “1 of 3 marble blocks allocated” (or assigned),{{quantity}} of {{itemDescription}} allocated,{{quantity}} von {{itemDescription}} zugewiesen
-CONSTRUCTION.STATUS.CLEARING_WORK_SITE,This is to be displayed when other items need to be cleared out from an area that has something being built over it,Removing other items,Baut andere Gegenstände ab
-CONSTRUCTION.STATUS.CLEARING_WORK_SITE.TOOLTIP,,There are items that need to be removed from this furniture’s construction area before it can progress.,
+CONSTRUCTION.STATUS.CLEARING_WORK_SITE,This is to be displayed when other items need to be cleared out from an area that has something being built over it,Removing other items,Entfernt andere Gegenstände
+CONSTRUCTION.STATUS.CLEARING_WORK_SITE.TOOLTIP,,There are items that need to be removed from this furniture’s construction area before it can progress.,Es müssen Gegenstände aus dem Konstruktionsbereich entfernt werden bevor mit dem Bau fortgefahren werden kann.
 CONSTRUCTION.STATUS.SELECTING_MATERIALS,E.g. “Waiting for more wooden planks to be available”,Waiting for more {{materialType}} {{itemDescription.plural}} to be available,Wartet auf mehr {{itemDescription.plural}} aus {{materialType}}
 CONSTRUCTION.STATUS.WAITING_FOR_COMPLETION,This is displayed once all resources are in place and the construction is being worked on,Under construction,Wird gebaut
 CONSTRUCTION.STATUS.WAITING_FOR_RESOURCES,This is displayed while a construction is waiting for resource items to be placed in the build area,Waiting for resources to arrive,Wartet auf Materialien
 
-COOKING.BREAD.DESCRIPTION,E.g. “Wheat bread”,{{materialDescription}} bread,
+COOKING.BREAD.DESCRIPTION,E.g. “Wheat bread”,{{materialDescription}} bread,{{materialDescription}} Brot
 COOKING.DUAL_INGREDIENT.DESCRIPTION,"E.g. “Tomato and potato”, to be used for for two ingredients together as below",{{materialOne}} and {{materialTwo}},{{materialOne}} und {{materialTwo}}
 COOKING.SOUP.DESCRIPTION,"E.g. “Tomato soup”, “Tomato and potato soup”, “Vegetable soup”",{{materialDescription}} soup,Suppe aus {{materialDescription}}
 
 CROP.AFFLICTED_BY_PESTS,For when a crop plant is infested with insects and other pests and needs some work to remove them,Afflicted by pests,Von Schädlingen befallen
-CROP.AFFLICTED_BY_PESTS.TOOLTIP,,This crop has been afflicted by an excessive number of aphids and other insects which need to be removed by a {{PROFESSION.FARMER}} before it can flourish again. Not removing the pests in time could mean that this crop dies!,
+CROP.AFFLICTED_BY_PESTS.TOOLTIP,,This crop has been afflicted by an excessive number of aphids and other insects which need to be removed by a {{PROFESSION.FARMER}} before it can flourish again. Not removing the pests in time could mean that this crop dies!,Diese Pflanze ist von einer hohen Anzahl an Blattläusen und anderen Insekten befallen, die von einem {{PROFESSION.FARMER}} entfernt werden müssen bevor sie wieder gedeihen kann. Die Pflanze kann sterben wenn die Schädlinge nicht rechtzeitig entfernt werden!
 CROP.DESCRIPTION,,{{materialType.noun}} plant,{{materialType.noun}}-Pflanze
 CROP.HARVEST_PROGRESS,E.g. “Progress towards harvest: 30%”,Progress towards harvest: {{progress}}%,Reifungsprozess: {{progress}} %
 
-DEATH_REASON.CRUSHED_BY_FALLING_DEBRIS,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Falling debris,
-DEATH_REASON.DEHYDRATION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Dehydration,
-DEATH_REASON.EXHAUSTION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Exhaustion,
-DEATH_REASON.FOOD_POISONING,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Food poisoning,
-DEATH_REASON.STARVATION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Starvation,
-DEATH_REASON.UNKNOWN,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Mysterious circumstances,
+DEATH_REASON.CRUSHED_BY_FALLING_DEBRIS,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Falling debris,Fallende Trümmer
+DEATH_REASON.DEHYDRATION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Dehydration,Verdurstet
+DEATH_REASON.EXHAUSTION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Exhaustion,Erschöpfung
+DEATH_REASON.FOOD_POISONING,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Food poisoning,Lebensmittelvergiftung
+DEATH_REASON.STARVATION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Starvation,Verhungert
+DEATH_REASON.UNKNOWN,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Mysterious circumstances,Mysteriöse Umstände
 
-EARTH.DIRT,,Dirt,
+EARTH.DIRT,,Dirt,Erde
 EARTH.GRASS,,Grass,Gras
 
 FLOOR.COBBLESTONE,,Cobblestone,Pflasterstein
@@ -53,16 +53,16 @@ FLOOR.DIRT,,Dirt,Boden
 FLOOR.GRASS,,Grass,Gras
 FLOOR.GRAVEL,,Gravel,Kies
 FLOOR.RIVER,,River,Fluss
-FLOOR.ROUGH_STONE,,Rough stone floor,Steinboden
+FLOOR.ROUGH_STONE,,Rough stone floor,Grober Steinboden
 FLOOR.STONE_SLAB,,Stone slab,Steinplatte
 FLOOR.TILLED_EARTH,,Tilled earth,Ackerboden
-FLOOR.UNEXPLORED,Used when the player clicks on an area they have not discovered yet,Unexplored,
+FLOOR.UNEXPLORED,Used when the player clicks on an area they have not discovered yet,Unexplored,Nicht erkundet
 
-FOODSTUFF.ROCKBREAD,This is a made-up fantasy food,Rockbread,
-FOODSTUFF.ROCKBREAD.TOOLTIP,,This is an infamously tough bread which is so hard and practically inedible that it takes a very long time to turn mouldy. The human explorer J. A. Moffatt once described eating it as “akin to chewing gravel that has been dredged from a swamp”. Fortunately most dwarves don’t seem to mind.,
-FOODSTUFF.WHEAT-BREAD,"Actually just to describe “wheat” as a foodstuff, not specifically bread",Wheat,
+FOODSTUFF.ROCKBREAD,This is a made-up fantasy food,Rockbread,Steinbrot
+FOODSTUFF.ROCKBREAD.TOOLTIP,,This is an infamously tough bread which is so hard and practically inedible that it takes a very long time to turn mouldy. The human explorer J. A. Moffatt once described eating it as “akin to chewing gravel that has been dredged from a swamp”. Fortunately most dwarves don’t seem to mind.,Dies ist ein berüchtigt zähes Brot, das so hart und ungenießbar ist, dass es eine sehr lange Zeit braucht bis es schimmelt. Der menschliche Forscher J.A. Moffatt beschrieb den Verzehr einmal damit “Kieselsteine zu kauen, die aus einem Sumpf stammen”. Glücklicherweise scheinen die meisten Zwerge zufrieden damit zu sein.
+FOODSTUFF.WHEAT-BREAD,"Actually just to describe “wheat” as a foodstuff, not specifically bread",Wheat,Weizen
 
-FUEL.SACK,,Fuel,
+FUEL.SACK,,Fuel,Brennstoff
 FUEL.SACK.TOOLTIP,,"Fuel is required in the production of metal, both by the {{FURNITURE.BLOOMERY_FURNACE}} and the {{FURNITURE.FORGE}}.",
 
 FURNITURE.BAKERS_WORKTOP,,Baker’s worktop,
