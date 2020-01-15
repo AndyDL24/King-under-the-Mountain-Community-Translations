@@ -59,4 +59,5 @@ This project is licensed under the Creative Commons Legal Code License - see the
 
 ## Contributors
 
-Coming soon!
+### German translation
+* Katharina Schrempf
