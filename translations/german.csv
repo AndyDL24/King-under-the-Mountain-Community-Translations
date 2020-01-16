@@ -29,7 +29,7 @@ CONSTRUCTION.STATUS.WAITING_FOR_COMPLETION,This is displayed once all resources 
 CONSTRUCTION.STATUS.WAITING_FOR_RESOURCES,This is displayed while a construction is waiting for resource items to be placed in the build area,Waiting for resources to arrive,Wartet auf Materialien
 
 COOKING.BREAD.DESCRIPTION,E.g. “Wheat bread”,{{materialDescription}} bread,{{materialDescription}} Brot
-COOKING.DUAL_INGREDIENT.DESCRIPTION,"E.g. “Tomato and potato”, to be used for for two ingredients together as below",{{materialOne}} and {{materialTwo}},{{materialOne}} und {{materialTwo}}
+COOKING.DUAL_INGREDIENT.DESCRIPTION,"E.g. “Tomato and potato” to be used for for two ingredients together as below",{{materialOne}} and {{materialTwo}},{{materialOne}} und {{materialTwo}}
 COOKING.SOUP.DESCRIPTION,"E.g. “Tomato soup”, “Tomato and potato soup”, “Vegetable soup”",{{materialDescription}} soup,Suppe aus {{materialDescription}}
 
 CROP.AFFLICTED_BY_PESTS,For when a crop plant is infested with insects and other pests and needs some work to remove them,Afflicted by pests,Von Schädlingen befallen
@@ -63,50 +63,50 @@ FOODSTUFF.ROCKBREAD.TOOLTIP,,This is an infamously tough bread which is so hard 
 FOODSTUFF.WHEAT-BREAD,"Actually just to describe “wheat” as a foodstuff, not specifically bread",Wheat,Weizen
 
 FUEL.SACK,,Fuel,Brennstoff
-FUEL.SACK.TOOLTIP,,"Fuel is required in the production of metal, both by the {{FURNITURE.BLOOMERY_FURNACE}} and the {{FURNITURE.FORGE}}.",
+FUEL.SACK.TOOLTIP,,"Fuel is required in the production of metal, both by the {{FURNITURE.BLOOMERY_FURNACE}} and the {{FURNITURE.FORGE}}.","Brennstoff wird für die Herstellung von Metall benötigt, sowohl von dem {{FURNITURE.BLOOMERY_FURNACE}} als auch der {{FURNITURE.FORGE}}."
 
-FURNITURE.BAKERS_WORKTOP,,Baker’s worktop,
-FURNITURE.BAKERS_WORKTOP.TOOLTIP,,A {{PROFESSION.CHEF}} works here to turn {{RESOURCE.FLOUR.SACK.PLURAL}} into {{INGREDIENT.DOUGH}}.,
+FURNITURE.BAKERS_WORKTOP,,Baker’s worktop,Bäckerarbeitsplatte
+FURNITURE.BAKERS_WORKTOP.TOOLTIP,,A {{PROFESSION.CHEF}} works here to turn {{RESOURCE.FLOUR.SACK.PLURAL}} into {{INGREDIENT.DOUGH}}.,Ein {{PROFESSION.CHEF}} arbeitet hier, um {{RESOURCE.FLOUR.SACK.PLURAL}} zu {{INGREDIENT.DOUGH}} zu verarbeiten.
 FURNITURE.BAKING_OVEN,For the baking of bread,Baker's oven,Backofen
-FURNITURE.BAKING_OVEN.TOOLTIP,,A {{PROFESSION.CHEF}} bakes loaves here using prepared {{INGREDIENT.DOUGH}}.,
-FURNITURE.BLOOMERY_FURNACE,A simple type of furnace to smelt metal from ore,Bloomery furnace,
-FURNITURE.BLOOMERY_FURNACE.TOOLTIP,,A {{PROFESSION.BLACKSMITH}} uses this hand-operated furnace to turn {{RESOURCE.ORE.CRUSHED.PLURAL}} and {{FUEL.SACK}} into {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.,
+FURNITURE.BAKING_OVEN.TOOLTIP,,A {{PROFESSION.CHEF}} bakes loaves here using prepared {{INGREDIENT.DOUGH}}.,Ein {{PROFESSION.CHEF}} backt hier Laibe aus {{INGREDIENT.DOUGH}}.
+FURNITURE.BLOOMERY_FURNACE,A simple type of furnace to smelt metal from ore,Bloomery furnace,Rennofen
+FURNITURE.BLOOMERY_FURNACE.TOOLTIP,,A {{PROFESSION.BLACKSMITH}} uses this hand-operated furnace to turn {{RESOURCE.ORE.CRUSHED.PLURAL}} and {{FUEL.SACK}} into {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.,Ein {{PROFESSION.BLACKSMITH}} benutzt diese handbetriebene Schmiede, um {{RESOURCE.ORE.CRUSHED.PLURAL}} und {{FUEL.SACK}} zu {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}} zu verarbeiten.
 FURNITURE.CARPENTRY_WORKBENCH,,Carpentry workbench,Schreinerstation
-FURNITURE.CARPENTRY_WORKBENCH.TOOLTIP,,"Most wooden items and tools are produced here, such as {{PRODUCT.BUCKET.PLURAL}} and {{PRODUCT.BARREL.PLURAL}}.",
+FURNITURE.CARPENTRY_WORKBENCH.TOOLTIP,,"Most wooden items and tools are produced here, such as {{PRODUCT.BUCKET.PLURAL}} and {{PRODUCT.BARREL.PLURAL}}.","Die meisten Gegenstände und Werkzeuge aus Holz werden hier hergestellt, wie {{PRODUCT.BUCKET.PLURAL}} und {{PRODUCT.BARREL.PLURAL}}."
 FURNITURE.CAULDRON,A large metal pot for cooking (common with Halloween),Cauldron,Kessel
-FURNITURE.CAULDRON.TOOLTIP,,A cauldron is used to serve a large quantity of soup to hungry settlers. The soup is produced in a {{ROOMS.KITCHEN}} before being moved to a {{ROOMS.FEASTING_HALL}} for serving.,
+FURNITURE.CAULDRON.TOOLTIP,,A cauldron is used to serve a large quantity of soup to hungry settlers. The soup is produced in a {{ROOMS.KITCHEN}} before being moved to a {{ROOMS.FEASTING_HALL}} for serving.,Ein Kessel wird dazu benutzt eine große Menge Suppe für hungrige Siedler herzustellen. Die Suppe wird in einer {{ROOMS.KITCHEN}} zubereitet ehe sie zum Servieren in die {{ROOMS.FEASTING_HALL}} gebracht wird.
 FURNITURE.CHAIR,,Chair,Stuhl
-FURNITURE.CHARCOAL_CLAMP,,Charcoal clamp,
-FURNITURE.CHARCOAL_CLAMP.TOOLTIP,,"This is a pile of {{RESOURCE.LOGS.PLURAL}} covered with {{MATERIAL_TYPE.EARTH}} and slowly burned to produce {{ORE.CHARCOAL.NOUN}}, which can then be used as {{FUEL.SACK}}.",
-FURNITURE.COKE_OVEN,,Coke oven,
-FURNITURE.COKE_OVEN.TOOLTIP,,A coke oven converts {{ORE.BITUMINOUS_COAL.NOUN}} into {{ORE.COKE.NOUN}} so that it can be used as {{FUEL.SACK}}.,
+FURNITURE.CHARCOAL_CLAMP,,Charcoal clamp,Kohlenmeiler
+FURNITURE.CHARCOAL_CLAMP.TOOLTIP,,"This is a pile of {{RESOURCE.LOGS.PLURAL}} covered with {{MATERIAL_TYPE.EARTH}} and slowly burned to produce {{ORE.CHARCOAL.NOUN}}, which can then be used as {{FUEL.SACK}}.","Dies ist ein Haufen {{RESOURCE.LOGS.PLURAL}} bedeckt mit {{MATERIAL_TYPE.EARTH}}, der langsam abgebrannt wird um {{ORE.CHARCOAL.NOUN}} zu produzieren, welche dann als {{FUEL.SACK}} dient."
+FURNITURE.COKE_OVEN,,Coke oven,Kokerei
+FURNITURE.COKE_OVEN.TOOLTIP,,A coke oven converts {{ORE.BITUMINOUS_COAL.NOUN}} into {{ORE.COKE.NOUN}} so that it can be used as {{FUEL.SACK}}.,Eine Kokerei wandelt {{ORE.BITUMINOUS_COAL.NOUN}} in {{ORE.COKE.NOUN}} um, so dass es als {{FUEL.SACK}} benutzt werden kann.
 FURNITURE.DESCRIPTION,E.g. “Granite stonemason workbench”,{{materialType.adjective}} {{furnitureType.noun}},{{furnitureType.noun}} aus {{materialType}}
-FURNITURE.DESCRIPTION.GENERIC_PROGRESS,,Progress to completion: {{progress}}%,
-FURNITURE.DESCRIPTION.MUSHROOM_INNOCULATION_IN_PROGRESS,,Progress to complete innoculation: {{progress}}%,
-FURNITURE.DESCRIPTION.SHOCKING_IN_PROGRESS,Used to display how long a mushroom log submerged in water needs to be “shocked” for,Progress to shock mushroom log: {{progress}}%,
-FURNITURE.DESCRIPTION.WAITING_FOR_ITEM,,Waiting for {{itemType.noun}},
-FURNITURE.DESCRIPTION.WAITING_FOR_LIQUID,,Waiting to be filled,
-FURNITURE.DESCRIPTION.WAITING_FOR_MUSHROOM_SPAWN,,Waiting to be injected with mushroom spawn,
+FURNITURE.DESCRIPTION.GENERIC_PROGRESS,,Progress to completion: {{progress}}%,Fortschritt bis zur Fertigstellung: {{progress}}%
+FURNITURE.DESCRIPTION.MUSHROOM_INNOCULATION_IN_PROGRESS,,Progress to complete innoculation: {{progress}}%,Fortschritt bis zur kompletten Beimpfung: {{progress}}%
+FURNITURE.DESCRIPTION.SHOCKING_IN_PROGRESS,Used to display how long a mushroom log submerged in water needs to be “shocked” for,Progress to shock mushroom log: {{progress}}%,Fortschritt bis zum Pilzstammschock: {{progress}}%
+FURNITURE.DESCRIPTION.WAITING_FOR_ITEM,,Waiting for {{itemType.noun}},Wartet auf {{itemType.noun}}
+FURNITURE.DESCRIPTION.WAITING_FOR_LIQUID,,Waiting to be filled,Wartet darauf gefüllt zu werden
+FURNITURE.DESCRIPTION.WAITING_FOR_MUSHROOM_SPAWN,,Waiting to be injected with mushroom spawn,Wartet darauf mit Pilzkultur injiziert zu werden
 FURNITURE.FEASTING_TABLE,A very large table for a feast,Feasting table,Festtafel
-FURNITURE.FEASTING_TABLE.TOOLTIP,,"With a {{FURNITURE.CHAIR}} in place, your settlers will enjoy their meals at this table.",
-FURNITURE.FLOUR_MILL,This is a table with a hand-operated flour mill stone on top,Gristmill,
-FURNITURE.FLOUR_MILL.TOOLTIP,,The gristmill grinds {{VEGETABLE.WHEAT}} into {{RESOURCE.FLOUR.SACK.NOUN}} so that it can be used by a {{PROFESSION.CHEF}}.,
-FURNITURE.FORGE,,Forge,
-FURNITURE.FORGE.TOOLTIP,,This is where a {{PROFESSION.BLACKSMITH}} works with {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}} and {{FUEL.SACK}} to craft items and weapons.,
-FURNITURE.GRAVE,,Grave,
-FURNITURE.GRAVE.TOOLTIP,,A hastily-dug grave for deceased settlers that can only be placed in {{MATERIAL_TYPE.EARTH}}.,
+FURNITURE.FEASTING_TABLE.TOOLTIP,,"With a {{FURNITURE.CHAIR}} in place, your settlers will enjoy their meals at this table.","Mit platzierten {{FURNITURE.CHAIR}} können deine Siedler ihre Mahlzeiten an diesem Tisch genießen."
+FURNITURE.FLOUR_MILL,This is a table with a hand-operated flour mill stone on top,Gristmill,Getreidemühle
+FURNITURE.FLOUR_MILL.TOOLTIP,,The gristmill grinds {{VEGETABLE.WHEAT}} into {{RESOURCE.FLOUR.SACK.NOUN}} so that it can be used by a {{PROFESSION.CHEF}}.,Die Getreidemühle mahlt {{VEGETABLE.WHEAT}} zu {{RESOURCE.FLOUR.SACK.NOUN}} so dass es von einem {{PROFESSION.CHEF}} genutzt werden kann.
+FURNITURE.FORGE,,Forge,Schmiede
+FURNITURE.FORGE.TOOLTIP,,This is where a {{PROFESSION.BLACKSMITH}} works with {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}} and {{FUEL.SACK}} to craft items and weapons.,Hier arbeitet ein {{PROFESSION.BLACKSMITH}} mit {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}} und {{FUEL.SACK}}, um Gegenstände und Waffen herzustellen.
+FURNITURE.GRAVE,,Grave,Grab
+FURNITURE.GRAVE.TOOLTIP,,A hastily-dug grave for deceased settlers that can only be placed in {{MATERIAL_TYPE.EARTH}}.,Ein rasch ausgehobenes Grab für verstorbene Siedler. Es kann nur in {{MATERIAL_TYPE.EARTH}} angelegt werden.
 FURNITURE.KITCHEN_WORKTOP,Simple piece of furniture in a kitchen used to hold ingredients on top of it,Kitchen worktop,Küchentisch
-FURNITURE.KITCHEN_WORKTOP.TOOLTIP,,An area to store ingredients for a {{PROFESSION.CHEF}} to cook soup.,
+FURNITURE.KITCHEN_WORKTOP.TOOLTIP,,An area to store ingredients for a {{PROFESSION.CHEF}} to cook soup.,Ein Bereich, um Zutaten zu verstauen, die von einem {{PROFESSION.CHEF}} zum Suppe Kochen verwendet werden können.
 FURNITURE.LANTERN,,Lantern,Laterne
-FURNITURE.LANTERN.TOOLTIP,,A lantern provides light – this does not currently have an in-game effect.,
+FURNITURE.LANTERN.TOOLTIP,,A lantern provides light – this does not currently have an in-game effect.,Eine Laterne verbreitet Licht – hat momentan noch keinen Effekt im Spiel.
 FURNITURE.LARGE_TABLE,,Large table,Esstisch
-FURNITURE.MUSHROOM_LOG,,Mushroom log,
-FURNITURE.MUSHROOM_LOG.TOOLTIP,,"A log that has been injected with {{INGREDIENT.MUSHROOM.SPAWN.PLURAL}} to produce several harvests of delicious, juicy mushrooms.",
-FURNITURE.MUSHROOM_SHOCK_TANK,This is a trough of water used to immerse mushroom logs in for a period of time,Shock tank,
-FURNITURE.MUSHROOM_SHOCK_TANK.TOOLTIP,,"After innoculation, a {{FURNITURE.MUSHROOM_LOG}} is placed in this tank to “shock” the mushroom colony and encourage it to grow mushrooms.",
-FURNITURE.ORE_CRUSHING_STATION,,Ore crushing station,
-FURNITURE.ORE_CRUSHING_STATION.TOOLTIP,,Raw {{RESOURCE.ORE.UNREFINED.PLURAL}} is crushed to a more workable size so that it can be used in a {{FURNITURE.SMELTER}}.,
-FURNITURE.PILLAR,A pillar used to support a roof,Pillar,
+FURNITURE.MUSHROOM_LOG,,Mushroom log,Pilzstamm
+FURNITURE.MUSHROOM_LOG.TOOLTIP,,"A log that has been injected with {{INGREDIENT.MUSHROOM.SPAWN.PLURAL}} to produce several harvests of delicious, juicy mushrooms.","Ein Holzstamm, der mit {{INGREDIENT.MUSHROOM.SPAWN.PLURAL}} injiziert werden kann, um mehrere Ernten an leckeren, saftigen Pilzen hervorzubringen."
+FURNITURE.MUSHROOM_SHOCK_TANK,This is a trough of water used to immerse mushroom logs in for a period of time,Shock tank,Schocktank
+FURNITURE.MUSHROOM_SHOCK_TANK.TOOLTIP,,"After innoculation, a {{FURNITURE.MUSHROOM_LOG}} is placed in this tank to “shock” the mushroom colony and encourage it to grow mushrooms.","Ein {{FURNITURE.MUSHROOM_LOG}} wird nach der Beimpfung in diesen Wassertank gelegt, um die Pilzkultur zu “schocken” und somit Pilzwachstum zu starten."
+FURNITURE.ORE_CRUSHING_STATION,,Ore crushing station,Erzzerkleinerungsstation
+FURNITURE.ORE_CRUSHING_STATION.TOOLTIP,,Raw {{RESOURCE.ORE.UNREFINED.PLURAL}} is crushed to a more workable size so that it can be used in a {{FURNITURE.SMELTER}}.,Pures {{RESOURCE.ORE.UNREFINED.PLURAL}} wird zu einer mehr verarbeitbaren Größe zerkleinert, so dass es in einer {{FURNITURE.SMELTER}} genutzt werden kann.
+FURNITURE.PILLAR,A pillar used to support a roof,Pillar,Stützpfeiler
 FURNITURE.PILLAR.TOOLTIP,,A pillar is required to stop large mined-out areas from collapsing. An area of 7x7 tiles that have been mined without any pillars or other supports in place will eventually collapse.,
 FURNITURE.SARCOPHAGUS,A stone tomb,Sarcophagus,
 FURNITURE.SARCOPHAGUS.TOOLTIP,,This elaborate stone container is the final resting place of a deceased settler.,
