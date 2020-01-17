@@ -304,8 +304,8 @@ HAPPINESS_MODIFIER.VERY_TIRED,,Extremely tired,极度疲惫
 
 HAULING.ASSIGNMENT.DESCRIPTION,,{{quantity}} assigned to {{targetDescription}},{{数量}} 已分配给 {{目标描述}}
 
-HUMANOID.BROKEN.DESCRIPTION,"E.g. “Urist McScrooge, insane dwarf”","{{name}}, {{madness.adjective}} {{race.noun}}",{{{name}}，{{疯狂. 形容词}} {{种族. 名词}}
-HUMANOID.DESCRIPTION,"E.g. “Urist McScrooge, Dwarven miner”","{{name}}, {{race.adjective}} {{profession.noun}}",{{{name}}，{{种族. 形容词}} {{专业. 名词}}
+HUMANOID.BROKEN.DESCRIPTION,"E.g. “Urist McScrooge, insane dwarf”","{{name}}, {{madness.adjective}} {{race.noun}}","{{name}}, {{madness.adjective}} {{race.noun}}"
+HUMANOID.DESCRIPTION,"E.g. “Urist McScrooge, Dwarven miner”","{{name}}, {{race.adjective}} {{profession.noun}}","{{name}}, {{race.adjective}} {{profession.noun}}"
 
 INGREDIENT.DOUGH,To be combined with the above as “bread dough”,Dough,面团
 INGREDIENT.FLOUR,,Flour,面粉
@@ -321,8 +321,8 @@ INGREDIENT.VEGETABLE.SACK.NOUN,E.g. “Sack containing a potato”,Sack,麻袋
 
 INVENTORY.CONTAINS.LABEL,This is the label of “inventory” to go above a list of items contained within a piece of furniture or held by a character,Inventory:,库存：
 
-ITEM.DESCRIPTION,"E.g. “Iron axe”, “Beech wood fishing rod”, “3 marble blocks”",{{quantity_if_multiple}}{{materialType.adjective}} {{itemType.noun_or_plural}},{{数量 _ 如果 _ 多个}} {{物质类型. 形容词}} {{商品类型. 名词 _ 复数}}
-ITEM.INGREDIENT.DESCRIPTION,E.g. “2 potatoes”,{{quantity_if_multiple}}{{materialType.noun_or_plural}},{{数量 _ 如果 _ 多个}} {{物质类型. 名词 _ 或复数}}}
+ITEM.DESCRIPTION,"E.g. “Iron axe”, “Beech wood fishing rod”, “3 marble blocks”",{{quantity_if_multiple}}{{materialType.adjective}} {{itemType.noun_or_plural}},{{quantity_if_multiple}}{{materialType.adjective}} {{itemType.noun_or_plural}}
+ITEM.INGREDIENT.DESCRIPTION,E.g. “2 potatoes”,{{quantity_if_multiple}}{{materialType.noun_or_plural}},{{quantity_if_multiple}}{{materialType.noun_or_plural}}
 
 ITEM_GROUP.FUEL.PLURAL,,Fuel,燃料
 ITEM_GROUP.PRODUCT.PLURAL,,Products,产品

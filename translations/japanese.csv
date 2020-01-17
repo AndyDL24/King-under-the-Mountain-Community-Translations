@@ -321,8 +321,8 @@ INGREDIENT.VEGETABLE.SACK.NOUN,E.g. “Sack containing a potato”,Sack,袋だ
 
 INVENTORY.CONTAINS.LABEL,This is the label of “inventory” to go above a list of items contained within a piece of furniture or held by a character,Inventory:,在庫:
 
-ITEM.DESCRIPTION,"E.g. “Iron axe”, “Beech wood fishing rod”, “3 marble blocks”",{{quantity_if_multiple}}{{materialType.adjective}} {{itemType.noun_or_plural}},{{複数}} {{素材の種類.形容詞}} {{商品の種類.名または複数}}
-ITEM.INGREDIENT.DESCRIPTION,E.g. “2 potatoes”,{{quantity_if_multiple}}{{materialType.noun_or_plural}},{{複数}} {{実体種.名または複数}}
+ITEM.DESCRIPTION,"E.g. “Iron axe”, “Beech wood fishing rod”, “3 marble blocks”",{{quantity_if_multiple}}{{materialType.adjective}} {{itemType.noun_or_plural}},{{quantity_if_multiple}}{{materialType.adjective}} {{itemType.noun_or_plural}}
+ITEM.INGREDIENT.DESCRIPTION,E.g. “2 potatoes”,{{quantity_if_multiple}}{{materialType.noun_or_plural}},{{quantity_if_multiple}}{{materialType.noun_or_plural}}hui
 
 ITEM_GROUP.FUEL.PLURAL,,Fuel,燃料
 ITEM_GROUP.PRODUCT.PLURAL,,Products,製品
