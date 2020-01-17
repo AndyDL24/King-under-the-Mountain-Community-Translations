@@ -12,7 +12,6 @@
     "labelEn": "French",
     "code": "fr",
     "icon": "France",
-    "enabled": false,
     "fallback": "en-gb",
     "filename": "french.csv"
   },
@@ -21,7 +20,6 @@
     "labelEn": "Italian",
     "code": "it",
     "icon": "Italy",
-    "enabled": false,
     "fallback": "en-gb",
     "filename": "italian.csv"
   },
@@ -30,7 +28,6 @@
     "labelEn": "Spanish",
     "code": "es",
     "icon": "Spain",
-    "enabled": false,
     "fallback": "en-gb",
     "filename": "spanish.csv"
   },
@@ -39,7 +36,6 @@
     "labelEn": "Portuguese",
     "code": "pt",
     "icon": "Portugal",
-    "enabled": false,
     "fallback": "en-gb",
     "filename": "portuguese.csv"
   },
@@ -48,7 +44,6 @@
     "labelEn": "Portuguese BR",
     "code": "pt-br",
     "icon": "Brazil",
-    "enabled": false,
     "fallback": "pt",
     "filename": "portuguese br.csv"
   },
@@ -66,7 +61,6 @@
     "labelEn": "Russian",
     "code": "ru",
     "icon": "Russia",
-    "enabled": false,
     "fallback": "en-gb",
     "filename": "russian.csv"
   },
@@ -93,7 +87,6 @@
     "labelEn": "Swedish",
     "code": "sv",
     "icon": "Sweden",
-    "enabled": false,
     "fallback": "en-gb",
     "filename": "swedish.csv"
   },
@@ -129,7 +122,6 @@
     "labelEn": "Japanese",
     "code": "ja",
     "icon": "Japan",
-    "enabled": false,
     "fallback": "en-gb",
     "filename": "japanese.csv"
   },
@@ -138,7 +130,6 @@
     "labelEn": "Simplified Chinese",
     "code": "zh-cn",
     "icon": "China",
-    "enabled": false,
     "fallback": "en-gb",
     "filename": "simplified-chinese.csv"
   },
@@ -147,7 +138,6 @@
     "labelEn": "Korean",
     "code": "ko",
     "icon": "South-Korea",
-    "enabled": false,
     "fallback": "en-gb",
     "filename": "korean.csv"
   }
