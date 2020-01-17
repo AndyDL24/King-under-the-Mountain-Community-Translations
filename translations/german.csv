@@ -29,7 +29,7 @@ CONSTRUCTION.STATUS.WAITING_FOR_COMPLETION,This is displayed once all resources 
 CONSTRUCTION.STATUS.WAITING_FOR_RESOURCES,This is displayed while a construction is waiting for resource items to be placed in the build area,Waiting for resources to arrive,Wartet auf Materialien
 
 COOKING.BREAD.DESCRIPTION,E.g. “Wheat bread”,{{materialDescription}} bread,{{materialDescription}} Brot
-COOKING.DUAL_INGREDIENT.DESCRIPTION,"E.g. “Tomato and potato” to be used for for two ingredients together as below",{{materialOne}} and {{materialTwo}},{{materialOne}} und {{materialTwo}}
+COOKING.DUAL_INGREDIENT.DESCRIPTION,"E.g. “Tomato and potato”, to be used for for two ingredients together as below",{{materialOne}} and {{materialTwo}},{{materialOne}} und {{materialTwo}}
 COOKING.SOUP.DESCRIPTION,"E.g. “Tomato soup”, “Tomato and potato soup”, “Vegetable soup”",{{materialDescription}} soup,Suppe aus {{materialDescription}}
 
 CROP.AFFLICTED_BY_PESTS,For when a crop plant is infested with insects and other pests and needs some work to remove them,Afflicted by pests,Von Schädlingen befallen
@@ -88,7 +88,7 @@ FURNITURE.DESCRIPTION.WAITING_FOR_ITEM,,Waiting for {{itemType.noun}},Wartet auf
 FURNITURE.DESCRIPTION.WAITING_FOR_LIQUID,,Waiting to be filled,Wartet darauf gefüllt zu werden
 FURNITURE.DESCRIPTION.WAITING_FOR_MUSHROOM_SPAWN,,Waiting to be injected with mushroom spawn,Wartet darauf mit Pilzkultur injiziert zu werden
 FURNITURE.FEASTING_TABLE,A very large table for a feast,Feasting table,Festtafel
-FURNITURE.FEASTING_TABLE.TOOLTIP,,"With a {{FURNITURE.CHAIR}} in place, your settlers will enjoy their meals at this table.","Mit platzierten {{FURNITURE.CHAIR}} können deine Siedler ihre Mahlzeiten an diesem Tisch genießen."
+FURNITURE.FEASTING_TABLE.TOOLTIP,,"With a {{FURNITURE.CHAIR}} in place, your settlers will enjoy their meals at this table.",Mit platzierten {{FURNITURE.CHAIR}} können deine Siedler ihre Mahlzeiten an diesem Tisch genießen.
 FURNITURE.FLOUR_MILL,This is a table with a hand-operated flour mill stone on top,Gristmill,Getreidemühle
 FURNITURE.FLOUR_MILL.TOOLTIP,,The gristmill grinds {{VEGETABLE.WHEAT}} into {{RESOURCE.FLOUR.SACK.NOUN}} so that it can be used by a {{PROFESSION.CHEF}}.,Die Getreidemühle mahlt {{VEGETABLE.WHEAT}} zu {{RESOURCE.FLOUR.SACK.NOUN}} so dass es von einem {{PROFESSION.CHEF}} genutzt werden kann.
 FURNITURE.FORGE,,Forge,Schmiede
@@ -105,7 +105,7 @@ FURNITURE.MUSHROOM_LOG.TOOLTIP,,"A log that has been injected with {{INGREDIENT.
 FURNITURE.MUSHROOM_SHOCK_TANK,This is a trough of water used to immerse mushroom logs in for a period of time,Shock tank,Schocktank
 FURNITURE.MUSHROOM_SHOCK_TANK.TOOLTIP,,"After innoculation, a {{FURNITURE.MUSHROOM_LOG}} is placed in this tank to “shock” the mushroom colony and encourage it to grow mushrooms.","Ein {{FURNITURE.MUSHROOM_LOG}} wird nach der Beimpfung in diesen Wassertank gelegt, um die Pilzkultur zu “schocken” und somit Pilzwachstum zu starten."
 FURNITURE.ORE_CRUSHING_STATION,,Ore crushing station,Erzzerkleinerungsstation
-FURNITURE.ORE_CRUSHING_STATION.TOOLTIP,,Raw {{RESOURCE.ORE.UNREFINED.PLURAL}} is crushed to a more workable size so that it can be used in a {{FURNITURE.SMELTER}}.,"Pures {{RESOURCE.ORE.UNREFINED.PLURAL}} wird zu einer mehr verarbeitbaren Größe zerkleinert, so dass es in einer {{FURNITURE.SMELTER}} genutzt werden kann."
+FURNITURE.ORE_CRUSHING_STATION.TOOLTIP,,Raw {{RESOURCE.ORE.UNREFINED.PLURAL}} is crushed to a more workable size so that it can be used in a {{FURNITURE.BLOOMERY_FURNACE}}.,"Pures {{RESOURCE.ORE.UNREFINED.PLURAL}} wird zu einer mehr verarbeitbaren Größe zerkleinert, so dass es in einer {{FURNITURE.BLOOMERY_FURNACE}} genutzt werden kann."
 FURNITURE.PILLAR,A pillar used to support a roof,Pillar,Stützpfeiler
 FURNITURE.PILLAR.TOOLTIP,,A pillar is required to stop large mined-out areas from collapsing. An area of 7x7 tiles that have been mined without any pillars or other supports in place will eventually collapse.,
 FURNITURE.SARCOPHAGUS,A stone tomb,Sarcophagus,

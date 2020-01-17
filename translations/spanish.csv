@@ -105,7 +105,7 @@ FURNITURE.MUSHROOM_LOG.TOOLTIP,,"A log that has been injected with {{INGREDIENT.
 FURNITURE.MUSHROOM_SHOCK_TANK,This is a trough of water used to immerse mushroom logs in for a period of time,Shock tank,
 FURNITURE.MUSHROOM_SHOCK_TANK.TOOLTIP,,"After innoculation, a {{FURNITURE.MUSHROOM_LOG}} is placed in this tank to “shock” the mushroom colony and encourage it to grow mushrooms.",
 FURNITURE.ORE_CRUSHING_STATION,,Ore crushing station,
-FURNITURE.ORE_CRUSHING_STATION.TOOLTIP,,Raw {{RESOURCE.ORE.UNREFINED.PLURAL}} is crushed to a more workable size so that it can be used in a {{FURNITURE.SMELTER}}.,
+FURNITURE.ORE_CRUSHING_STATION.TOOLTIP,,Raw {{RESOURCE.ORE.UNREFINED.PLURAL}} is crushed to a more workable size so that it can be used in a {{FURNITURE.BLOOMERY_FURNACE}}.,
 FURNITURE.PILLAR,A pillar used to support a roof,Pillar,
 FURNITURE.PILLAR.TOOLTIP,,A pillar is required to stop large mined-out areas from collapsing. An area of 7x7 tiles that have been mined without any pillars or other supports in place will eventually collapse.,
 FURNITURE.SARCOPHAGUS,A stone tomb,Sarcophagus,
