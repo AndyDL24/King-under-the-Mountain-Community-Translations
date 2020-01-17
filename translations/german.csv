@@ -33,7 +33,7 @@ COOKING.DUAL_INGREDIENT.DESCRIPTION,"E.g. “Tomato and potato” to be used for
 COOKING.SOUP.DESCRIPTION,"E.g. “Tomato soup”, “Tomato and potato soup”, “Vegetable soup”",{{materialDescription}} soup,Suppe aus {{materialDescription}}
 
 CROP.AFFLICTED_BY_PESTS,For when a crop plant is infested with insects and other pests and needs some work to remove them,Afflicted by pests,Von Schädlingen befallen
-CROP.AFFLICTED_BY_PESTS.TOOLTIP,,This crop has been afflicted by an excessive number of aphids and other insects which need to be removed by a {{PROFESSION.FARMER}} before it can flourish again. Not removing the pests in time could mean that this crop dies!,Diese Pflanze ist von einer hohen Anzahl an Blattläusen und anderen Insekten befallen, die von einem {{PROFESSION.FARMER}} entfernt werden müssen bevor sie wieder gedeihen kann. Die Pflanze kann sterben wenn die Schädlinge nicht rechtzeitig entfernt werden!
+CROP.AFFLICTED_BY_PESTS.TOOLTIP,,This crop has been afflicted by an excessive number of aphids and other insects which need to be removed by a {{PROFESSION.FARMER}} before it can flourish again. Not removing the pests in time could mean that this crop dies!,"Diese Pflanze ist von einer hohen Anzahl an Blattläusen und anderen Insekten befallen, die von einem {{PROFESSION.FARMER}} entfernt werden müssen bevor sie wieder gedeihen kann. Die Pflanze kann sterben wenn die Schädlinge nicht rechtzeitig entfernt werden!"
 CROP.DESCRIPTION,,{{materialType.noun}} plant,{{materialType.noun}}-Pflanze
 CROP.HARVEST_PROGRESS,E.g. “Progress towards harvest: 30%”,Progress towards harvest: {{progress}}%,Reifungsprozess: {{progress}} %
 
@@ -59,18 +59,18 @@ FLOOR.TILLED_EARTH,,Tilled earth,Ackerboden
 FLOOR.UNEXPLORED,Used when the player clicks on an area they have not discovered yet,Unexplored,Nicht erkundet
 
 FOODSTUFF.ROCKBREAD,This is a made-up fantasy food,Rockbread,Steinbrot
-FOODSTUFF.ROCKBREAD.TOOLTIP,,This is an infamously tough bread which is so hard and practically inedible that it takes a very long time to turn mouldy. The human explorer J. A. Moffatt once described eating it as “akin to chewing gravel that has been dredged from a swamp”. Fortunately most dwarves don’t seem to mind.,Dies ist ein berüchtigt zähes Brot, das so hart und ungenießbar ist, dass es eine sehr lange Zeit braucht bis es schimmelt. Der menschliche Forscher J.A. Moffatt beschrieb den Verzehr einmal damit “Kieselsteine zu kauen, die aus einem Sumpf stammen”. Glücklicherweise scheinen die meisten Zwerge zufrieden damit zu sein.
+FOODSTUFF.ROCKBREAD.TOOLTIP,,This is an infamously tough bread which is so hard and practically inedible that it takes a very long time to turn mouldy. The human explorer J. A. Moffatt once described eating it as “akin to chewing gravel that has been dredged from a swamp”. Fortunately most dwarves don’t seem to mind.,"Dies ist ein berüchtigt zähes Brot, das so hart und ungenießbar ist, dass es eine sehr lange Zeit braucht bis es schimmelt. Der menschliche Forscher J.A. Moffatt beschrieb den Verzehr einmal damit “Kieselsteine zu kauen, die aus einem Sumpf stammen”. Glücklicherweise scheinen die meisten Zwerge zufrieden damit zu sein."
 FOODSTUFF.WHEAT-BREAD,"Actually just to describe “wheat” as a foodstuff, not specifically bread",Wheat,Weizen
 
 FUEL.SACK,,Fuel,Brennstoff
 FUEL.SACK.TOOLTIP,,"Fuel is required in the production of metal, both by the {{FURNITURE.BLOOMERY_FURNACE}} and the {{FURNITURE.FORGE}}.","Brennstoff wird für die Herstellung von Metall benötigt, sowohl von dem {{FURNITURE.BLOOMERY_FURNACE}} als auch der {{FURNITURE.FORGE}}."
 
 FURNITURE.BAKERS_WORKTOP,,Baker’s worktop,Bäckerarbeitsplatte
-FURNITURE.BAKERS_WORKTOP.TOOLTIP,,A {{PROFESSION.CHEF}} works here to turn {{RESOURCE.FLOUR.SACK.PLURAL}} into {{INGREDIENT.DOUGH}}.,Ein {{PROFESSION.CHEF}} arbeitet hier, um {{RESOURCE.FLOUR.SACK.PLURAL}} zu {{INGREDIENT.DOUGH}} zu verarbeiten.
+FURNITURE.BAKERS_WORKTOP.TOOLTIP,,A {{PROFESSION.CHEF}} works here to turn {{RESOURCE.FLOUR.SACK.PLURAL}} into {{INGREDIENT.DOUGH}}.,"Ein {{PROFESSION.CHEF}} arbeitet hier, um {{RESOURCE.FLOUR.SACK.PLURAL}} zu {{INGREDIENT.DOUGH}} zu verarbeiten."
 FURNITURE.BAKING_OVEN,For the baking of bread,Baker's oven,Backofen
 FURNITURE.BAKING_OVEN.TOOLTIP,,A {{PROFESSION.CHEF}} bakes loaves here using prepared {{INGREDIENT.DOUGH}}.,Ein {{PROFESSION.CHEF}} backt hier Laibe aus {{INGREDIENT.DOUGH}}.
 FURNITURE.BLOOMERY_FURNACE,A simple type of furnace to smelt metal from ore,Bloomery furnace,Rennofen
-FURNITURE.BLOOMERY_FURNACE.TOOLTIP,,A {{PROFESSION.BLACKSMITH}} uses this hand-operated furnace to turn {{RESOURCE.ORE.CRUSHED.PLURAL}} and {{FUEL.SACK}} into {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.,Ein {{PROFESSION.BLACKSMITH}} benutzt diese handbetriebene Schmiede, um {{RESOURCE.ORE.CRUSHED.PLURAL}} und {{FUEL.SACK}} zu {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}} zu verarbeiten.
+FURNITURE.BLOOMERY_FURNACE.TOOLTIP,,A {{PROFESSION.BLACKSMITH}} uses this hand-operated furnace to turn {{RESOURCE.ORE.CRUSHED.PLURAL}} and {{FUEL.SACK}} into {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.,"Ein {{PROFESSION.BLACKSMITH}} benutzt diese handbetriebene Schmiede, um {{RESOURCE.ORE.CRUSHED.PLURAL}} und {{FUEL.SACK}} zu {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}} zu verarbeiten."
 FURNITURE.CARPENTRY_WORKBENCH,,Carpentry workbench,Schreinerstation
 FURNITURE.CARPENTRY_WORKBENCH.TOOLTIP,,"Most wooden items and tools are produced here, such as {{PRODUCT.BUCKET.PLURAL}} and {{PRODUCT.BARREL.PLURAL}}.","Die meisten Gegenstände und Werkzeuge aus Holz werden hier hergestellt, wie {{PRODUCT.BUCKET.PLURAL}} und {{PRODUCT.BARREL.PLURAL}}."
 FURNITURE.CAULDRON,A large metal pot for cooking (common with Halloween),Cauldron,Kessel
@@ -79,7 +79,7 @@ FURNITURE.CHAIR,,Chair,Stuhl
 FURNITURE.CHARCOAL_CLAMP,,Charcoal clamp,Kohlenmeiler
 FURNITURE.CHARCOAL_CLAMP.TOOLTIP,,"This is a pile of {{RESOURCE.LOGS.PLURAL}} covered with {{MATERIAL_TYPE.EARTH}} and slowly burned to produce {{ORE.CHARCOAL.NOUN}}, which can then be used as {{FUEL.SACK}}.","Dies ist ein Haufen {{RESOURCE.LOGS.PLURAL}} bedeckt mit {{MATERIAL_TYPE.EARTH}}, der langsam abgebrannt wird um {{ORE.CHARCOAL.NOUN}} zu produzieren, welche dann als {{FUEL.SACK}} dient."
 FURNITURE.COKE_OVEN,,Coke oven,Kokerei
-FURNITURE.COKE_OVEN.TOOLTIP,,A coke oven converts {{ORE.BITUMINOUS_COAL.NOUN}} into {{ORE.COKE.NOUN}} so that it can be used as {{FUEL.SACK}}.,Eine Kokerei wandelt {{ORE.BITUMINOUS_COAL.NOUN}} in {{ORE.COKE.NOUN}} um, so dass es als {{FUEL.SACK}} benutzt werden kann.
+FURNITURE.COKE_OVEN.TOOLTIP,,A coke oven converts {{ORE.BITUMINOUS_COAL.NOUN}} into {{ORE.COKE.NOUN}} so that it can be used as {{FUEL.SACK}}.,"Eine Kokerei wandelt {{ORE.BITUMINOUS_COAL.NOUN}} in {{ORE.COKE.NOUN}} um, so dass es als {{FUEL.SACK}} benutzt werden kann."
 FURNITURE.DESCRIPTION,E.g. “Granite stonemason workbench”,{{materialType.adjective}} {{furnitureType.noun}},{{furnitureType.noun}} aus {{materialType}}
 FURNITURE.DESCRIPTION.GENERIC_PROGRESS,,Progress to completion: {{progress}}%,Fortschritt bis zur Fertigstellung: {{progress}}%
 FURNITURE.DESCRIPTION.MUSHROOM_INNOCULATION_IN_PROGRESS,,Progress to complete innoculation: {{progress}}%,Fortschritt bis zur kompletten Beimpfung: {{progress}}%
@@ -92,11 +92,11 @@ FURNITURE.FEASTING_TABLE.TOOLTIP,,"With a {{FURNITURE.CHAIR}} in place, your set
 FURNITURE.FLOUR_MILL,This is a table with a hand-operated flour mill stone on top,Gristmill,Getreidemühle
 FURNITURE.FLOUR_MILL.TOOLTIP,,The gristmill grinds {{VEGETABLE.WHEAT}} into {{RESOURCE.FLOUR.SACK.NOUN}} so that it can be used by a {{PROFESSION.CHEF}}.,Die Getreidemühle mahlt {{VEGETABLE.WHEAT}} zu {{RESOURCE.FLOUR.SACK.NOUN}} so dass es von einem {{PROFESSION.CHEF}} genutzt werden kann.
 FURNITURE.FORGE,,Forge,Schmiede
-FURNITURE.FORGE.TOOLTIP,,This is where a {{PROFESSION.BLACKSMITH}} works with {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}} and {{FUEL.SACK}} to craft items and weapons.,Hier arbeitet ein {{PROFESSION.BLACKSMITH}} mit {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}} und {{FUEL.SACK}}, um Gegenstände und Waffen herzustellen.
+FURNITURE.FORGE.TOOLTIP,,This is where a {{PROFESSION.BLACKSMITH}} works with {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}} and {{FUEL.SACK}} to craft items and weapons.,"Hier arbeitet ein {{PROFESSION.BLACKSMITH}} mit {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}} und {{FUEL.SACK}}, um Gegenstände und Waffen herzustellen."
 FURNITURE.GRAVE,,Grave,Grab
 FURNITURE.GRAVE.TOOLTIP,,A hastily-dug grave for deceased settlers that can only be placed in {{MATERIAL_TYPE.EARTH}}.,Ein rasch ausgehobenes Grab für verstorbene Siedler. Es kann nur in {{MATERIAL_TYPE.EARTH}} angelegt werden.
 FURNITURE.KITCHEN_WORKTOP,Simple piece of furniture in a kitchen used to hold ingredients on top of it,Kitchen worktop,Küchentisch
-FURNITURE.KITCHEN_WORKTOP.TOOLTIP,,An area to store ingredients for a {{PROFESSION.CHEF}} to cook soup.,Ein Bereich, um Zutaten zu verstauen, die von einem {{PROFESSION.CHEF}} zum Suppe Kochen verwendet werden können.
+FURNITURE.KITCHEN_WORKTOP.TOOLTIP,,An area to store ingredients for a {{PROFESSION.CHEF}} to cook soup.,"Ein Bereich, um Zutaten zu verstauen, die von einem {{PROFESSION.CHEF}} zum Suppe Kochen verwendet werden können."
 FURNITURE.LANTERN,,Lantern,Laterne
 FURNITURE.LANTERN.TOOLTIP,,A lantern provides light – this does not currently have an in-game effect.,Eine Laterne verbreitet Licht – hat momentan noch keinen Effekt im Spiel.
 FURNITURE.LARGE_TABLE,,Large table,Esstisch
@@ -105,7 +105,7 @@ FURNITURE.MUSHROOM_LOG.TOOLTIP,,"A log that has been injected with {{INGREDIENT.
 FURNITURE.MUSHROOM_SHOCK_TANK,This is a trough of water used to immerse mushroom logs in for a period of time,Shock tank,Schocktank
 FURNITURE.MUSHROOM_SHOCK_TANK.TOOLTIP,,"After innoculation, a {{FURNITURE.MUSHROOM_LOG}} is placed in this tank to “shock” the mushroom colony and encourage it to grow mushrooms.","Ein {{FURNITURE.MUSHROOM_LOG}} wird nach der Beimpfung in diesen Wassertank gelegt, um die Pilzkultur zu “schocken” und somit Pilzwachstum zu starten."
 FURNITURE.ORE_CRUSHING_STATION,,Ore crushing station,Erzzerkleinerungsstation
-FURNITURE.ORE_CRUSHING_STATION.TOOLTIP,,Raw {{RESOURCE.ORE.UNREFINED.PLURAL}} is crushed to a more workable size so that it can be used in a {{FURNITURE.SMELTER}}.,Pures {{RESOURCE.ORE.UNREFINED.PLURAL}} wird zu einer mehr verarbeitbaren Größe zerkleinert, so dass es in einer {{FURNITURE.SMELTER}} genutzt werden kann.
+FURNITURE.ORE_CRUSHING_STATION.TOOLTIP,,Raw {{RESOURCE.ORE.UNREFINED.PLURAL}} is crushed to a more workable size so that it can be used in a {{FURNITURE.SMELTER}}.,"Pures {{RESOURCE.ORE.UNREFINED.PLURAL}} wird zu einer mehr verarbeitbaren Größe zerkleinert, so dass es in einer {{FURNITURE.SMELTER}} genutzt werden kann."
 FURNITURE.PILLAR,A pillar used to support a roof,Pillar,Stützpfeiler
 FURNITURE.PILLAR.TOOLTIP,,A pillar is required to stop large mined-out areas from collapsing. An area of 7x7 tiles that have been mined without any pillars or other supports in place will eventually collapse.,
 FURNITURE.SARCOPHAGUS,A stone tomb,Sarcophagus,
