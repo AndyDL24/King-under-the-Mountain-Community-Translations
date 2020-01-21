@@ -237,12 +237,13 @@ GUI.DIALOG.ERROR_SAVE_INCOMPATIBLE,"Error loading a save as it is from an older,
 GUI.DIALOG.ERROR_TITLE,Shown as the title of an error dialog,An error has occurred,Ocorreu um erro
 GUI.DIALOG.ERROR_WHILE_LOADING,Unexpected error while loading a previous save,There was an unexpected error while loading the game.,Ocorreu um erro inesperado ao carregar o jogo.
 GUI.DIALOG.ERROR_WHILE_SAVING,Unexpected error while saving the game,There was an unexpected error while saving the game.,Ocorreu um erro inesperado ao salvar o jogo.
+GUI.DIALOG.INFO_TITLE,,Information,
 GUI.DIALOG.JUMP_TO,,Go to location,Ir para o local
 GUI.DIALOG.LANGUAGE_TRANSLATION_INCOMPLETE,,The selected language translation is currently incomplete and will be missing some text. A fallback language will be used.,A tradução do idioma selecionado está atualmente incompleta e faltará algum texto. Uma linguagem de fallback será usada.
+GUI.DIALOG.MOD_CHANGES_OUTSTANDING,,"You have selected a different set of mods to be applied to the game. These will be applied when the game is next restarted, or alternatively you can click 'apply' in the mods menu.",
 GUI.DIALOG.OK_BUTTON,Single button shown to dismiss an error dialog,OK,Ok
 GUI.DIALOG.RENAME_ROOM_TITLE,,Rename room,Renomear sala
-GUI.DIALOG.RESTART_REQUIRED.BODY,,You must restart the game for this change to take effect,Você deve reiniciar o jogo para que essa alteração entre em vigor
-GUI.DIALOG.RESTART_REQUIRED.TITLE,,Restart required,Reiniciar necessário
+GUI.DIALOG.RESTART_REQUIRED,,You must restart the game for this change to take effect,
 GUI.FURNITURE_ASSIGNED_TO,Used to show who owns a piece of furniture,Assigned to {{name}},Atribuído a {{name}}
 GUI.FURNITURE_BEING_REMOVED,Label for when a piece of furniture is in the process of being removed,Currently being removed,Atualmente em remoção
 GUI.FURNITURE_REQUIRES_FLOOR_MATERIALTYPE,,This furniture must be placed on {{materialType}}.,Este mobiliário deve ser colocado em {{materialType}}.
@@ -388,6 +389,13 @@ METAL.STEEL.TOOLTIP,,"Far stronger than {{METAL.IRON.NOUN}} which makes for supe
 METAL.TIN.ADJECTIVE,,Tin,Lata
 METAL.TIN.NOUN,,Tin,Latão
 METAL.TIN.TOOLTIP,,Tin can be smelted from {{ORE.CASSITERITE.NOUN}} and alloyed with {{METAL.COPPER.NOUN}} to produce {{METAL.BRONZE.NOUN}}. (Alloys have not yet been implemented in King under the Mountain),A lata pode ser fundida a partir de {{ORE.CASSITERITE.NOUN}} e ligada a {{METAL.COPPER.NOUN}} para produzir {{METAL.BRONZE.NOUN}}. (Ligas ainda não foram implementadas no Rei sob a Montanha)
+
+MODS.APPLY,,Apply,
+MODS.TABLE.COMPATIBILITY,,Compatible?,
+MODS.TABLE.ENABLED,,Enabled?,
+MODS.TABLE.NAME,,Mod Name,
+MODS.TABLE.ORDERING,,Re-order,
+MODS.TABLE.VERSION,,Mod Version,
 
 MUSHROOM.DESCRIPTION,E.g. “Toadstool mushroom”,{{materialType.noun}},{{materialType.noun}}
 

@@ -237,12 +237,13 @@ GUI.DIALOG.ERROR_SAVE_INCOMPATIBLE,"Error loading a save as it is from an older,
 GUI.DIALOG.ERROR_TITLE,Shown as the title of an error dialog,An error has occurred,오류가 발생했습니다.
 GUI.DIALOG.ERROR_WHILE_LOADING,Unexpected error while loading a previous save,There was an unexpected error while loading the game.,게임을 로드하는 동안 예기치 않은 오류가 발생했습니다.
 GUI.DIALOG.ERROR_WHILE_SAVING,Unexpected error while saving the game,There was an unexpected error while saving the game.,게임을 저장하는 동안 예상치 못한 오류가 발생했습니다.
+GUI.DIALOG.INFO_TITLE,,Information,
 GUI.DIALOG.JUMP_TO,,Go to location,위치로 이동
 GUI.DIALOG.LANGUAGE_TRANSLATION_INCOMPLETE,,The selected language translation is currently incomplete and will be missing some text. A fallback language will be used.,선택한 언어 번역이 현재 불완전하며 일부 텍스트가 누락됩니다. 대체 언어가 사용됩니다.
+GUI.DIALOG.MOD_CHANGES_OUTSTANDING,,"You have selected a different set of mods to be applied to the game. These will be applied when the game is next restarted, or alternatively you can click 'apply' in the mods menu.",
 GUI.DIALOG.OK_BUTTON,Single button shown to dismiss an error dialog,OK,확인
 GUI.DIALOG.RENAME_ROOM_TITLE,,Rename room,룸 이름 바꾸기
-GUI.DIALOG.RESTART_REQUIRED.BODY,,You must restart the game for this change to take effect,이 변경 사항을 적용하려면 게임을 다시 시작해야 합니다.
-GUI.DIALOG.RESTART_REQUIRED.TITLE,,Restart required,재시작 필요
+GUI.DIALOG.RESTART_REQUIRED,,You must restart the game for this change to take effect,
 GUI.FURNITURE_ASSIGNED_TO,Used to show who owns a piece of furniture,Assigned to {{name}},{{name}} 에 할당됨
 GUI.FURNITURE_BEING_REMOVED,Label for when a piece of furniture is in the process of being removed,Currently being removed,현재 제거 중입니다.
 GUI.FURNITURE_REQUIRES_FLOOR_MATERIALTYPE,,This furniture must be placed on {{materialType}}.,이 가구는 {{재료 유형}} 에 배치해야 합니다.
@@ -388,6 +389,13 @@ METAL.STEEL.TOOLTIP,,"Far stronger than {{METAL.IRON.NOUN}} which makes for supe
 METAL.TIN.ADJECTIVE,,Tin,주석
 METAL.TIN.NOUN,,Tin,주석
 METAL.TIN.TOOLTIP,,Tin can be smelted from {{ORE.CASSITERITE.NOUN}} and alloyed with {{METAL.COPPER.NOUN}} to produce {{METAL.BRONZE.NOUN}}. (Alloys have not yet been implemented in King under the Mountain),"주석은 {{ORE.CASSITER.명사}} 에서 제련하고 {{{금속.구리, 명사}} 와 합금하여 {{메탈.브론즈.명사}} 를 생산할 수 있습니다. (합금은 아직 산 아래 킹에서 구현되지 않았습니다)"
+
+MODS.APPLY,,Apply,
+MODS.TABLE.COMPATIBILITY,,Compatible?,
+MODS.TABLE.ENABLED,,Enabled?,
+MODS.TABLE.NAME,,Mod Name,
+MODS.TABLE.ORDERING,,Re-order,
+MODS.TABLE.VERSION,,Mod Version,
 
 MUSHROOM.DESCRIPTION,E.g. “Toadstool mushroom”,{{materialType.noun}},{{물질유형.명사}}
 

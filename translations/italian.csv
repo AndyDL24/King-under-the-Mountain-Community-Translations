@@ -237,12 +237,13 @@ GUI.DIALOG.ERROR_SAVE_INCOMPATIBLE,"Error loading a save as it is from an older,
 GUI.DIALOG.ERROR_TITLE,Shown as the title of an error dialog,An error has occurred,È stato riscontrato un errore
 GUI.DIALOG.ERROR_WHILE_LOADING,Unexpected error while loading a previous save,There was an unexpected error while loading the game.,Si è verificato un errore imprevisto durante il caricamento del gioco.
 GUI.DIALOG.ERROR_WHILE_SAVING,Unexpected error while saving the game,There was an unexpected error while saving the game.,Si è verificato un errore imprevisto durante il salvataggio del gioco.
+GUI.DIALOG.INFO_TITLE,,Information,
 GUI.DIALOG.JUMP_TO,,Go to location,Vai alla località
 GUI.DIALOG.LANGUAGE_TRANSLATION_INCOMPLETE,,The selected language translation is currently incomplete and will be missing some text. A fallback language will be used.,La traduzione della lingua selezionata è attualmente incompleta e mancherà del testo. Verrà utilizzato un linguaggio di fallback.
+GUI.DIALOG.MOD_CHANGES_OUTSTANDING,,"You have selected a different set of mods to be applied to the game. These will be applied when the game is next restarted, or alternatively you can click 'apply' in the mods menu.",
 GUI.DIALOG.OK_BUTTON,Single button shown to dismiss an error dialog,OK,Ok
 GUI.DIALOG.RENAME_ROOM_TITLE,,Rename room,Rinomina stanza
-GUI.DIALOG.RESTART_REQUIRED.BODY,,You must restart the game for this change to take effect,È necessario riavviare il gioco affinché questa modifica abbia effetto
-GUI.DIALOG.RESTART_REQUIRED.TITLE,,Restart required,Riavvio richiesto
+GUI.DIALOG.RESTART_REQUIRED,,You must restart the game for this change to take effect,
 GUI.FURNITURE_ASSIGNED_TO,Used to show who owns a piece of furniture,Assigned to {{name}},Oggetto assegnato a: {{name}}
 GUI.FURNITURE_BEING_REMOVED,Label for when a piece of furniture is in the process of being removed,Currently being removed,Rimozione in corso
 GUI.FURNITURE_REQUIRES_FLOOR_MATERIALTYPE,,This furniture must be placed on {{materialType}}.,Questi mobili devono essere collocati su {{materialType}}.
@@ -388,6 +389,13 @@ METAL.STEEL.TOOLTIP,,"Far stronger than {{METAL.IRON.NOUN}} which makes for supe
 METAL.TIN.ADJECTIVE,,Tin,Stagno
 METAL.TIN.NOUN,,Tin,Alluminio
 METAL.TIN.TOOLTIP,,Tin can be smelted from {{ORE.CASSITERITE.NOUN}} and alloyed with {{METAL.COPPER.NOUN}} to produce {{METAL.BRONZE.NOUN}}. (Alloys have not yet been implemented in King under the Mountain),Lo stagno può essere fuso da {{ORE.CASSITERITE.NOUN}} e legato con {{METAL.COPPER.NOUN}} per produrre {{METAL.BRONZE.NOUN}}. (Le leghe non sono ancora state implementate in Re sotto la Montagna)
+
+MODS.APPLY,,Apply,
+MODS.TABLE.COMPATIBILITY,,Compatible?,
+MODS.TABLE.ENABLED,,Enabled?,
+MODS.TABLE.NAME,,Mod Name,
+MODS.TABLE.ORDERING,,Re-order,
+MODS.TABLE.VERSION,,Mod Version,
 
 MUSHROOM.DESCRIPTION,E.g. “Toadstool mushroom”,{{materialType.noun}},{{materialType.Noun}}
 

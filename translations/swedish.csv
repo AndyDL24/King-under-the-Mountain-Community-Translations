@@ -237,12 +237,13 @@ GUI.DIALOG.ERROR_SAVE_INCOMPATIBLE,"Error loading a save as it is from an older,
 GUI.DIALOG.ERROR_TITLE,Shown as the title of an error dialog,An error has occurred,Ett fel har inträffat
 GUI.DIALOG.ERROR_WHILE_LOADING,Unexpected error while loading a previous save,There was an unexpected error while loading the game.,Det var ett oväntat fel när du laddade spelet.
 GUI.DIALOG.ERROR_WHILE_SAVING,Unexpected error while saving the game,There was an unexpected error while saving the game.,Det var ett oväntat fel när du räddade spelet.
+GUI.DIALOG.INFO_TITLE,,Information,
 GUI.DIALOG.JUMP_TO,,Go to location,Gå till plats
 GUI.DIALOG.LANGUAGE_TRANSLATION_INCOMPLETE,,The selected language translation is currently incomplete and will be missing some text. A fallback language will be used.,Den valda språköversättningen är för närvarande ofullständig och kommer att sakna en del text. Ett reservspråk kommer att användas.
+GUI.DIALOG.MOD_CHANGES_OUTSTANDING,,"You have selected a different set of mods to be applied to the game. These will be applied when the game is next restarted, or alternatively you can click 'apply' in the mods menu.",
 GUI.DIALOG.OK_BUTTON,Single button shown to dismiss an error dialog,OK,OKEJ
 GUI.DIALOG.RENAME_ROOM_TITLE,,Rename room,Byt namn på rum
-GUI.DIALOG.RESTART_REQUIRED.BODY,,You must restart the game for this change to take effect,Du måste starta om spelet för att ändringen ska träda i kraft
-GUI.DIALOG.RESTART_REQUIRED.TITLE,,Restart required,Omstart krävs
+GUI.DIALOG.RESTART_REQUIRED,,You must restart the game for this change to take effect,
 GUI.FURNITURE_ASSIGNED_TO,Used to show who owns a piece of furniture,Assigned to {{name}},Tilldelas till {{name}}
 GUI.FURNITURE_BEING_REMOVED,Label for when a piece of furniture is in the process of being removed,Currently being removed,För närvarande tas bort
 GUI.FURNITURE_REQUIRES_FLOOR_MATERIALTYPE,,This furniture must be placed on {{materialType}}.,Möblerna måste placeras på {{MaterialType}}.
@@ -388,6 +389,13 @@ METAL.STEEL.TOOLTIP,,"Far stronger than {{METAL.IRON.NOUN}} which makes for supe
 METAL.TIN.ADJECTIVE,,Tin,Tenn
 METAL.TIN.NOUN,,Tin,Tenn
 METAL.TIN.TOOLTIP,,Tin can be smelted from {{ORE.CASSITERITE.NOUN}} and alloyed with {{METAL.COPPER.NOUN}} to produce {{METAL.BRONZE.NOUN}}. (Alloys have not yet been implemented in King under the Mountain),Tenn kan smältas från {{ORE.CASSITERITE.NOUN}} och legeras med {{MEAL.COPPER.NOUN}} för att producera {{META.BRONZE.NOUN}}. (Legeringar har ännu inte genomförts i King under berget)
+
+MODS.APPLY,,Apply,
+MODS.TABLE.COMPATIBILITY,,Compatible?,
+MODS.TABLE.ENABLED,,Enabled?,
+MODS.TABLE.NAME,,Mod Name,
+MODS.TABLE.ORDERING,,Re-order,
+MODS.TABLE.VERSION,,Mod Version,
 
 MUSHROOM.DESCRIPTION,E.g. “Toadstool mushroom”,{{materialType.noun}},{{materialType.substantiv}}
 

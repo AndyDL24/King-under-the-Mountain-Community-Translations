@@ -237,12 +237,13 @@ GUI.DIALOG.ERROR_SAVE_INCOMPATIBLE,"Error loading a save as it is from an older,
 GUI.DIALOG.ERROR_TITLE,Shown as the title of an error dialog,An error has occurred,发生错误
 GUI.DIALOG.ERROR_WHILE_LOADING,Unexpected error while loading a previous save,There was an unexpected error while loading the game.,加载游戏时出现意想不到的错误。
 GUI.DIALOG.ERROR_WHILE_SAVING,Unexpected error while saving the game,There was an unexpected error while saving the game.,保存游戏时出现意想不到的错误。
+GUI.DIALOG.INFO_TITLE,,Information,
 GUI.DIALOG.JUMP_TO,,Go to location,前往位置
 GUI.DIALOG.LANGUAGE_TRANSLATION_INCOMPLETE,,The selected language translation is currently incomplete and will be missing some text. A fallback language will be used.,选定的语言翻译目前不完整，将缺少一些文本。 将使用后备语言。
+GUI.DIALOG.MOD_CHANGES_OUTSTANDING,,"You have selected a different set of mods to be applied to the game. These will be applied when the game is next restarted, or alternatively you can click 'apply' in the mods menu.",
 GUI.DIALOG.OK_BUTTON,Single button shown to dismiss an error dialog,OK,好
 GUI.DIALOG.RENAME_ROOM_TITLE,,Rename room,重命名房间
-GUI.DIALOG.RESTART_REQUIRED.BODY,,You must restart the game for this change to take effect,您必须重新启动游戏才能使此更改生效
-GUI.DIALOG.RESTART_REQUIRED.TITLE,,Restart required,需要重新启动
+GUI.DIALOG.RESTART_REQUIRED,,You must restart the game for this change to take effect,
 GUI.FURNITURE_ASSIGNED_TO,Used to show who owns a piece of furniture,Assigned to {{name}},分配给 {{name}}}
 GUI.FURNITURE_BEING_REMOVED,Label for when a piece of furniture is in the process of being removed,Currently being removed,当前正在删除
 GUI.FURNITURE_REQUIRES_FLOOR_MATERIALTYPE,,This furniture must be placed on {{materialType}}.,此家具必须放置在 {{材料类型}} 上。
@@ -388,6 +389,13 @@ METAL.STEEL.TOOLTIP,,"Far stronger than {{METAL.IRON.NOUN}} which makes for supe
 METAL.TIN.ADJECTIVE,,Tin,锡
 METAL.TIN.NOUN,,Tin,锡
 METAL.TIN.TOOLTIP,,Tin can be smelted from {{ORE.CASSITERITE.NOUN}} and alloyed with {{METAL.COPPER.NOUN}} to produce {{METAL.BRONZE.NOUN}}. (Alloys have not yet been implemented in King under the Mountain),锡可以从 {{奥利. 锡石. 名词}} 中熔炼，并用 {{金属. 铜. 名词}} 合金制成 {金属. 铜. 名词}}}。 (合金尚未在山下王实施)
+
+MODS.APPLY,,Apply,
+MODS.TABLE.COMPATIBILITY,,Compatible?,
+MODS.TABLE.ENABLED,,Enabled?,
+MODS.TABLE.NAME,,Mod Name,
+MODS.TABLE.ORDERING,,Re-order,
+MODS.TABLE.VERSION,,Mod Version,
 
 MUSHROOM.DESCRIPTION,E.g. “Toadstool mushroom”,{{materialType.noun}},{{材料类型. 名词}}
 

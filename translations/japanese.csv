@@ -20,7 +20,7 @@ ACTION.SELECT_JOB.DESCRIPTION,When looking for a job to work,Looking for work to
 ACTION.SLEEP_IN_BED.DESCRIPTION,E.g. “Sleeping in wooden bed”,Sleeping in {{containerDescription}},{{containerDescription}} でスリープ中
 ACTION.SLEEP_ON_FLOOR.DESCRIPTION,E.g. “Sleeping on rough stone floor”,Sleeping on {{tileDescription}},{{tileDescription}} でスリープ中
 
-CONSTRUCTION.DESCRIPTION,E.g. “Construction of granite stonemason workbench”,Construction of {{materialType.adjective}} {{furnitureType.noun}}, {{materialType.adjective}} {{furnitureType.noun}} の構築
+CONSTRUCTION.DESCRIPTION,E.g. “Construction of granite stonemason workbench”,Construction of {{materialType.adjective}} {{furnitureType.noun}}," {{materialType.adjective}} {{furnitureType.noun}} の構築"
 CONSTRUCTION.ITEM_ALLOCATION,E.g. “1 of 3 marble blocks allocated” (or assigned),{{quantity}} of {{itemDescription}} allocated,{{quantity}} 件中 {{itemDescription}} 件が割り当てられました
 CONSTRUCTION.STATUS.CLEARING_WORK_SITE,This is to be displayed when other items need to be cleared out from an area that has something being built over it,Removing other items,他のアイテムの削除
 CONSTRUCTION.STATUS.CLEARING_WORK_SITE.TOOLTIP,,There are items that need to be removed from this furniture’s construction area before it can progress.,進行する前に、この家具の建設エリアから取り外す必要があるアイテムがあります。
@@ -237,12 +237,13 @@ GUI.DIALOG.ERROR_SAVE_INCOMPATIBLE,"Error loading a save as it is from an older,
 GUI.DIALOG.ERROR_TITLE,Shown as the title of an error dialog,An error has occurred,エラーが発生しました
 GUI.DIALOG.ERROR_WHILE_LOADING,Unexpected error while loading a previous save,There was an unexpected error while loading the game.,ゲームの読み込み中に予期しないエラーが発生しました。
 GUI.DIALOG.ERROR_WHILE_SAVING,Unexpected error while saving the game,There was an unexpected error while saving the game.,ゲームの保存中に予期しないエラーが発生しました。
+GUI.DIALOG.INFO_TITLE,,Information,
 GUI.DIALOG.JUMP_TO,,Go to location,場所へ移動
 GUI.DIALOG.LANGUAGE_TRANSLATION_INCOMPLETE,,The selected language translation is currently incomplete and will be missing some text. A fallback language will be used.,選択された言語の翻訳は現在不完全なため、一部のテキストが欠落しています。 代替言語が使用されます。
+GUI.DIALOG.MOD_CHANGES_OUTSTANDING,,"You have selected a different set of mods to be applied to the game. These will be applied when the game is next restarted, or alternatively you can click 'apply' in the mods menu.",
 GUI.DIALOG.OK_BUTTON,Single button shown to dismiss an error dialog,OK,OK
 GUI.DIALOG.RENAME_ROOM_TITLE,,Rename room,部屋の名前を変更する
-GUI.DIALOG.RESTART_REQUIRED.BODY,,You must restart the game for this change to take effect,この変更を有効にするには、ゲームを再起動する必要があります
-GUI.DIALOG.RESTART_REQUIRED.TITLE,,Restart required,再起動が必要です
+GUI.DIALOG.RESTART_REQUIRED,,You must restart the game for this change to take effect,
 GUI.FURNITURE_ASSIGNED_TO,Used to show who owns a piece of furniture,Assigned to {{name}},{{name}} に割り当てられました
 GUI.FURNITURE_BEING_REMOVED,Label for when a piece of furniture is in the process of being removed,Currently being removed,現在削除されています
 GUI.FURNITURE_REQUIRES_FLOOR_MATERIALTYPE,,This furniture must be placed on {{materialType}}.,この家具は {{materialType}} に配置する必要があります。
@@ -388,6 +389,13 @@ METAL.STEEL.TOOLTIP,,"Far stronger than {{METAL.IRON.NOUN}} which makes for supe
 METAL.TIN.ADJECTIVE,,Tin,スズ
 METAL.TIN.NOUN,,Tin,スズ
 METAL.TIN.TOOLTIP,,Tin can be smelted from {{ORE.CASSITERITE.NOUN}} and alloyed with {{METAL.COPPER.NOUN}} to produce {{METAL.BRONZE.NOUN}}. (Alloys have not yet been implemented in King under the Mountain),スズは、{{金属.銅.NOUN}} から精錬し、{{金属.銅.NOUN} と合金化して {{金属.ブロンズ.NOUN} を生成することができます。 (合金はまだ山の下の王に実装されていません)
+
+MODS.APPLY,,Apply,
+MODS.TABLE.COMPATIBILITY,,Compatible?,
+MODS.TABLE.ENABLED,,Enabled?,
+MODS.TABLE.NAME,,Mod Name,
+MODS.TABLE.ORDERING,,Re-order,
+MODS.TABLE.VERSION,,Mod Version,
 
 MUSHROOM.DESCRIPTION,E.g. “Toadstool mushroom”,{{materialType.noun}},{{マテリアルタイプ.名詞}}
 
@@ -744,7 +752,7 @@ TOOL.KITCHEN.KNIFE.TOOLTIP,,"Used to prepare food, particularly meat.",食品、
 TOOL.LARGE.HAMMER.NOUN,,Large hammer,大型ハンマー
 TOOL.LARGE.HAMMER.TOOLTIP,,Used to bash large items of stone and metal into shape. The primary tool of a {{PROFESSION.BLACKSMITH}}.,石や金属の大きなアイテムを形にするのに使用されます。 {{PROFESSION.BLACKSMITH}} の主要なツールです。
 TOOL.PICKAXE.NOUN,,Pickaxe,つらし
-TOOL.PICKAXE.TOOLTIP,,Used to break stone into smaller pieces. The primary tool of a {{PROFESSION.MINER}}.,石を細かく砕くために使用されます。 {{PROFESSION.MINER}} の主要なツールです。
+TOOL.PICKAXE.TOOLTIP,,Used to break stone into smaller pieces. The primary tool of a {{PROFESSION.MiNER}}.,石を細かく砕くために使用されます。 {{PROFESSION.MINER}} の主要なツールです。
 TOOL.PLANE.NOUN,A carpenter's plane,Plane,平面
 TOOL.PLANE.TOOLTIP,,Used to shave wooden furniture and items into shape. The primary tool of a {{PROFESSION.CARPENTER}}.,木製の家具やアイテムを形に剃るために使用されます。 {{PROFESSION.CARPENTER}}の主要なツールです。
 TOOL.ROLLING.PIN.NOUN,,Rolling pin,回転ピン
