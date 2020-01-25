@@ -241,6 +241,7 @@ GUI.DIALOG.INFO_TITLE,,Information,
 GUI.DIALOG.JUMP_TO,,Go to location,Vai alla località
 GUI.DIALOG.LANGUAGE_TRANSLATION_INCOMPLETE,,The selected language translation is currently incomplete and will be missing some text. A fallback language will be used.,La traduzione della lingua selezionata è attualmente incompleta e mancherà del testo. Verrà utilizzato un linguaggio di fallback.
 GUI.DIALOG.MOD_CHANGES_OUTSTANDING,,"You have selected a different set of mods to be applied to the game. These will be applied when the game is next restarted, or alternatively you can click 'apply' in the mods menu.",
+GUI.DIALOG.MOD_INCOMPATIBLE,,One or more mods are incompatible with this version of the game and have been deactivated. You can check for updates in the mods menu.,
 GUI.DIALOG.OK_BUTTON,Single button shown to dismiss an error dialog,OK,Ok
 GUI.DIALOG.RENAME_ROOM_TITLE,,Rename room,Rinomina stanza
 GUI.DIALOG.RESTART_REQUIRED,,You must restart the game for this change to take effect,
@@ -391,6 +392,11 @@ METAL.TIN.NOUN,,Tin,Alluminio
 METAL.TIN.TOOLTIP,,Tin can be smelted from {{ORE.CASSITERITE.NOUN}} and alloyed with {{METAL.COPPER.NOUN}} to produce {{METAL.BRONZE.NOUN}}. (Alloys have not yet been implemented in King under the Mountain),Lo stagno può essere fuso da {{ORE.CASSITERITE.NOUN}} e legato con {{METAL.COPPER.NOUN}} per produrre {{METAL.BRONZE.NOUN}}. (Le leghe non sono ancora state implementate in Re sotto la Montagna)
 
 MODS.APPLY,,Apply,
+MODS.COMPATIBILITY.COMPATIBLE,,Yes,
+MODS.COMPATIBILITY.INCOMPATIBLE,,No,
+MODS.COMPATIBILITY.UNKNOWN,,Unknown,
+MODS.MISSING_MODS_DIALOG_TEXT,,This save file was last used while the following mods were active. These mods are now missing or disabled so the save may not load correctly.,
+MODS.MISSING_MODS_SAVE_EXCEPTION_DIALOG_TEXT,,"The save file could not be loaded because either it is incompatible with this version of the game, or because some mods have been disabled or removed since this save was last loaded. The following mods were expected but are no longer active:",
 MODS.TABLE.COMPATIBILITY,,Compatible?,
 MODS.TABLE.ENABLED,,Enabled?,
 MODS.TABLE.NAME,,Mod Name,
