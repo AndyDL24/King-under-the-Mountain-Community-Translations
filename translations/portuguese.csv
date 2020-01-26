@@ -240,7 +240,7 @@ GUI.DIALOG.ERROR_WHILE_SAVING,Unexpected error while saving the game,There was a
 GUI.DIALOG.INFO_TITLE,,Information,
 GUI.DIALOG.JUMP_TO,,Go to location,Ir para o local
 GUI.DIALOG.LANGUAGE_TRANSLATION_INCOMPLETE,,The selected language translation is currently incomplete and will be missing some text. A fallback language will be used.,A tradução do idioma selecionado está atualmente incompleta e faltará algum texto. Uma linguagem de fallback será usada.
-GUI.DIALOG.MOD_CHANGES_OUTSTANDING,,"You have selected a different set of mods to be applied to the game. These will be applied when the game is next restarted, or alternatively you can click 'apply' in the mods menu.",
+GUI.DIALOG.MOD_CHANGES_OUTSTANDING,,You have selected a different set of mods to be applied to the game. These will be applied when the game is next restarted.,
 GUI.DIALOG.MOD_INCOMPATIBLE,,One or more mods are incompatible with this version of the game and have been deactivated. You can check for updates in the mods menu.,
 GUI.DIALOG.OK_BUTTON,Single button shown to dismiss an error dialog,OK,Ok
 GUI.DIALOG.RENAME_ROOM_TITLE,,Rename room,Renomear sala
