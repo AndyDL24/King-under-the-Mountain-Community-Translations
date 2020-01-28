@@ -127,124 +127,124 @@ FURNITURE.WOODCUTTERS_BENCH.TOOLTIP,,A {{PROFESSION.WOODCUTTER}} works here to t
 
 GEM.AMETHYST.ADJECTIVE,,Amethyst,Amethyst
 GEM.AMETHYST.NOUN,,Amethyst,Amethyst
-GEM.AMETHYST.TOOLTIP,,A violet-hued variety of quartz. Ancient humans believed it could magically protect them from becoming too drunk. For this reason it is not very popular in dwarven culture.,“Eine violett gefärbte Quarzvariante. Menschen glaubten damals
+GEM.AMETHYST.TOOLTIP,,A violet-hued variety of quartz. Ancient humans believed it could magically protect them from becoming too drunk. For this reason it is not very popular in dwarven culture.,"Eine violett gefärbte Quarzvariante. Menschen glaubten damals, dass es sie magisch davor schützen würde zu betrunken zu werden. Aus diesem Grund ist der Stein bei Zwergen nicht sehr beliebt."
 GEM.AMMOLITE.ADJECTIVE,,Ammolite,Ammolit
 GEM.AMMOLITE.NOUN,,Ammolite,Ammolit
-GEM.AMMOLITE.TOOLTIP,,An opal-like gemstone which has a red to green iridescence. It is known as the “hunting stone” and amulets made from it are meant to bring good luck to a hunt.,“Ein opal-ähnlicher Edelstein
+GEM.AMMOLITE.TOOLTIP,,An opal-like gemstone which has a red to green iridescence. It is known as the “hunting stone” and amulets made from it are meant to bring good luck to a hunt.,"Ein opal-ähnlicher Edelstein, der einen roten bis grünen Schimmer hat. Er ist als Jagdstein bekannt und daraus hergestellte Amulette sollen bei der Jagd Glück bringen."
 GEM.AQUAMARINE.ADJECTIVE,,Aquamarine,Aquamarin
 GEM.AQUAMARINE.NOUN,,Aquamarine,Aquamarin
-GEM.AQUAMARINE.TOOLTIP,,A cyan-coloured variety of beryl. Some humans believe it offers magical protection against the dangers of the seas. This is because an ancient mage used a combination of sky and ice magic to protect trading ships during the age of darkness.,“Eine cyanfarbene Beryllvariante. Manche Menschen glauben
+GEM.AQUAMARINE.TOOLTIP,,A cyan-coloured variety of beryl. Some humans believe it offers magical protection against the dangers of the seas. This is because an ancient mage used a combination of sky and ice magic to protect trading ships during the age of darkness.,"Eine cyanfarbene Beryllvariante. Manche Menschen glauben, dass er einen magischen Schutz gegen die Gefahren der See bietet. Dies liegt an einem uralten Magier, der während des Zeitalters der Dunkelheit eine Kombination aus Himmels- und Eismagie nutzte, um Handelsschiffe zu schützen."
 GEM.BIXBITE.ADJECTIVE,,Bixbite,Bixbit
 GEM.BIXBITE.NOUN,,Bixbite,Bixbit
 GEM.BIXBITE.TOOLTIP,,"Also known as red beryl, it is a very rare gemstone. It is often confused for a red-coloured emerald.","Auch als roter Beryll bekannt, ist er ein sehr seltener Edelstein. Er wird oft mit einem roten Smaragd verwechselt."
 GEM.CINNABAR.ADJECTIVE,,Cinnabar,Cinnabarit
 GEM.CINNABAR.NOUN,,Cinnabar,Cinnabarit
-GEM.CINNABAR.TOOLTIP,,An ore of mercury which is often used in jewellery due to its deep-red hue. It is also used to produce the dye known as vermillion.,“Ein Quecksilbererz
+GEM.CINNABAR.TOOLTIP,,An ore of mercury which is often used in jewellery due to its deep-red hue. It is also used to produce the dye known as vermillion.,"Ein Quecksilbererz, das wegen seiner tiefroten Farbe oft in Schmuckstücken verwendet wird. Es wird auch zur Herstellung des als Zinnoberrot bekannten Farbstoffes verwendet."
 GEM.CITRINE.ADJECTIVE,,Citrine,Zitrin
 GEM.CITRINE.NOUN,,Citrine,Zitrin
-GEM.CITRINE.TOOLTIP,,"A yellowish variety of quartz. It is the gemstone most similar in colour to gold, so most dwarves think citrine is lucky.",“Eine gelbliche Quarzvariante. Er ist der Edelstein
+GEM.CITRINE.TOOLTIP,,"A yellowish variety of quartz. It is the gemstone most similar in colour to gold, so most dwarves think citrine is lucky.","Eine gelbliche Quarzvariante. Er ist der Edelstein, der in seiner Farbe dem Gold am ähnlichsten ist, weswegen die meisten Zwerge Zitrin als glücksbringend ansehen."
 GEM.DIAMOND.ADJECTIVE,,Diamond,Diamant
 GEM.DIAMOND.NOUN,,Diamond,Diamant
-GEM.DIAMOND.TOOLTIP,,The hardest known material and one of the most important of the seven heavenly stones. Diamonds are the most condensed form of the neutral element known as “spirit” or “aether”.,“Das härteste bekannte Material und einer der wichtigsten sieben himmlischen Steine. Diamanten sind die konzentrierteste Form des neutralen Elements
+GEM.DIAMOND.TOOLTIP,,The hardest known material and one of the most important of the seven heavenly stones. Diamonds are the most condensed form of the neutral element known as “spirit” or “aether”.,"Das härteste bekannte Material und einer der wichtigsten sieben himmlischen Steine. Diamanten sind die konzentrierteste Form des neutralen Elements, bekannt als "Geist" oder "Äther"."
 GEM.EMERALD.ADJECTIVE,,Emerald,Smaragd
 GEM.EMERALD.NOUN,,Emerald,Smaragd
-GEM.EMERALD.TOOLTIP,,A vibrant green variety of beryl. It is thought that engraving on an emerald brings great misfortune. Emeralds are closely related to elemental life and associated magic.,“Eine leuchtend grüne Beryllvariante. Man glaubt
+GEM.EMERALD.TOOLTIP,,A vibrant green variety of beryl. It is thought that engraving on an emerald brings great misfortune. Emeralds are closely related to elemental life and associated magic.,"Eine leuchtend grüne Beryllvariante. Man glaubt, dass Gravuren auf einem Smaragd großes Unglück bringen. Smaragde sind eng mit dem Elementarleben und der damit verbundenen Magie verwandt."
 GEM.GARNET.ADJECTIVE,,Garnet,Granat
 GEM.GARNET.NOUN,,Garnet,Granat
-GEM.GARNET.TOOLTIP,,"Garnets cover a variety of minerals used as gemstones, all with a deep red colour. Some garnet gems are actually a condensed form of elemental fire.",“Granate umfassen eine Vielzahl an Mineralien
+GEM.GARNET.TOOLTIP,,"Garnets cover a variety of minerals used as gemstones, all with a deep red colour. Some garnet gems are actually a condensed form of elemental fire.","Granate umfassen eine Vielzahl an Mineralien, die als Edelsteine verwendet werden, alle mit einer tiefroten Farbe. Einige Granate sind tatsächlich die verdichtete Form von elementarem Feuer."
 GEM.JADE.ADJECTIVE,,Jade,Jade
 GEM.JADE.NOUN,,Jade,Jade
-GEM.JADE.TOOLTIP,,"A mineral with a light-green colour often used for decoration. Also, elves have been known to use jade to produce medicine which can cure ailments of the gut.",“Ein Mineral mit einer hellgrünen Farbe
+GEM.JADE.TOOLTIP,,"A mineral with a light-green colour often used for decoration. Also, elves have been known to use jade to produce medicine which can cure ailments of the gut.","Ein Mineral mit einer hellgrünen Farbe, das oft zur Dekoration verwendet wird. Außerdem heißt es, dass Elfen aus Jade Medizin herstellen, die Darmbeschwerden heilen kann."
 GEM.JASPER.ADJECTIVE,,Jasper,Jaspis
 GEM.JASPER.NOUN,,Jasper,Jaspis
-GEM.JASPER.TOOLTIP,,"An impure variety of silica which can occur in several colours, but most commonly red. Jasper is favoured as a decoration material by orcs due to its variety.",“Eine unreine Form von Quarz
+GEM.JASPER.TOOLTIP,,"An impure variety of silica which can occur in several colours, but most commonly red. Jasper is favoured as a decoration material by orcs due to its variety.","Eine unreine Form von Quarz, die in verschiedenen meist roten Farben vorkommen kann. Jaspis wird aufgrund seiner Vielfalt als Dekorationsmaterial geschätzt."
 GEM.LABRADORITE.ADJECTIVE,,Labradorite,Labradorit
 GEM.LABRADORITE.NOUN,,Labradorite,Labradorit
-GEM.LABRADORITE.TOOLTIP,,A rock which shines with a typically light-blue iridescence. Rarer specimens can reflect a wide range of colours.,“Ein Gestein
+GEM.LABRADORITE.TOOLTIP,,A rock which shines with a typically light-blue iridescence. Rarer specimens can reflect a wide range of colours.,"Ein Gestein, das normalerweise hellblau schimmert. Seltenere Exemplare können eine größere Palette an Farben aufweisen."
 GEM.LAPIS.ADJECTIVE,,Lapis lazuli,Lapislazuli
 GEM.LAPIS.NOUN,,Lapis lazuli,Lapislazuli
-GEM.LAPIS.TOOLTIP,,A rock with a brilliant deep blue hue which is used as a precious stone.,“Ein Gestein mit einem brillianten
+GEM.LAPIS.TOOLTIP,,A rock with a brilliant deep blue hue which is used as a precious stone.,"Ein Gestein mit einem brillianten, tiefblauen Farbton. Er wird oft als Schmuckstück verwendet."
 GEM.MAGNESITE.ADJECTIVE,,Magnesite,Magnesit
 GEM.MAGNESITE.NOUN,,Magnesite,Magnesit
-GEM.MAGNESITE.TOOLTIP,,A mineral which can be polished into beads for use in jewellery. These beads can by dyed into many different colours.,“Ein Mineral
+GEM.MAGNESITE.TOOLTIP,,A mineral which can be polished into beads for use in jewellery. These beads can by dyed into many different colours.,"Ein Mineral, das zu Perlen poliert werden kann, um in Schmuckstücken verwendet werden zu können. Diese Perlen können in vielen verschiedenen Farben eingefärbt werden."
 GEM.MOONSTONE.ADJECTIVE,,Moonstone,Mondstein
 GEM.MOONSTONE.NOUN,,Moonstone,Mondstein
-GEM.MOONSTONE.TOOLTIP,,"Thought to be formed by moonlight captured in rock, which makes this gemstone a favourite of the elves.",“Er soll durch im Stein eingefangenes Mondlicht entstanden sein
+GEM.MOONSTONE.TOOLTIP,,"Thought to be formed by moonlight captured in rock, which makes this gemstone a favourite of the elves.","Er soll durch im Stein eingefangenes Mondlicht entstanden sein, was diesen Edelstein zu einem Favoriten der Elfen macht."
 GEM.MORGANITE.ADJECTIVE,,Morganite,Morganit
 GEM.MORGANITE.NOUN,,Morganite,Morganit
-GEM.MORGANITE.TOOLTIP,,A rose-coloured variety of beryl. It was named after being popularised by a particularly wealthy merchant in the age of myth.,
+GEM.MORGANITE.TOOLTIP,,A rose-coloured variety of beryl. It was named after being popularised by a particularly wealthy merchant in the age of myth.,"Eine rosafarbene Beryllsorte. Sie wurde nach einem Kaufmann benannt, der sie im Zeitalter der Mythen weit verbreitet hat."
 GEM.OPAL.ADJECTIVE,,Opal,Opal
 GEM.OPAL.NOUN,,Opal,Opal
 GEM.OPAL.TOOLTIP,,"A form of silica infused with the magic of the oceans, which makes this a favourite of sailors and fishermen.",
-GEM.PAINITE.ADJECTIVE,,Painite,
-GEM.PAINITE.NOUN,,Painite,
-GEM.PAINITE.TOOLTIP,,A very rare gemstone which is often identified as an off-colour sapphire. The crystals are naturally hexagonal in shape and a favourite of tacticians.,
-GEM.RHODOCHROSITE.ADJECTIVE,,Rhodochrosite,
-GEM.RHODOCHROSITE.NOUN,,Rhodochrosite,
-GEM.RHODOCHROSITE.TOOLTIP,,Found in varying shades of red to pink. It is not as hard as most gemstones making it a poor choice for rings and other high-impact jewellery.,
+GEM.PAINITE.ADJECTIVE,,Painite,Painit
+GEM.PAINITE.NOUN,,Painite,Painit
+GEM.PAINITE.TOOLTIP,,A very rare gemstone which is often identified as an off-colour sapphire. The crystals are naturally hexagonal in shape and a favourite of tacticians.,"Ein sehr seltener Edelstein, der oft als verfärbter Saphir identifiziert wird. Die Kristalle sind von Natur aus sechseckig und ein Favorit der Taktiker."
+GEM.RHODOCHROSITE.ADJECTIVE,,Rhodochrosite,Rhodochrosit
+GEM.RHODOCHROSITE.NOUN,,Rhodochrosite,Rhodochrosit
+GEM.RHODOCHROSITE.TOOLTIP,,Found in varying shades of red to pink. It is not as hard as most gemstones making it a poor choice for rings and other high-impact jewellery.,"Wird in verschiedenen Rot- bis Rosatönen gefunden. Er ist nicht so hart wie andere Edelsteine, was ihn zu einer schlechten Wahl für Ringe und andere beeindruckende Schmuckstücke macht."
 GEM.ROCK_CRYSTAL.ADJECTIVE,,Rock crystal,Bergkristall
 GEM.ROCK_CRYSTAL.NOUN,,Rock crystal,Bergkristall
-GEM.ROCK_CRYSTAL.TOOLTIP,,The purest form of quartz. Rock crystals often feature in magical artifacts as they are a condensed form of the element of ice.,
+GEM.ROCK_CRYSTAL.TOOLTIP,,The purest form of quartz. Rock crystals often feature in magical artifacts as they are a condensed form of the element of ice.,"Die reinste Form von Quarz. Bergkristalle sind oft in magischen Artefakten eingearbeitet, da sie eine verdichtete Form des Element Eis sind."
 GEM.RUBY.ADJECTIVE,,Ruby,Rubin
 GEM.RUBY.NOUN,,Ruby,Rubin
-GEM.RUBY.TOOLTIP,,"One of the seven heavenly stones, rubies are the element of fire condensed into a solid form.",
+GEM.RUBY.TOOLTIP,,"One of the seven heavenly stones, rubies are the element of fire condensed into a solid form.","Als einer der sieben himmlischen Steine ist der Rubin das zu einer festen Form verdichtete Element Feuer."
 GEM.SAPPHIRE.ADJECTIVE,,Sapphire,Saphir
 GEM.SAPPHIRE.NOUN,,Sapphire,Saphir
-GEM.SAPPHIRE.TOOLTIP,,"Often believed to protect the wearer from the attention of daemons, sapphires are much sought-after by mages for use in sky and air-based magic.",
+GEM.SAPPHIRE.TOOLTIP,,"Often believed to protect the wearer from the attention of daemons, sapphires are much sought-after by mages for use in sky and air-based magic.","Von Saphiren wird oft geglaubt, dass sie den Träger vor Aufmerksamkeit von Dämonen schützen. Saphire sind bei Magier für den Einsatz in Himmels- und Luftmagie sehr begehrt."
 GEM.SPINEL.ADJECTIVE,,Spinel,Spinell
 GEM.SPINEL.NOUN,,Spinel,Spinell
-GEM.SPINEL.TOOLTIP,,"Often confused with heavenly stones like true rubies and sapphires, spinels are a lesser form of magic-infused gem which can be associated with any of the elements, depending on colour.",
+GEM.SPINEL.TOOLTIP,,"Often confused with heavenly stones like true rubies and sapphires, spinels are a lesser form of magic-infused gem which can be associated with any of the elements, depending on colour.","Wird oft mit himmlischen Steinen wie echten Rubinen und Saphiren verwechselt. Spinelle sind eine geringere Form von magisch aufgeladenen Edelsteinen, die je nach Farbe mit jedem der Elemente in Verbindung gebracht werden kann."
 GEM.TANZANITE.ADJECTIVE,,Tanzanite,Tansanit
 GEM.TANZANITE.NOUN,,Tanzanite,Tansanit
-GEM.TANZANITE.TOOLTIP,,A rare gemstone that can alternate between blue and violet. It is thought to be formed from the material body of a dead god.,
+GEM.TANZANITE.TOOLTIP,,A rare gemstone that can alternate between blue and violet. It is thought to be formed from the material body of a dead god.,"Ein seltener Edelstein, der abwechselnd blau und violett sein kann. Man nimmt an, dass er aus dem materiellen Körper eines toten Gottes geformt ist."
 GEM.TOPAZ.ADJECTIVE,,Topaz,Topas
 GEM.TOPAZ.NOUN,,Topaz,Topas
-GEM.TOPAZ.TOOLTIP,,"Sometimes confused with the more common {{GEM.CITRINE.NOUN}} gem, topaz can be found in several colours but most commonly a yellowish brown. It was first discovered on an island which no longer exists.",
+GEM.TOPAZ.TOOLTIP,,"Sometimes confused with the more common {{GEM.CITRINE.NOUN}} gem, topaz can be found in several colours but most commonly a yellowish brown. It was first discovered on an island which no longer exists.","Manchmal mit dem häufiger vorkommenden {{GEM.CITRINE.NOUN}} verwechselt, kann Topas in mehreren Farben gefunden werden, am häufigsten jedoch in einem gelblichen Braun. Er wurde zuerst auf einer Insel entdeckt, die es nicht mehr länger gibt."
 GEM.TOURMALINE.ADJECTIVE,,Tourmaline,Turmalin
 GEM.TOURMALINE.NOUN,,Tourmaline,Turmalin
-GEM.TOURMALINE.TOOLTIP,,Often found alongside {{ORE.CASSITERITE.ADJECTIVE}} ore. It is sometimes associated with earth magic.,
+GEM.TOURMALINE.TOOLTIP,,Often found alongside {{ORE.CASSITERITE.ADJECTIVE}} ore. It is sometimes associated with earth magic.,"Oftmals zusammen mit {{ORE.CASSITERITE.ADJECTIVE}}erz gefunden. Manchmal wird er mit Erdmagie in Verbindung gebracht."
 GEM.TURQUOISE.ADJECTIVE,,Turquoise,Türkis
 GEM.TURQUOISE.NOUN,,Turquoise,Türkis
-GEM.TURQUOISE.TOOLTIP,,A blue-green mineral often used in decorations. It is thought to bring good luck to the bearer. It is often infused with the element of earth.,
+GEM.TURQUOISE.TOOLTIP,,A blue-green mineral often used in decorations. It is thought to bring good luck to the bearer. It is often infused with the element of earth.,"Ein blaugrünes Mineral, das häufig in Dekorationen verwendet wird. Man nimmt an, dass es dem Träger Glück bringt. Es ist oft mit dem Element Erde durchdringen."
 
 GOAL.ADD_TO_INVENTORY.DESCRIPTION,E.g. “Collecting bag of wheat seeds”,Collecting {{targetDescription}},Sammelt {{targetDescription}}
-GOAL.DRINK.DESCRIPTION,,Drinking {{targetZoneMaterial}},
-GOAL.EAT.DESCRIPTION,,Eating {{targetDescription}},
+GOAL.DRINK.DESCRIPTION,,Drinking {{targetZoneMaterial}},Trinkt {{targetZoneMaterial}}
+GOAL.EAT.DESCRIPTION,,Eating {{targetDescription}},Isst {{targetDescription}}
 GOAL.HAULING.DESCRIPTION,E.g. “Hauling granite stone”,Hauling {{targetDescription}},Transportiert {{itemDescription}}
-GOAL.IDLE.DESCRIPTION,When not doing anything,Idle,Unbeschäftigt
+GOAL.IDLE.DESCRIPTION,When not doing anything,Idle,Untätig
 GOAL.SLEEP.DESCRIPTION,,Going to sleep,Geht schlafen
 GOAL.TRANSFER_LIQUID.DESCRIPTION,Becomes “Transferring water”,Transferring {{targetZoneMaterial}},Füllt {{targetZoneMaterial}} um
 
 GUI.ADD_REMOVE_TILES,Heading to describe adding or removing an area of a zone/room,Add/remove tiles,Felder hinzufügen/entfernen
 GUI.ADD_TILES,This should be as short as possible,Add tiles,Felder hinzufügen
-GUI.AMBIENT_EFFECT_VOLUME,This is a volume setting for ambient effects such as birdsong and river flowing,Ambient atmosphere effect volume:,
-GUI.BACK_LABEL,This should be as short as possible,Back,"Zurück "
-GUI.BUILD.BRIDGE,For building a bridge across a river,Bridge,
+GUI.AMBIENT_EFFECT_VOLUME,This is a volume setting for ambient effects such as birdsong and river flowing,Ambient atmosphere effect volume:,Lautstärke Umgebungsgeräusche:
+GUI.BACK_LABEL,This should be as short as possible,Back,Zurück
+GUI.BUILD.BRIDGE,For building a bridge across a river,Bridge,Brücke
 GUI.BUILD.DOORS,Take from FURNITURE.SINGLE_DOOR,Doors,Türen
 GUI.BUILD.WALLS,,Walls,Wände
 GUI.BUILD.WALLS.LSHAPE,For building two walls in an L-shape,L-shape,L-Form
 GUI.BUILD.WALLS.QUAD,For building 4 walls at once,Quad,Viereck
 GUI.BUILD.WALLS.SINGLE,For building a single wall,Single,Einzeln
 GUI.BUILD_FURNITURE,This should be as short as possible,Furniture,Möbel
-GUI.BUILD_LABEL,This should be as short as possible,Build,"Bauen "
-GUI.CANCEL_LABEL,This should be as short as possible,Cancel,"Abbrechen "
+GUI.BUILD_LABEL,This should be as short as possible,Build,Bauen
+GUI.CANCEL_LABEL,This should be as short as possible,Cancel,Abbrechen
 GUI.CHANGE_PROFESSION_LABEL,,Change profession,Beruf wechseln
 GUI.CROP_SELECTION,,Crop:,Pflanze:
 GUI.DATE_TIME_LABEL,"E.g. 09:20, day 4, spring","{{timeOfDay}}, day {{dayNumber}}, {{season}}","{{timeOfDay}}, Tag {{dayNumber}}, {{season}}"
 GUI.DIALOG.DISMISS,,Dismiss,Verwerfen
 GUI.DIALOG.ERROR_ROOM_NAME_ALREADY_EXISTS,Error message when the player attempts to rename a room to the same name as another room,A room with that name already exists.,Ein Raum mit diesem Namen existiert schon.
-GUI.DIALOG.ERROR_SAVE_INCOMPATIBLE,"Error loading a save as it is from an older, incompatible version of the game",The save file could not be loaded because it is incompatible with this version of the game.,Die Datei konnte nicht geladen werden weil sie inkompatibel mit dieser Version des Spiels ist.
+GUI.DIALOG.ERROR_SAVE_INCOMPATIBLE,"Error loading a save as it is from an older, incompatible version of the game",The save file could not be loaded because it is incompatible with this version of the game.,"Die Datei konnte nicht geladen werden, da sie inkompatibel mit dieser Version des Spiels ist."
 GUI.DIALOG.ERROR_TITLE,Shown as the title of an error dialog,An error has occurred,Ein Fehler ist aufgetreten
 GUI.DIALOG.ERROR_WHILE_LOADING,Unexpected error while loading a previous save,There was an unexpected error while loading the game.,Während des Ladens ist ein unerwarteter Fehler aufgetreten.
 GUI.DIALOG.ERROR_WHILE_SAVING,Unexpected error while saving the game,There was an unexpected error while saving the game.,Während des Speicherns ist ein unerwarteter Fehler aufgetreten.
-GUI.DIALOG.INFO_TITLE,,Information,
+GUI.DIALOG.INFO_TITLE,,Information,Information
 GUI.DIALOG.JUMP_TO,,Go to location,Gehe zu
-GUI.DIALOG.LANGUAGE_TRANSLATION_INCOMPLETE,,The selected language translation is currently incomplete and will be missing some text. A fallback language will be used.,
-GUI.DIALOG.MOD_CHANGES_OUTSTANDING,,You have selected a different set of mods to be applied to the game. These will be applied when the game is next restarted.,
-GUI.DIALOG.MOD_INCOMPATIBLE,,One or more mods are incompatible with this version of the game and have been deactivated. You can check for updates in the mods menu.,
+GUI.DIALOG.LANGUAGE_TRANSLATION_INCOMPLETE,,The selected language translation is currently incomplete and will be missing some text. A fallback language will be used.,Die ausgewählte Übersetzung ist derzeit noch unvollständig und Teile des Textes fehlen. Es wird eine Ausweichsprache verwendet.
+GUI.DIALOG.MOD_CHANGES_OUTSTANDING,,You have selected a different set of mods to be applied to the game. These will be applied when the game is next restarted.,Du hast neue Mods ausgewählt. Diese werden erst beim nächsten Neustarts des Spiels aktiv.
+GUI.DIALOG.MOD_INCOMPATIBLE,,One or more mods are incompatible with this version of the game and have been deactivated. You can check for updates in the mods menu.,Eine oder mehrere Mods sind mit dieser Version des Spiels nicht kompatibel und wurden deaktiviert. Du kannst im Mods-Menü nach Updates suchen.
 GUI.DIALOG.OK_BUTTON,Single button shown to dismiss an error dialog,OK,OK
 GUI.DIALOG.RENAME_ROOM_TITLE,,Rename room,Raum umbenennen
-GUI.DIALOG.RESTART_REQUIRED,,You must restart the game for this change to take effect,
+GUI.DIALOG.RESTART_REQUIRED,,You must restart the game for this change to take effect,"Damit diese Änderung wirksam wird, muss das Spiel neugestart werden."
 GUI.FURNITURE_ASSIGNED_TO,Used to show who owns a piece of furniture,Assigned to {{name}},Zugewiesen zu {{name}}
 GUI.FURNITURE_BEING_REMOVED,Label for when a piece of furniture is in the process of being removed,Currently being removed,Wird gerade entfernt
 GUI.FURNITURE_REQUIRES_FLOOR_MATERIALTYPE,,This furniture must be placed on {{materialType}}.,Dieses Möbelstück muss auf {{materialType}} platziert werden.
@@ -255,21 +255,21 @@ GUI.MINIMAP.LABEL,,Minimap,Minikarte
 GUI.MUSIC_VOLUME,,Music volume:,Musiklautstärke:
 GUI.NEW_VERSION_AVAILABLE,,New version now available on Itch.io,Neue Version jetzt auf itch.io verfügbar
 GUI.NEXT_LABEL,This should be as short as possible,Next,Weiter
-GUI.NON_ROTATABLE_FURNITURE.HINT,,This furniture can not be rotated in this version of the game,
+GUI.NON_ROTATABLE_FURNITURE.HINT,,This furniture can not be rotated in this version of the game,Dieses Möbelstück kann in dieser Version des Spiels nicht rotiert werden.
 GUI.OK_LABEL,This should be as short as possible,Ok,OK
 GUI.OPTIONS.AUDIO.TITLE,,Sound Options,Audioeinstellungen
 GUI.OPTIONS.GAMEPLAY.HIDE_TREES_OBSCURING_SETTLERS,This is an option that makes trees partially transparent when a settler moves behind them,Make trees transparent when obscuring settlers,"Bäume transparent machen, wenn sie Siedler verdecken"
-GUI.OPTIONS.GAMEPLAY.PAUSE_ON_NOTIFICATION,,Pause for notifications,
-GUI.OPTIONS.GAMEPLAY.TITLE,,"Gameplay Options ",Gameplay-Optionen
-GUI.OPTIONS.GAMEPLAY.USE_EDGE_SCROLLING,This is for a question to ask if the player would like the camera to scroll/pan by placing the mouse at the edge of the screen,Scroll when cursor is at the edge of the screen,
+GUI.OPTIONS.GAMEPLAY.PAUSE_ON_NOTIFICATION,,Pause for notifications,Pause bei Benachrichtungen
+GUI.OPTIONS.GAMEPLAY.TITLE,,"Gameplay Options ","Spieleinstellungen "
+GUI.OPTIONS.GAMEPLAY.USE_EDGE_SCROLLING,This is for a question to ask if the player would like the camera to scroll/pan by placing the mouse at the edge of the screen,Scroll when cursor is at the edge of the screen,"Scrollen, wenn der Mauszeiger am Bildschirmrand ist"
 GUI.OPTIONS.GRAPHICS.TITLE,,"Graphics Options ","Grafikeinstellungen "
-GUI.OPTIONS.MISC.CRASH_REPORTING_ENABLED,,Allow automatic crash reports,"Automatische Crash-Benachrichtigungen erlauben "
+GUI.OPTIONS.MISC.CRASH_REPORTING_ENABLED,,Allow automatic crash reports,Automatische Absturzberichte erlauben
 GUI.OPTIONS.MISC.TITLE,,Miscellaneous,Verschiedenes
 GUI.ORDERS.CHOP_WOOD,This should be as short as possible,Chop,Hacken
 GUI.ORDERS.CLEAR_GROUND,This should be as short as possible,Clear,Aufräumen
 GUI.ORDERS.HARVEST_PLANTS,This should be as short as possible,Harvest,Ernten
-GUI.ORDERS.MINE,This should be as short as possible,Mine,"Graben "
-GUI.ORDERS_LABEL,This should be as short as possible,Orders,"Bestellungen "
+GUI.ORDERS.MINE,This should be as short as possible,Mine,Graben
+GUI.ORDERS_LABEL,This should be as short as possible,Orders,Aufträge
 GUI.PLACE_BRIDGE.HINT,This is a longer label as a hint to the player,A bridge must cover both sides of the river and be at least 3x3 tiles in size,Eine Brücke muss beide Seiten des Flusses bedecken und mindestens 3x3 Felder gross sein
 GUI.REMOVE_LABEL,This should be as short as possible,Remove,Entfernen
 GUI.REMOVE_TILES,This should be as short as possible,Remove tiles,Felder entfernen
@@ -280,7 +280,7 @@ GUI.SAVING_PROMPT,Displayed to the player when the game is paused for autosaving
 GUI.SETTLER_MANAGEMENT.DEAD_COUNTER,,Dead: {{count}},Tot: {{count}}
 GUI.SETTLER_MANAGEMENT.LIVING_COUNTER,,Population: {{count}},Bevölkerung: {{count}}
 GUI.SETTLER_MANAGEMENT.TITLE,,Settlers,Siedler
-GUI.SETTLER_MANAGEMENT.TOTAL_QUANTITY_LABEL,,Total: {{count}},Total: {{count}}
+GUI.SETTLER_MANAGEMENT.TOTAL_QUANTITY_LABEL,,Total: {{count}},Gesamt: {{count}}
 GUI.SOUND_EFFECT_VOLUME,,Sound effect volume,Soundeffektlautstärke
 GUI.UI_SCALE,Used to make the game interface larger or smaller,UI scale:,Interfacegröße
 GUI.ZONES_LABEL,This should be as short as possible,Zones,Zonen
@@ -288,15 +288,15 @@ GUI.ZONES_LABEL,This should be as short as possible,Zones,Zonen
 HAPPINESS_MODIFIER.ATE_NICELY_PREPARED_FOOD,,Ate a nicely prepared meal,Hat eine gute Mahlzeit gegessen
 HAPPINESS_MODIFIER.CARRIED_DEAD_BODY,,Carried a dead body,Trug einen toten Körper
 HAPPINESS_MODIFIER.DRANK_FROM_RIVER,,Drank river water,Trank Flusswasser
-HAPPINESS_MODIFIER.DYING_OF_HUNGER,,Starving,Am verhungern
-HAPPINESS_MODIFIER.DYING_OF_THIRST,,Critically dehydrated,Am verdursten
+HAPPINESS_MODIFIER.DYING_OF_HUNGER,,Starving,Am Verhungern
+HAPPINESS_MODIFIER.DYING_OF_THIRST,,Critically dehydrated,Am Verdursten
 HAPPINESS_MODIFIER.NEW_SETTLEMENT_OPTIMISM,,Optimistic about new settlement,Optimistisch wegen neuer Siedlung
 HAPPINESS_MODIFIER.POISONED,,Poisoned,Vergiftet
 HAPPINESS_MODIFIER.SAW_DEAD_BODY,,Saw a dead body,Sah einen toten Körper
 HAPPINESS_MODIFIER.SLEPT_IN_LARGE_PRIVATE_BEDROOM,,"Slept in a spacious, private bedroom","Schlief in einem geräumigen, eigenen Schlafzimmer"
 HAPPINESS_MODIFIER.SLEPT_IN_PRIVATE_BEDROOM,,Slept in a private bedroom,Schlief in eigenem Schlafzimmer
 HAPPINESS_MODIFIER.SLEPT_IN_SHARED_BEDROOM,,Shared a bedroom with others,Teilte ein Schlafzimmer mit anderen
-HAPPINESS_MODIFIER.SLEPT_IN_SMALL_BEDROOM,,Slept in a cramped bedroom,Schlief in einem engen Schlafzimmer
+HAPPINESS_MODIFIER.SLEPT_IN_SMALL_BEDROOM,,Slept in a cramped bedroom,Schlief in einem beengten Schlafzimmer
 HAPPINESS_MODIFIER.SLEPT_ON_GROUND,,Slept on rough ground,Schlief auf rauem Boden
 HAPPINESS_MODIFIER.SLEPT_OUTSIDE,,Slept under the stars,Schlief unter den Sternen
 HAPPINESS_MODIFIER.TITLE,,Happiness:,Zufriedenheit:
@@ -315,10 +315,10 @@ INGREDIENT.LOAF,To be combined with the above as “bread loaf”,Loaf,Laib
 INGREDIENT.LOAF.PLURAL,,Loaves,Laibe
 INGREDIENT.MUSHROOM.SPAWN.NOUN,,Mushroom spawn,Pilzkultur
 INGREDIENT.MUSHROOM.SPAWN.PLURAL,,Mushroom spawn,Pilzkulturen
-INGREDIENT.MUSHROOM.SPAWN.TOOLTIP,,"Also known as mycelium, this can be thought of as “seeds” from which to grow mushrooms in a {{ROOMS.MUSHROOM_FARM}}.","Auch bekannt als Myzel. Kann als ""Samen"" verwendet werden um Pilze in einer {{ROOMS.MUSHROOM_FARM}} zu züchten."
+INGREDIENT.MUSHROOM.SPAWN.TOOLTIP,,"Also known as mycelium, this can be thought of as “seeds” from which to grow mushrooms in a {{ROOMS.MUSHROOM_FARM}}.","Auch bekannt als Myzel, die man sich als "Samen" vorstellen kann, um Pilze in einer {{ROOMS.MUSHROOM_FARM}} zu züchten."
 INGREDIENT.SEEDS.NOUN,E.g. “Wheat seed”,Seed,Samen
 INGREDIENT.SEEDS.PLURAL,E.g. “4 wheat seeds”,Seeds,Samen
-INGREDIENT.SEEDS.TOOLTIP,,Seeds of the right type are required for planting in a {{ROOMS.FARM}}. They also need to be available in a {{STOCKPILE.GRANARY}} stockpile.,Um ein {{ROOMS.FARM}} zu bepflanzen braucht es Samen des richtigen Typs. Sie müssen auch in einem {{STOCKPILE.GRANARY}} verfügbar sein.
+INGREDIENT.SEEDS.TOOLTIP,,Seeds of the right type are required for planting in a {{ROOMS.FARM}}. They also need to be available in a {{STOCKPILE.GRANARY}} stockpile.,Für die Auspflanzung in einer {{ROOMS.FARM}} ist Saatgut der richtigen Art erforderlich. Es muss auch in einem {{STOCKPILE.GRANARY}} verfügbar sein.
 INGREDIENT.VEGETABLE.SACK.NOUN,E.g. “Sack containing a potato”,Sack,Sack
 
 INVENTORY.CONTAINS.LABEL,This is the label of “inventory” to go above a list of items contained within a piece of furniture or held by a character,Inventory:,Inventar:
@@ -326,7 +326,7 @@ INVENTORY.CONTAINS.LABEL,This is the label of “inventory” to go above a list
 ITEM.DESCRIPTION,"E.g. “Iron axe”, “Beech wood fishing rod”, “3 marble blocks”",{{quantity_if_multiple}}{{materialType.adjective}} {{itemType.noun_or_plural}},{{quantity_if_multiple}}{{itemType.noun_or_plural}} aus {{materialType}}
 ITEM.INGREDIENT.DESCRIPTION,E.g. “2 potatoes”,{{quantity_if_multiple}}{{materialType.noun_or_plural}},{{quantity_if_multiple}}{{materialType.noun_or_plural}}
 
-ITEM_GROUP.FUEL.PLURAL,,Fuel,Treibstoff
+ITEM_GROUP.FUEL.PLURAL,,Fuel,Brennstoff
 ITEM_GROUP.PRODUCT.PLURAL,,Products,Produkte
 ITEM_GROUP.RESOURCE.PLURAL,,Resources,Ressourcen
 ITEM_GROUP.TOOL.PLURAL,,Tools,Werkzeuge
@@ -335,14 +335,14 @@ LANGUAGE.LABEL,,Language,Sprache
 
 LIQUID.WATER.NOUN,,Water,Wasser
 
-MADNESS.BROKEN.ADJECTIVE,,Broken,
-MADNESS.BROKEN.TOOLTIP,,"This settler was so unhappy that they have been pushed past the breaking point and will no longer work or even eat! ",
+MADNESS.BROKEN.ADJECTIVE,,Broken,Gebrochen
+MADNESS.BROKEN.TOOLTIP,,"This settler was so unhappy that they have been pushed past the breaking point and will no longer work or even eat!","Dieser Siedler war so unglücklich, dass er über seine Belastungsgrenzen hinaus getrieben wurde und nicht mehr arbeiten oder gar essen wird!"
 
 MATERIAL,Used for specifying which material something is made out of,Material,Material
 
 MATERIAL_TYPE,,Type,Art
 MATERIAL_TYPE.ANY,For allowing any kind of material to be used,Any,Beliebig
-MATERIAL_TYPE.EARTH.ADJECTIVE,,Earthen,Erden
+MATERIAL_TYPE.EARTH.ADJECTIVE,,Earthen,Erde
 MATERIAL_TYPE.EARTH.NOUN,,Earth,Erde
 MATERIAL_TYPE.FOODSTUFF.NOUN,,Food,Nahrung
 MATERIAL_TYPE.GEM.NOUN,This is only used as a noun,Gem,Edelstein
@@ -351,20 +351,20 @@ MATERIAL_TYPE.METAL.NOUN,,Metal,Metall
 MATERIAL_TYPE.ORE.NOUN,This is only used as a noun,Ore,Erz
 MATERIAL_TYPE.OTHER.NOUN,This isn't actually used in-game yet so won't be combined with other words,Other,Anderes
 MATERIAL_TYPE.SEED.NOUN,For saying something is “made up of seed”,Seed,Samen
-MATERIAL_TYPE.STONE.ADJECTIVE,,,Stein
+MATERIAL_TYPE.STONE.ADJECTIVE,,Stone,Stein
 MATERIAL_TYPE.STONE.NOUN,,Stone,Stein
 MATERIAL_TYPE.VEGETABLE.NOUN,Used to make up “Vegetable soup”,Vegetable,Gemüse
-MATERIAL_TYPE.VITRIOL.ADJECTIVE,,Vitriol of,
-MATERIAL_TYPE.VITRIOL.NOUN,,Vitriol,
+MATERIAL_TYPE.VITRIOL.ADJECTIVE,,Vitriol of,Vitriol
+MATERIAL_TYPE.VITRIOL.NOUN,,Vitriol,Vitriol
 MATERIAL_TYPE.WOOD.ADJECTIVE,,Wooden,Holz
 MATERIAL_TYPE.WOOD.NOUN,,Wood,Holz
 
 MENU.CONTINUE_GAME,,Continue game,Spiel fortsetzen
-MENU.MODS,,Mods,
+MENU.MODS,,Mods,Mods
 MENU.NEW_GAME,,Start new game,Neues Spiel beginnen
 MENU.OPTIONS,,Options,Optionen
 MENU.QUIT,,Quit,Beenden
-MENU.TOGGLE_FULLSCREEN,,Toggle fullscreen,Auf Vollbildschirm umstellen
+MENU.TOGGLE_FULLSCREEN,,Toggle fullscreen,Vollbildschirm einstellen
 
 METAL.BRONZE.ADJECTIVE,,Bronze,Bronze
 METAL.BRONZE.NOUN,,Bronze,Bronze
@@ -378,16 +378,16 @@ METAL.GOLD.TOOLTIP,,"The king of metals. Although it is not the rarest or most v
 METAL.IRON.ADJECTIVE,,Iron,Eisen
 METAL.IRON.NOUN,,Iron,Eisen
 METAL.IRON.TOOLTIP,,It is a poor military which does not have access to iron. Dwarven metalsmiths know the secrets of working this into {{METAL.STEEL.NOUN}}.,
-METAL.PLATINUM.ADJECTIVE,,Platinum,
-METAL.PLATINUM.NOUN,,Platinum,
+METAL.PLATINUM.ADJECTIVE,,Platinum,Platin
+METAL.PLATINUM.NOUN,,Platinum,Platin
 METAL.PLATINUM.TOOLTIP,,A silver-white metal that is highly resistant to corrosion. Platinum is rarer and therefore more valuable than {{METAL.GOLD.NOUN}}.,
-METAL.SILVER.ADJECTIVE,,Silver,
+METAL.SILVER.ADJECTIVE,,Silver,Silber
 METAL.SILVER.NOUN,,Silver,Silber
 METAL.SILVER.TOOLTIP,,"Like {{METAL.GOLD.NOUN}}, silver is often used for coinage and as solid bars for the trading of wealth. ",
 METAL.STEEL.ADJECTIVE,,Steel,Stahl
 METAL.STEEL.NOUN,,Steel,Stahl
 METAL.STEEL.TOOLTIP,,"Far stronger than {{METAL.IRON.NOUN}} which makes for superior weapons and tools, only the dwarves know the secret of creating steel.",
-METAL.TIN.ADJECTIVE,,Tin,
+METAL.TIN.ADJECTIVE,,Tin,Zinn
 METAL.TIN.NOUN,,Tin,Zinn
 METAL.TIN.TOOLTIP,,Tin can be smelted from {{ORE.CASSITERITE.NOUN}} and alloyed with {{METAL.COPPER.NOUN}} to produce {{METAL.BRONZE.NOUN}}. (Alloys have not yet been implemented in King under the Mountain),
 
