@@ -7,42 +7,42 @@ ACTION.JOB.DECONSTRUCT,E.g. “Removing stone wall” “Removing wooden wall”
 ACTION.JOB.DIGGING,,Digging {{targetDescription}},Hakker {{targetDescription}}
 ACTION.JOB.FILL_GRAVE,For filling a grave with dirt,Filling {{targetDescription}},Fylder {{targetDescription}}
 ACTION.JOB.GENERIC,"E.g. “Smelting iron ore”, “Crafting wooden planks”",{{profession.verb}} {{targetDescription}},{{proffession.verb}} {{targetDescription}}
-ACTION.JOB.HARVESTING,,Harvesting {{targetPlant}},H�ster {{targetPlant}}
-ACTION.JOB.INNOCULATE_MUSHROOM_LOG,,Injecting mushroom spawn,Indspr�jter svampe spawn
+ACTION.JOB.HARVESTING,,Harvesting {{targetPlant}},Høster {{targetPlant}}
+ACTION.JOB.INNOCULATE_MUSHROOM_LOG,,Injecting mushroom spawn,Indsprøjter svampe spawn
 ACTION.JOB.LOGGING,,{{profession.verb}} {{targetPlant}},{{proffession.verb}} {{targetDescription}}
 ACTION.JOB.PLANTING,,Planting {{requiredItem}},Planter {{requiredItem}}
 ACTION.JOB.REMOVE_PESTS_FROM_CROP,,Removing pests from {{targetPlant}},Fjerner skadedyr fra {{targetPlant}}
 ACTION.JOB.SHOVELLING,,Shovelling {{targetDescription}},Graver {{targetDescription}}
-ACTION.JOB.TILLING,,Tilling the earth,Pl�jer jorden
+ACTION.JOB.TILLING,,Tilling the earth,Pløjer jorden
 ACTION.JOB.TRANSFER_LIQUID,For filling a container with a liquid,Filling {{targetDescription}},Fylder {{targetDescription}}
 ACTION.PREPARATION.VERB,,Preparing,Forbereder
 ACTION.SELECT_JOB.DESCRIPTION,When looking for a job to work,Looking for work to do,Leder efter arbejde at lave
 ACTION.SLEEP_IN_BED.DESCRIPTION,E.g. “Sleeping in wooden bed”,Sleeping in {{containerDescription}},Sover i {{containerDescription}}
-ACTION.SLEEP_ON_FLOOR.DESCRIPTION,E.g. “Sleeping on rough stone floor”,Sleeping on {{tileDescription}},Sover p� {{tileDescription}}
+ACTION.SLEEP_ON_FLOOR.DESCRIPTION,E.g. “Sleeping on rough stone floor”,Sleeping on {{tileDescription}},Sover på {{tileDescription}}
 ,,,
 CONSTRUCTION.DESCRIPTION,E.g. “Construction of granite stonemason workbench”,Construction of {{materialType.adjective}} {{furnitureType.noun}},Bygning af {{materialType.adjective}} {{furnitureType.noun}}
 CONSTRUCTION.ITEM_ALLOCATION,E.g. “1 of 3 marble blocks allocated” (or assigned),{{quantity}} of {{itemDescription}} allocated,{{quantity}} af {{itemDescription}} allokeret
 CONSTRUCTION.STATUS.CLEARING_WORK_SITE,This is to be displayed when other items need to be cleared out from an area that has something being built over it,Removing other items,Fjerner andre genstande
-CONSTRUCTION.STATUS.CLEARING_WORK_SITE.TOOLTIP,,There are items that need to be removed from this furniture’s construction area before it can progress.,"Der er genstande der mangler at blive flyttet fra m�blets byggeplads, f�r at det kan fremskride."
-CONSTRUCTION.STATUS.SELECTING_MATERIALS,E.g. “Waiting for more wooden planks to be available”,Waiting for more {{materialType}} {{itemDescription.plural}} to be available,Venter p� at mere {{materialType}} {{itemDescription.plural}} bliver tilg�ngeligt
+CONSTRUCTION.STATUS.CLEARING_WORK_SITE.TOOLTIP,,There are items that need to be removed from this furniture’s construction area before it can progress.,"Der er genstande der mangler at blive flyttet fra møblets byggeplads, f�r at det kan fremskride."
+CONSTRUCTION.STATUS.SELECTING_MATERIALS,E.g. “Waiting for more wooden planks to be available”,Waiting for more {{materialType}} {{itemDescription.plural}} to be available,Venter på at mere {{materialType}} {{itemDescription.plural}} bliver tilgængeligt
 CONSTRUCTION.STATUS.WAITING_FOR_COMPLETION,This is displayed once all resources are in place and the construction is being worked on,Under construction,Under konstruktion
-CONSTRUCTION.STATUS.WAITING_FOR_RESOURCES,This is displayed while a construction is waiting for resource items to be placed in the build area,Waiting for resources to arrive,Venter p� at resourcerne ankommer
+CONSTRUCTION.STATUS.WAITING_FOR_RESOURCES,This is displayed while a construction is waiting for resource items to be placed in the build area,Waiting for resources to arrive,Venter på at resourcerne ankommer
 ,,,
-COOKING.BREAD.DESCRIPTION,E.g. “Wheat bread”,{{materialDescription}} bread,{{materialDescription}} br�d
+COOKING.BREAD.DESCRIPTION,E.g. “Wheat bread”,{{materialDescription}} bread,{{materialDescription}} brød
 COOKING.DUAL_INGREDIENT.DESCRIPTION,"E.g. “Tomato and potato”, to be used for for two ingredients together as below",{{materialOne}} and {{materialTwo}},{{materialOne}} og {{materialTwo}}
 COOKING.SOUP.DESCRIPTION,"E.g. “Tomato soup”, “Tomato and potato soup”, “Vegetable soup”",{{materialDescription}} soup,{{materialDescription}} suppe
 ,,,
 CROP.AFFLICTED_BY_PESTS,For when a crop plant is infested with insects and other pests and needs some work to remove them,Afflicted by pests,Ramt af skadedyr
-CROP.AFFLICTED_BY_PESTS.TOOLTIP,,This crop has been afflicted by an excessive number of aphids and other insects which need to be removed by a {{PROFESSION.FARMER}} before it can flourish again. Not removing the pests in time could mean that this crop dies!,"Denne afgr�d er ramt af en stor m�ngde bladlus og andre insekter, som skal fjernes af {{PROFESSION.FARMER}} f�r den kan blomstre igen. Hvis ikke, kan planten d� efter tilstr�kkelig tid!"
+CROP.AFFLICTED_BY_PESTS.TOOLTIP,,This crop has been afflicted by an excessive number of aphids and other insects which need to be removed by a {{PROFESSION.FARMER}} before it can flourish again. Not removing the pests in time could mean that this crop dies!,"Denne afgrød er ramt af en stor mængde bladlus og andre insekter, som skal fjernes af {{PROFESSION.FARMER}} før den kan blomstre igen. Hvis ikke, kan planten dø efter tilstrækkelig tid!"
 CROP.DESCRIPTION,,{{materialType.noun}} plant,{{materialType.noun}} plante
-CROP.HARVEST_PROGRESS,E.g. “Progress towards harvest: 30%”,Progress towards harvest: {{progress}}%,Fremskridt mod h�st: {{progress}}%
+CROP.HARVEST_PROGRESS,E.g. “Progress towards harvest: 30%”,Progress towards harvest: {{progress}}%,Fremskridt mod høst: {{progress}}%
 ,,,
 DEATH_REASON.CRUSHED_BY_FALLING_DEBRIS,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Falling debris,Faldene vragrester
 DEATH_REASON.DEHYDRATION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Dehydration,Dehydrering
 DEATH_REASON.EXHAUSTION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Exhaustion,Udmattelse
 DEATH_REASON.FOOD_POISONING,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Food poisoning,Madforgiftning
 DEATH_REASON.STARVATION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Starvation,Sult
-DEATH_REASON.UNKNOWN,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Mysterious circumstances,Mystiske omst�ndigheder
+DEATH_REASON.UNKNOWN,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Mysterious circumstances,Mystiske omstændigheder
 ,,,
 EARTH.DIRT,,Dirt,Jord
 EARTH.GRASS,,Grass,Gras
@@ -55,31 +55,31 @@ FLOOR.GRAVEL,,Gravel,Grus
 FLOOR.RIVER,,River,Flod
 FLOOR.ROUGH_STONE,,Rough stone floor,Ru stengulv
 FLOOR.STONE_SLAB,,Stone slab,Sten plade
-FLOOR.TILLED_EARTH,,Tilled earth,Pl�jet jord
+FLOOR.TILLED_EARTH,,Tilled earth,Pløjet jord
 FLOOR.UNEXPLORED,Used when the player clicks on an area they have not discovered yet,Unexplored,Ikke udforsket
 ,,,
-FOODSTUFF.ROCKBREAD,This is a made-up fantasy food,Rockbread,Stenbr�d
-FOODSTUFF.ROCKBREAD.TOOLTIP,,This is an infamously tough bread which is so hard and practically inedible that it takes a very long time to turn mouldy. The human explorer J. A. Moffatt once described eating it as “akin to chewing gravel that has been dredged from a swamp”. Fortunately most dwarves don’t seem to mind.,"Dette er et berygted h�rdt br�d, som er s� h�rdt og praktisk set uspiseligt at det tager lang tid f�r det mugner. Den menneskelige udforsker J. A. Moffatt beskrev det engang som at spise grus taget fra en svamp. Heldigvis virker de fleste dv�rge til at v�re ligeglade."
+FOODSTUFF.ROCKBREAD,This is a made-up fantasy food,Rockbread,Stenbrød
+FOODSTUFF.ROCKBREAD.TOOLTIP,,This is an infamously tough bread which is so hard and practically inedible that it takes a very long time to turn mouldy. The human explorer J. A. Moffatt once described eating it as “akin to chewing gravel that has been dredged from a swamp”. Fortunately most dwarves don’t seem to mind.,"Dette er et berygted hårdt brød, som er så hårdt og uspiseligt at det tager lang tid før det mugner. Den menneskelige udforsker J. A. Moffatt beskrev det engang som at spise grus taget fra en svamp. Heldigvis virker de fleste dværge til at være ligeglade."
 FOODSTUFF.WHEAT-BREAD,"Actually just to describe “wheat” as a foodstuff, not specifically bread",Wheat,Hvede
 ,,,
-FUEL.SACK,,Fuel,Br�ndstof
-FUEL.SACK.TOOLTIP,,"Fuel is required in the production of metal, both by the {{FURNITURE.BLOOMERY_FURNACE}} and the {{FURNITURE.FORGE}}.","Br�ndstof er n�dvendigt I produktionen af metal, b�de af {{FURNITURE.BLOOMERY_FURNACE}} og {{FURNITURE.FORGE}}."
+FUEL.SACK,,Fuel,Brændstof
+FUEL.SACK.TOOLTIP,,"Fuel is required in the production of metal, both by the {{FURNITURE.BLOOMERY_FURNACE}} and the {{FURNITURE.FORGE}}.","Brændstof er nødvendigt I produktionen af metal, både af {{FURNITURE.BLOOMERY_FURNACE}} og {{FURNITURE.FORGE}}."
 ,,,
 FURNITURE.BAKERS_WORKTOP,,Baker’s worktop,Bagers arbejdstop
 FURNITURE.BAKERS_WORKTOP.TOOLTIP,,A {{PROFESSION.CHEF}} works here to turn {{RESOURCE.FLOUR.SACK.PLURAL}} into {{INGREDIENT.DOUGH}}.,En {{PROFESSION.CHEF}} arbejder her for at lave {{RESOURCE.FLOUR.SACK.PLURAL}} om til{{INGREDIENT.DOUGH}}.
 FURNITURE.BAKING_OVEN,For the baking of bread,Baker's oven,Bagers ovn
-FURNITURE.BAKING_OVEN.TOOLTIP,,A {{PROFESSION.CHEF}} bakes loaves here using prepared {{INGREDIENT.DOUGH}}.,En {{PROFESSION.CHEF}} bager stykker af br�d her ved at bruge {{INGREDIENT.DOUGH}}.
+FURNITURE.BAKING_OVEN.TOOLTIP,,A {{PROFESSION.CHEF}} bakes loaves here using prepared {{INGREDIENT.DOUGH}}.,En {{PROFESSION.CHEF}} bager stykker af brød her ved at bruge {{INGREDIENT.DOUGH}}.
 FURNITURE.BLOOMERY_FURNACE,A simple type of furnace to smelt metal from ore,Bloomery furnace,Blomstrende ovn
-FURNITURE.BLOOMERY_FURNACE.TOOLTIP,,A {{PROFESSION.BLACKSMITH}} uses this hand-operated furnace to turn {{RESOURCE.ORE.CRUSHED.PLURAL}} and {{FUEL.SACK}} into {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.,En {{PROFESSION.BLACKSMITH}} bruger denne h�nd-opereret ovn til at forvandle  {{RESOURCE.ORE.CRUSHED.PLURAL}} og {{FUEL.SACK}} om til {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.
-FURNITURE.CARPENTRY_WORKBENCH,,Carpentry workbench,T�mers arbejdsbord
-FURNITURE.CARPENTRY_WORKBENCH.TOOLTIP,,"Most wooden items and tools are produced here, such as {{PRODUCT.BUCKET.PLURAL}} and {{PRODUCT.BARREL.PLURAL}}.","De fleste tr� genstande og v�rkt�jer er produceret her, s�som {{PRODUCT.BUCKET.PLURAL}} og {{PRODUCT.BARREL.PLURAL}}."
+FURNITURE.BLOOMERY_FURNACE.TOOLTIP,,A {{PROFESSION.BLACKSMITH}} uses this hand-operated furnace to turn {{RESOURCE.ORE.CRUSHED.PLURAL}} and {{FUEL.SACK}} into {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.,En {{PROFESSION.BLACKSMITH}} bruger denne hånd-opereret ovn til at forvandle  {{RESOURCE.ORE.CRUSHED.PLURAL}} og {{FUEL.SACK}} om til {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.
+FURNITURE.CARPENTRY_WORKBENCH,,Carpentry workbench,Tømers arbejdsbord
+FURNITURE.CARPENTRY_WORKBENCH.TOOLTIP,,"Most wooden items and tools are produced here, such as {{PRODUCT.BUCKET.PLURAL}} and {{PRODUCT.BARREL.PLURAL}}.","De fleste træ genstande og værktøjer er produceret her, såsom {{PRODUCT.BUCKET.PLURAL}} og {{PRODUCT.BARREL.PLURAL}}."
 FURNITURE.CAULDRON,A large metal pot for cooking (common with Halloween),Cauldron,Kedel
-FURNITURE.CAULDRON.TOOLTIP,,A cauldron is used to serve a large quantity of soup to hungry settlers. The soup is produced in a {{ROOMS.KITCHEN}} before being moved to a {{ROOMS.FEASTING_HALL}} for serving.,En keddel bliver brugt til at servere store m�ngder suppe til bos�tterne. Suppen er produceret i et {{ROOMS.KITCHEN}} f�r den bliver bragt hen til {{ROOMS.FEASTING_HALL}} til servering.
+FURNITURE.CAULDRON.TOOLTIP,,A cauldron is used to serve a large quantity of soup to hungry settlers. The soup is produced in a {{ROOMS.KITCHEN}} before being moved to a {{ROOMS.FEASTING_HALL}} for serving.,En keddel bliver brugt til at servere store mængder suppe til bosætterne. Suppen er produceret i et {{ROOMS.KITCHEN}} før den bliver bragt hen til {{ROOMS.FEASTING_HALL}} til servering.
 FURNITURE.CHAIR,,Chair,Stol
-FURNITURE.CHARCOAL_CLAMP,,Charcoal clamp,Tr�kuls klemme
-FURNITURE.CHARCOAL_CLAMP.TOOLTIP,,"This is a pile of {{RESOURCE.LOGS.PLURAL}} covered with {{MATERIAL_TYPE.EARTH}} and slowly burned to produce {{ORE.CHARCOAL.NOUN}}, which can then be used as {{FUEL.SACK}}.","Dette er en bunk af {{RESOURCE.LOGS.PLURAL}} d�kket af {{MATERIAL_TYPE.EARTH}} som langsomt bliver br�ndt, for at producere {{ORE.CHARCOAL.NOUN}}, som kan bruges til {{FUEL.SACK}}."
+FURNITURE.CHARCOAL_CLAMP,,Charcoal clamp,Trækuls klemme
+FURNITURE.CHARCOAL_CLAMP.TOOLTIP,,"This is a pile of {{RESOURCE.LOGS.PLURAL}} covered with {{MATERIAL_TYPE.EARTH}} and slowly burned to produce {{ORE.CHARCOAL.NOUN}}, which can then be used as {{FUEL.SACK}}.","Dette er en bunk af {{RESOURCE.LOGS.PLURAL}} dækket af {{MATERIAL_TYPE.EARTH}} som langsomt bliver brændt, for at producere {{ORE.CHARCOAL.NOUN}}, som kan bruges til {{FUEL.SACK}}."
 FURNITURE.COKE_OVEN,,Coke oven,Koksovn
-FURNITURE.COKE_OVEN.TOOLTIP,,A coke oven converts {{ORE.BITUMINOUS_COAL.NOUN}} into {{ORE.COKE.NOUN}} so that it can be used as {{FUEL.SACK}}.,En koksovn konventere {{ORE.BITUMINOUS_COAL.NOUN}} til {{ORE.COKE.NOUN}} s� det kan bruges som {{FUEL.SACK}}.
+FURNITURE.COKE_OVEN.TOOLTIP,,A coke oven converts {{ORE.BITUMINOUS_COAL.NOUN}} into {{ORE.COKE.NOUN}} so that it can be used as {{FUEL.SACK}}.,En koksovn konventere {{ORE.BITUMINOUS_COAL.NOUN}} til {{ORE.COKE.NOUN}} så det kan bruges som {{FUEL.SACK}}.
 FURNITURE.DESCRIPTION,E.g. “Granite stonemason workbench”,{{materialType.adjective}} {{furnitureType.noun}},{{materialType.adjective}} {{furnitureType.noun}}
 FURNITURE.DESCRIPTION.GENERIC_PROGRESS,,Progress to completion: {{progress}}%,Fremskridt: {{progress}}%
 FURNITURE.DESCRIPTION.MUSHROOM_INNOCULATION_IN_PROGRESS,,Progress to complete innoculation: {{progress}}%,Fremskridt til podning: {{progress}}%
