@@ -7,42 +7,42 @@ ACTION.JOB.DECONSTRUCT,E.g. “Removing stone wall” “Removing wooden wall”
 ACTION.JOB.DIGGING,,Digging {{targetDescription}},Hakker {{targetDescription}}
 ACTION.JOB.FILL_GRAVE,For filling a grave with dirt,Filling {{targetDescription}},Fylder {{targetDescription}}
 ACTION.JOB.GENERIC,"E.g. “Smelting iron ore”, “Crafting wooden planks”",{{profession.verb}} {{targetDescription}},{{proffession.verb}} {{targetDescription}}
-ACTION.JOB.HARVESTING,,Harvesting {{targetPlant}},H�ster {{targetPlant}}
-ACTION.JOB.INNOCULATE_MUSHROOM_LOG,,Injecting mushroom spawn,Indspr�jter svampe spawn
+ACTION.JOB.HARVESTING,,Harvesting {{targetPlant}},H�ster {{targetPlant}}
+ACTION.JOB.INNOCULATE_MUSHROOM_LOG,,Injecting mushroom spawn,Indspr�jter svampe spawn
 ACTION.JOB.LOGGING,,{{profession.verb}} {{targetPlant}},{{proffession.verb}} {{targetDescription}}
 ACTION.JOB.PLANTING,,Planting {{requiredItem}},Planter {{requiredItem}}
 ACTION.JOB.REMOVE_PESTS_FROM_CROP,,Removing pests from {{targetPlant}},Fjerner skadedyr fra {{targetPlant}}
 ACTION.JOB.SHOVELLING,,Shovelling {{targetDescription}},Graver {{targetDescription}}
-ACTION.JOB.TILLING,,Tilling the earth,Pl�jer jorden
+ACTION.JOB.TILLING,,Tilling the earth,Pl�jer jorden
 ACTION.JOB.TRANSFER_LIQUID,For filling a container with a liquid,Filling {{targetDescription}},Fylder {{targetDescription}}
 ACTION.PREPARATION.VERB,,Preparing,Forbereder
 ACTION.SELECT_JOB.DESCRIPTION,When looking for a job to work,Looking for work to do,Leder efter arbejde at lave
 ACTION.SLEEP_IN_BED.DESCRIPTION,E.g. “Sleeping in wooden bed”,Sleeping in {{containerDescription}},Sover i {{containerDescription}}
-ACTION.SLEEP_ON_FLOOR.DESCRIPTION,E.g. “Sleeping on rough stone floor”,Sleeping on {{tileDescription}},Sover p� {{tileDescription}}
+ACTION.SLEEP_ON_FLOOR.DESCRIPTION,E.g. “Sleeping on rough stone floor”,Sleeping on {{tileDescription}},Sover p� {{tileDescription}}
 ,,,
 CONSTRUCTION.DESCRIPTION,E.g. “Construction of granite stonemason workbench”,Construction of {{materialType.adjective}} {{furnitureType.noun}},Bygning af {{materialType.adjective}} {{furnitureType.noun}}
 CONSTRUCTION.ITEM_ALLOCATION,E.g. “1 of 3 marble blocks allocated” (or assigned),{{quantity}} of {{itemDescription}} allocated,{{quantity}} af {{itemDescription}} allokeret
 CONSTRUCTION.STATUS.CLEARING_WORK_SITE,This is to be displayed when other items need to be cleared out from an area that has something being built over it,Removing other items,Fjerner andre genstande
-CONSTRUCTION.STATUS.CLEARING_WORK_SITE.TOOLTIP,,There are items that need to be removed from this furniture’s construction area before it can progress.,"Der er genstande der mangler at blive flyttet fra m�blets byggeplads, f�r at det kan fremskride."
-CONSTRUCTION.STATUS.SELECTING_MATERIALS,E.g. “Waiting for more wooden planks to be available”,Waiting for more {{materialType}} {{itemDescription.plural}} to be available,Venter p� at mere {{materialType}} {{itemDescription.plural}} bliver tilg�ngeligt
+CONSTRUCTION.STATUS.CLEARING_WORK_SITE.TOOLTIP,,There are items that need to be removed from this furniture’s construction area before it can progress.,"Der er genstande der mangler at blive flyttet fra m�blets byggeplads, f�r at det kan fremskride."
+CONSTRUCTION.STATUS.SELECTING_MATERIALS,E.g. “Waiting for more wooden planks to be available”,Waiting for more {{materialType}} {{itemDescription.plural}} to be available,Venter p� at mere {{materialType}} {{itemDescription.plural}} bliver tilg�ngeligt
 CONSTRUCTION.STATUS.WAITING_FOR_COMPLETION,This is displayed once all resources are in place and the construction is being worked on,Under construction,Under konstruktion
-CONSTRUCTION.STATUS.WAITING_FOR_RESOURCES,This is displayed while a construction is waiting for resource items to be placed in the build area,Waiting for resources to arrive,Venter p� at resourcerne ankommer
+CONSTRUCTION.STATUS.WAITING_FOR_RESOURCES,This is displayed while a construction is waiting for resource items to be placed in the build area,Waiting for resources to arrive,Venter p� at resourcerne ankommer
 ,,,
-COOKING.BREAD.DESCRIPTION,E.g. “Wheat bread”,{{materialDescription}} bread,{{materialDescription}} br�d
+COOKING.BREAD.DESCRIPTION,E.g. “Wheat bread”,{{materialDescription}} bread,{{materialDescription}} br�d
 COOKING.DUAL_INGREDIENT.DESCRIPTION,"E.g. “Tomato and potato”, to be used for for two ingredients together as below",{{materialOne}} and {{materialTwo}},{{materialOne}} og {{materialTwo}}
 COOKING.SOUP.DESCRIPTION,"E.g. “Tomato soup”, “Tomato and potato soup”, “Vegetable soup”",{{materialDescription}} soup,{{materialDescription}} suppe
 ,,,
 CROP.AFFLICTED_BY_PESTS,For when a crop plant is infested with insects and other pests and needs some work to remove them,Afflicted by pests,Ramt af skadedyr
-CROP.AFFLICTED_BY_PESTS.TOOLTIP,,This crop has been afflicted by an excessive number of aphids and other insects which need to be removed by a {{PROFESSION.FARMER}} before it can flourish again. Not removing the pests in time could mean that this crop dies!,"Denne afgr�d er ramt af en stor m�ngde bladlus og andre insekter, som skal fjernes af {{PROFESSION.FARMER}} f�r den kan blomstre igen. Hvis ikke, kan planten d� efter tilstr�kkelig tid!"
+CROP.AFFLICTED_BY_PESTS.TOOLTIP,,This crop has been afflicted by an excessive number of aphids and other insects which need to be removed by a {{PROFESSION.FARMER}} before it can flourish again. Not removing the pests in time could mean that this crop dies!,"Denne afgr�d er ramt af en stor m�ngde bladlus og andre insekter, som skal fjernes af {{PROFESSION.FARMER}} f�r den kan blomstre igen. Hvis ikke, kan planten d� efter tilstr�kkelig tid!"
 CROP.DESCRIPTION,,{{materialType.noun}} plant,{{materialType.noun}} plante
-CROP.HARVEST_PROGRESS,E.g. “Progress towards harvest: 30%”,Progress towards harvest: {{progress}}%,Fremskridt mod h�st: {{progress}}%
+CROP.HARVEST_PROGRESS,E.g. “Progress towards harvest: 30%”,Progress towards harvest: {{progress}}%,Fremskridt mod h�st: {{progress}}%
 ,,,
 DEATH_REASON.CRUSHED_BY_FALLING_DEBRIS,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Falling debris,Faldene vragrester
 DEATH_REASON.DEHYDRATION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Dehydration,Dehydrering
 DEATH_REASON.EXHAUSTION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Exhaustion,Udmattelse
 DEATH_REASON.FOOD_POISONING,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Food poisoning,Madforgiftning
 DEATH_REASON.STARVATION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Starvation,Sult
-DEATH_REASON.UNKNOWN,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Mysterious circumstances,Mystiske omst�ndigheder
+DEATH_REASON.UNKNOWN,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Mysterious circumstances,Mystiske omst�ndigheder
 ,,,
 EARTH.DIRT,,Dirt,Jord
 EARTH.GRASS,,Grass,Gras
@@ -55,69 +55,69 @@ FLOOR.GRAVEL,,Gravel,Grus
 FLOOR.RIVER,,River,Flod
 FLOOR.ROUGH_STONE,,Rough stone floor,Ru stengulv
 FLOOR.STONE_SLAB,,Stone slab,Sten plade
-FLOOR.TILLED_EARTH,,Tilled earth,Pl�jet jord
+FLOOR.TILLED_EARTH,,Tilled earth,Pl�jet jord
 FLOOR.UNEXPLORED,Used when the player clicks on an area they have not discovered yet,Unexplored,Ikke udforsket
 ,,,
-FOODSTUFF.ROCKBREAD,This is a made-up fantasy food,Rockbread,Stenbr�d
-FOODSTUFF.ROCKBREAD.TOOLTIP,,This is an infamously tough bread which is so hard and practically inedible that it takes a very long time to turn mouldy. The human explorer J. A. Moffatt once described eating it as “akin to chewing gravel that has been dredged from a swamp”. Fortunately most dwarves don’t seem to mind.,"Dette er et berygted h�rdt br�d, som er s� h�rdt og praktisk set uspiseligt at det tager lang tid f�r det mugner. Den menneskelige udforsker J. A. Moffatt beskrev det engang som at spise grus taget fra en svamp. Heldigvis virker de fleste dv�rge til at v�re ligeglade."
+FOODSTUFF.ROCKBREAD,This is a made-up fantasy food,Rockbread,Stenbr�d
+FOODSTUFF.ROCKBREAD.TOOLTIP,,This is an infamously tough bread which is so hard and practically inedible that it takes a very long time to turn mouldy. The human explorer J. A. Moffatt once described eating it as “akin to chewing gravel that has been dredged from a swamp”. Fortunately most dwarves don’t seem to mind.,"Dette er et berygted h�rdt br�d, som er s� h�rdt og praktisk set uspiseligt at det tager lang tid f�r det mugner. Den menneskelige udforsker J. A. Moffatt beskrev det engang som at spise grus taget fra en svamp. Heldigvis virker de fleste dv�rge til at v�re ligeglade."
 FOODSTUFF.WHEAT-BREAD,"Actually just to describe “wheat” as a foodstuff, not specifically bread",Wheat,Hvede
 ,,,
-FUEL.SACK,,Fuel,Br�ndstof
-FUEL.SACK.TOOLTIP,,"Fuel is required in the production of metal, both by the {{FURNITURE.BLOOMERY_FURNACE}} and the {{FURNITURE.FORGE}}.","Br�ndstof er n�dvendigt I produktionen af metal, b�de af {{FURNITURE.BLOOMERY_FURNACE}} og {{FURNITURE.FORGE}}."
+FUEL.SACK,,Fuel,Br�ndstof
+FUEL.SACK.TOOLTIP,,"Fuel is required in the production of metal, both by the {{FURNITURE.BLOOMERY_FURNACE}} and the {{FURNITURE.FORGE}}.","Br�ndstof er n�dvendigt I produktionen af metal, b�de af {{FURNITURE.BLOOMERY_FURNACE}} og {{FURNITURE.FORGE}}."
 ,,,
 FURNITURE.BAKERS_WORKTOP,,Baker’s worktop,Bagers arbejdstop
 FURNITURE.BAKERS_WORKTOP.TOOLTIP,,A {{PROFESSION.CHEF}} works here to turn {{RESOURCE.FLOUR.SACK.PLURAL}} into {{INGREDIENT.DOUGH}}.,En {{PROFESSION.CHEF}} arbejder her for at lave {{RESOURCE.FLOUR.SACK.PLURAL}} om til{{INGREDIENT.DOUGH}}.
 FURNITURE.BAKING_OVEN,For the baking of bread,Baker's oven,Bagers ovn
-FURNITURE.BAKING_OVEN.TOOLTIP,,A {{PROFESSION.CHEF}} bakes loaves here using prepared {{INGREDIENT.DOUGH}}.,En {{PROFESSION.CHEF}} bager stykker af br�d her ved at bruge {{INGREDIENT.DOUGH}}.
+FURNITURE.BAKING_OVEN.TOOLTIP,,A {{PROFESSION.CHEF}} bakes loaves here using prepared {{INGREDIENT.DOUGH}}.,En {{PROFESSION.CHEF}} bager stykker af br�d her ved at bruge {{INGREDIENT.DOUGH}}.
 FURNITURE.BLOOMERY_FURNACE,A simple type of furnace to smelt metal from ore,Bloomery furnace,Blomstrende ovn
-FURNITURE.BLOOMERY_FURNACE.TOOLTIP,,A {{PROFESSION.BLACKSMITH}} uses this hand-operated furnace to turn {{RESOURCE.ORE.CRUSHED.PLURAL}} and {{FUEL.SACK}} into {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.,En {{PROFESSION.BLACKSMITH}} bruger denne h�nd-opereret ovn til at forvandle  {{RESOURCE.ORE.CRUSHED.PLURAL}} og {{FUEL.SACK}} om til {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.
-FURNITURE.CARPENTRY_WORKBENCH,,Carpentry workbench,T�mers arbejdsbord
-FURNITURE.CARPENTRY_WORKBENCH.TOOLTIP,,"Most wooden items and tools are produced here, such as {{PRODUCT.BUCKET.PLURAL}} and {{PRODUCT.BARREL.PLURAL}}.","De fleste tr� genstande og v�rkt�jer er produceret her, s�som {{PRODUCT.BUCKET.PLURAL}} og {{PRODUCT.BARREL.PLURAL}}."
+FURNITURE.BLOOMERY_FURNACE.TOOLTIP,,A {{PROFESSION.BLACKSMITH}} uses this hand-operated furnace to turn {{RESOURCE.ORE.CRUSHED.PLURAL}} and {{FUEL.SACK}} into {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.,En {{PROFESSION.BLACKSMITH}} bruger denne h�nd-opereret ovn til at forvandle  {{RESOURCE.ORE.CRUSHED.PLURAL}} og {{FUEL.SACK}} om til {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.
+FURNITURE.CARPENTRY_WORKBENCH,,Carpentry workbench,T�mers arbejdsbord
+FURNITURE.CARPENTRY_WORKBENCH.TOOLTIP,,"Most wooden items and tools are produced here, such as {{PRODUCT.BUCKET.PLURAL}} and {{PRODUCT.BARREL.PLURAL}}.","De fleste tr� genstande og v�rkt�jer er produceret her, s�som {{PRODUCT.BUCKET.PLURAL}} og {{PRODUCT.BARREL.PLURAL}}."
 FURNITURE.CAULDRON,A large metal pot for cooking (common with Halloween),Cauldron,Kedel
-FURNITURE.CAULDRON.TOOLTIP,,A cauldron is used to serve a large quantity of soup to hungry settlers. The soup is produced in a {{ROOMS.KITCHEN}} before being moved to a {{ROOMS.FEASTING_HALL}} for serving.,En keddel bliver brugt til at servere store m�ngder suppe til bos�tterne. Suppen er produceret i et {{ROOMS.KITCHEN}} f�r den bliver bragt hen til {{ROOMS.FEASTING_HALL}} til servering.
+FURNITURE.CAULDRON.TOOLTIP,,A cauldron is used to serve a large quantity of soup to hungry settlers. The soup is produced in a {{ROOMS.KITCHEN}} before being moved to a {{ROOMS.FEASTING_HALL}} for serving.,En keddel bliver brugt til at servere store m�ngder suppe til bos�tterne. Suppen er produceret i et {{ROOMS.KITCHEN}} f�r den bliver bragt hen til {{ROOMS.FEASTING_HALL}} til servering.
 FURNITURE.CHAIR,,Chair,Stol
-FURNITURE.CHARCOAL_CLAMP,,Charcoal clamp,Tr�kuls klemme
-FURNITURE.CHARCOAL_CLAMP.TOOLTIP,,"This is a pile of {{RESOURCE.LOGS.PLURAL}} covered with {{MATERIAL_TYPE.EARTH}} and slowly burned to produce {{ORE.CHARCOAL.NOUN}}, which can then be used as {{FUEL.SACK}}.","Dette er en bunk af {{RESOURCE.LOGS.PLURAL}} d�kket af {{MATERIAL_TYPE.EARTH}} som langsomt bliver br�ndt, for at producere {{ORE.CHARCOAL.NOUN}}, som kan bruges til {{FUEL.SACK}}."
+FURNITURE.CHARCOAL_CLAMP,,Charcoal clamp,Tr�kuls klemme
+FURNITURE.CHARCOAL_CLAMP.TOOLTIP,,"This is a pile of {{RESOURCE.LOGS.PLURAL}} covered with {{MATERIAL_TYPE.EARTH}} and slowly burned to produce {{ORE.CHARCOAL.NOUN}}, which can then be used as {{FUEL.SACK}}.","Dette er en bunk af {{RESOURCE.LOGS.PLURAL}} d�kket af {{MATERIAL_TYPE.EARTH}} som langsomt bliver br�ndt, for at producere {{ORE.CHARCOAL.NOUN}}, som kan bruges til {{FUEL.SACK}}."
 FURNITURE.COKE_OVEN,,Coke oven,Koksovn
-FURNITURE.COKE_OVEN.TOOLTIP,,A coke oven converts {{ORE.BITUMINOUS_COAL.NOUN}} into {{ORE.COKE.NOUN}} so that it can be used as {{FUEL.SACK}}.,En koksovn konventere {{ORE.BITUMINOUS_COAL.NOUN}} til {{ORE.COKE.NOUN}} s� det kan bruges som {{FUEL.SACK}}.
-FURNITURE.DESCRIPTION,E.g. “Granite stonemason workbench”,{{materialType.adjective}} {{furnitureType.noun}},
-FURNITURE.DESCRIPTION.GENERIC_PROGRESS,,Progress to completion: {{progress}}%,
-FURNITURE.DESCRIPTION.MUSHROOM_INNOCULATION_IN_PROGRESS,,Progress to complete innoculation: {{progress}}%,
-FURNITURE.DESCRIPTION.SHOCKING_IN_PROGRESS,Used to display how long a mushroom log submerged in water needs to be “shocked” for,Progress to shock mushroom log: {{progress}}%,
-FURNITURE.DESCRIPTION.WAITING_FOR_ITEM,,Waiting for {{itemType.noun}},
-FURNITURE.DESCRIPTION.WAITING_FOR_LIQUID,,Waiting to be filled,
-FURNITURE.DESCRIPTION.WAITING_FOR_MUSHROOM_SPAWN,,Waiting to be injected with mushroom spawn,
-FURNITURE.FEASTING_TABLE,A very large table for a feast,Feasting table,
-FURNITURE.FEASTING_TABLE.TOOLTIP,,"With a {{FURNITURE.CHAIR}} in place, your settlers will enjoy their meals at this table.",
-FURNITURE.FLOUR_MILL,This is a table with a hand-operated flour mill stone on top,Gristmill,
-FURNITURE.FLOUR_MILL.TOOLTIP,,The gristmill grinds {{VEGETABLE.WHEAT}} into {{RESOURCE.FLOUR.SACK.NOUN}} so that it can be used by a {{PROFESSION.CHEF}}.,
-FURNITURE.FORGE,,Forge,
-FURNITURE.FORGE.TOOLTIP,,This is where a {{PROFESSION.BLACKSMITH}} works with {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}} and {{FUEL.SACK}} to craft items and weapons.,
-FURNITURE.GRAVE,,Grave,
-FURNITURE.GRAVE.TOOLTIP,,A hastily-dug grave for deceased settlers that can only be placed in {{MATERIAL_TYPE.EARTH}}.,
-FURNITURE.KITCHEN_WORKTOP,Simple piece of furniture in a kitchen used to hold ingredients on top of it,Kitchen worktop,
-FURNITURE.KITCHEN_WORKTOP.TOOLTIP,,An area to store ingredients for a {{PROFESSION.CHEF}} to cook soup.,
-FURNITURE.LANTERN,,Lantern,
-FURNITURE.LANTERN.TOOLTIP,,A lantern provides light – this does not currently have an in-game effect.,
-FURNITURE.LARGE_TABLE,,Large table,
-FURNITURE.MUSHROOM_LOG,,Mushroom log,
-FURNITURE.MUSHROOM_LOG.TOOLTIP,,"A log that has been injected with {{INGREDIENT.MUSHROOM.SPAWN.PLURAL}} to produce several harvests of delicious, juicy mushrooms.",
-FURNITURE.MUSHROOM_SHOCK_TANK,This is a trough of water used to immerse mushroom logs in for a period of time,Shock tank,
-FURNITURE.MUSHROOM_SHOCK_TANK.TOOLTIP,,"After innoculation, a {{FURNITURE.MUSHROOM_LOG}} is placed in this tank to “shock” the mushroom colony and encourage it to grow mushrooms.",
-FURNITURE.ORE_CRUSHING_STATION,,Ore crushing station,
-FURNITURE.ORE_CRUSHING_STATION.TOOLTIP,,Raw {{RESOURCE.ORE.UNREFINED.PLURAL}} is crushed to a more workable size so that it can be used in a {{FURNITURE.BLOOMERY_FURNACE}}.,
-FURNITURE.PILLAR,A pillar used to support a roof,Pillar,
-FURNITURE.PILLAR.TOOLTIP,,A pillar is required to stop large mined-out areas from collapsing. An area of 7x7 tiles that have been mined without any pillars or other supports in place will eventually collapse.,
-FURNITURE.SARCOPHAGUS,A stone tomb,Sarcophagus,
-FURNITURE.SARCOPHAGUS.TOOLTIP,,This elaborate stone container is the final resting place of a deceased settler.,
-FURNITURE.SERVING_TABLE,A table used to hold food for serving,Serving table,
-FURNITURE.SERVING_TABLE.TOOLTIP,,{{PRODUCT.BREAD.LOAF.PLURAL}} are placed here for serving after being baked in a {{FURNITURE.BAKING_OVEN}}.,
-FURNITURE.SINGLE_BED,,Bed,
-FURNITURE.SINGLE_BED.TOOLTIP,,A bed is the best place for a comfortable night’s rest. ,
-FURNITURE.SINGLE_DOOR,,Door,
-FURNITURE.SINGLE_DOOR_FRAME,,Door frame,
-FURNITURE.SMALL_TABLE,,Small table,
-FURNITURE.STONEMASON_WORKBENCH,,Stonemason workbench,
+FURNITURE.COKE_OVEN.TOOLTIP,,A coke oven converts {{ORE.BITUMINOUS_COAL.NOUN}} into {{ORE.COKE.NOUN}} so that it can be used as {{FUEL.SACK}}.,En koksovn konventere {{ORE.BITUMINOUS_COAL.NOUN}} til {{ORE.COKE.NOUN}} s� det kan bruges som {{FUEL.SACK}}.
+FURNITURE.DESCRIPTION,E.g. “Granite stonemason workbench”,{{materialType.adjective}} {{furnitureType.noun}},{{materialType.adjective}} {{furnitureType.noun}}
+FURNITURE.DESCRIPTION.GENERIC_PROGRESS,,Progress to completion: {{progress}}%,Fremskridt: {{progress}}%
+FURNITURE.DESCRIPTION.MUSHROOM_INNOCULATION_IN_PROGRESS,,Progress to complete innoculation: {{progress}}%,Fremskridt til podning: {{progress}}%
+FURNITURE.DESCRIPTION.SHOCKING_IN_PROGRESS,Used to display how long a mushroom log submerged in water needs to be “shocked” for,Progress to shock mushroom log: {{progress}}%,Fremskridt til svampe stamme: {{progress}}%
+FURNITURE.DESCRIPTION.WAITING_FOR_ITEM,,Waiting for {{itemType.noun}},Venter på {{itemType.noun}}
+FURNITURE.DESCRIPTION.WAITING_FOR_LIQUID,,Waiting to be filled,Venter på at blive genfyldt
+FURNITURE.DESCRIPTION.WAITING_FOR_MUSHROOM_SPAWN,,Waiting to be injected with mushroom spawn,Venter på at blive indsprøjtet med svampe sporer
+FURNITURE.FEASTING_TABLE,A very large table for a feast,Feasting table,Fest bord
+FURNITURE.FEASTING_TABLE.TOOLTIP,,"With a {{FURNITURE.CHAIR}} in place, your settlers will enjoy their meals at this table.","Med en {{FURNITURE.CHAR}} til stede, vil dine beboer nyde deres måltid ved bordet"
+FURNITURE.FLOUR_MILL,This is a table with a hand-operated flour mill stone on top,Gristmill,Kværn
+FURNITURE.FLOUR_MILL.TOOLTIP,,The gristmill grinds {{VEGETABLE.WHEAT}} into {{RESOURCE.FLOUR.SACK.NOUN}} so that it can be used by a {{PROFESSION.CHEF}}.,Kværnen maler {{VEGETABLE.WHEAT}} til {{RESOURCE.FLOUR.SACK.NOUN}} så det kan bruges af en {{PROFESSION.CHEF}}.
+FURNITURE.FORGE,,Forge,Smedeværksted
+FURNITURE.FORGE.TOOLTIP,,This is where a {{PROFESSION.BLACKSMITH}} works with {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}} and {{FUEL.SACK}} to craft items and weapons.,Her vil en {{PROFESSION.BLACKSMITH}} arbejde med {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}} og {{FUEL.SACK}} for at smede våben og værktøj.
+FURNITURE.GRAVE,,Grave,Grav
+FURNITURE.GRAVE.TOOLTIP,,A hastily-dug grave for deceased settlers that can only be placed in {{MATERIAL_TYPE.EARTH}}.,En hurtigt lavet grav til afdøde beboer. Kan kun laves på {{MATERIAL_TYPE.EARTH}}.
+FURNITURE.KITCHEN_WORKTOP,Simple piece of furniture in a kitchen used to hold ingredients on top of it,Kitchen worktop,Køkkenhylde
+FURNITURE.KITCHEN_WORKTOP.TOOLTIP,,An area to store ingredients for a {{PROFESSION.CHEF}} to cook soup.,Et område til at opbevarer ingredienser som en {{PROFESSION.CHEF}} kan lave til suppe.
+FURNITURE.LANTERN,,Lantern,Lanterne
+FURNITURE.LANTERN.TOOLTIP,,A lantern provides light – this does not currently have an in-game effect.,En lanterne laver lys - har på nuværende tidspunkt ikke en effect
+FURNITURE.LARGE_TABLE,,Large table,Stort bord
+FURNITURE.MUSHROOM_LOG,,Mushroom log,Svampe stamme
+FURNITURE.MUSHROOM_LOG.TOOLTIP,,"A log that has been injected with {{INGREDIENT.MUSHROOM.SPAWN.PLURAL}} to produce several harvests of delicious, juicy mushrooms.",En stamme der er blevet indsprøjtet med svampe sporer for at producere flere lækre høste af svampe.
+FURNITURE.MUSHROOM_SHOCK_TANK,This is a trough of water used to immerse mushroom logs in for a period of time,Shock tank,Shock tank
+FURNITURE.MUSHROOM_SHOCK_TANK.TOOLTIP,,"After innoculation, a {{FURNITURE.MUSHROOM_LOG}} is placed in this tank to “shock” the mushroom colony and encourage it to grow mushrooms.","Efter indsprøjtningen bliver et {{FURNITURE.MUSHROOM_LOG}} placeret i tanken for at ""shocke"" svampe kolonien og få den til at gro svampe."
+FURNITURE.ORE_CRUSHING_STATION,,Ore crushing station,Malmbrydningsstation
+FURNITURE.ORE_CRUSHING_STATION.TOOLTIP,,Raw {{RESOURCE.ORE.UNREFINED.PLURAL}} is crushed to a more workable size so that it can be used in a {{FURNITURE.BLOOMERY_FURNACE}}.,"Rå {{RESOURCE.ORE.UNREFINED.PLURAL}} bliver knust til mere brugbarer størrelser, så det kan bruges i en {{FURNITURE.BLOOMERY_FURNACE}}"
+FURNITURE.PILLAR,A pillar used to support a roof,Pillar,Søjle
+FURNITURE.PILLAR.TOOLTIP,,A pillar is required to stop large mined-out areas from collapsing. An area of 7x7 tiles that have been mined without any pillars or other supports in place will eventually collapse.,En søjle er nødvendig for at kunne stoppe udminet områder fra at kollapse. Et område på 7x7 felter der er minet uden en søjle eller andet støtte vil kollapse.
+FURNITURE.SARCOPHAGUS,A stone tomb,Sarcophagus,Sarkofag
+FURNITURE.SARCOPHAGUS.TOOLTIP,,This elaborate stone container is the final resting place of a deceased settler.,Denne fine stenbeholder er det endelige hvilested for en afød beboer.
+FURNITURE.SERVING_TABLE,A table used to hold food for serving,Serving table,Serveringsbord
+FURNITURE.SERVING_TABLE.TOOLTIP,,{{PRODUCT.BREAD.LOAF.PLURAL}} are placed here for serving after being baked in a {{FURNITURE.BAKING_OVEN}}.,{{PRODUCT.BREAD.LOAF.PLURAL}} bliver placeret her til servering efter bagning i en {{FURNITURE.BAKING_OVEN}}.
+FURNITURE.SINGLE_BED,,Bed,Seng
+FURNITURE.SINGLE_BED.TOOLTIP,,A bed is the best place for a comfortable night’s rest.,En seng er det bedste sted til en komofortabel nattesøvn.
+FURNITURE.SINGLE_DOOR,,Door,Dør
+FURNITURE.SINGLE_DOOR_FRAME,,Door frame,Dørramme
+FURNITURE.SMALL_TABLE,,Small table,Lille bord
+FURNITURE.STONEMASON_WORKBENCH,,Stonemason workbench,Stenhugnings arbejdsbord
 FURNITURE.STONEMASON_WORKBENCH.TOOLTIP,,A {{PROFESSION.STONEMASON}} works here with {{MATERIAL_TYPE.STONE.ADJECTIVE}} resources.,
 FURNITURE.STOOL,,Stool,
 FURNITURE.WATER_BARREL,,Water barrel,
@@ -260,9 +260,9 @@ GUI.OK_LABEL,This should be as short as possible,Ok,
 GUI.OPTIONS.AUDIO.TITLE,,Sound Options,
 GUI.OPTIONS.GAMEPLAY.HIDE_TREES_OBSCURING_SETTLERS,This is an option that makes trees partially transparent when a settler moves behind them,Make trees transparent when obscuring settlers,
 GUI.OPTIONS.GAMEPLAY.PAUSE_ON_NOTIFICATION,,Pause for notifications,
-GUI.OPTIONS.GAMEPLAY.TITLE,,Gameplay Options ,
+GUI.OPTIONS.GAMEPLAY.TITLE,,Gameplay Options,
 GUI.OPTIONS.GAMEPLAY.USE_EDGE_SCROLLING,This is for a question to ask if the player would like the camera to scroll/pan by placing the mouse at the edge of the screen,Scroll when cursor is at the edge of the screen,
-GUI.OPTIONS.GRAPHICS.TITLE,,Graphics Options ,
+GUI.OPTIONS.GRAPHICS.TITLE,,Graphics Options,
 GUI.OPTIONS.MISC.CRASH_REPORTING_ENABLED,,Allow automatic crash reports,
 GUI.OPTIONS.MISC.TITLE,,Miscellaneous,
 GUI.ORDERS.CHOP_WOOD,This should be as short as possible,Chop,
@@ -336,7 +336,7 @@ LANGUAGE.LABEL,,Language,
 LIQUID.WATER.NOUN,,Water,
 ,,,
 MADNESS.BROKEN.ADJECTIVE,,Broken,
-MADNESS.BROKEN.TOOLTIP,,This settler was so unhappy that they have been pushed past the breaking point and will no longer work or even eat! ,
+MADNESS.BROKEN.TOOLTIP,,This settler was so unhappy that they have been pushed past the breaking point and will no longer work or even eat!,
 ,,,
 MATERIAL,Used for specifying which material something is made out of,Material,
 ,,,
@@ -485,15 +485,15 @@ OTHER.GRASS.NOUN,,,
 PRIVACY.OPT_IN.ACCEPT_BUTTON,,I accept,
 PRIVACY.OPT_IN.DO_NOT_ACCEPT_BUTTON,,Disable reporting,
 PRIVACY.OPT_IN.LINE_1,,King under the Mountain is in active development. To help,
-PRIVACY.OPT_IN.LINE_10,,#NAME?,
+PRIVACY.OPT_IN.LINE_10,,
 PRIVACY.OPT_IN.LINE_2,,"diagnose and fix bugs, please click ""I accept"" below to",
 PRIVACY.OPT_IN.LINE_3,,send anonymous crash reports automatically.,
-PRIVACY.OPT_IN.LINE_4,, ,
+PRIVACY.OPT_IN.LINE_4,,,
 PRIVACY.OPT_IN.LINE_5,,This is made up of only the following data:,
-PRIVACY.OPT_IN.LINE_6,,#NAME?,
-PRIVACY.OPT_IN.LINE_7,,#NAME?,
-PRIVACY.OPT_IN.LINE_8,,#NAME?,
-PRIVACY.OPT_IN.LINE_9,,#NAME?,
+PRIVACY.OPT_IN.LINE_6,,
+PRIVACY.OPT_IN.LINE_7,,
+PRIVACY.OPT_IN.LINE_8,,
+PRIVACY.OPT_IN.LINE_9,,
 ,,,
 PRODUCT.ANVIL,,Anvil,
 PRODUCT.ANVIL.TOOLTIP,,A large block of metal used to hammer heated metal into shape. Required to construct a {{FURNITURE.FORGE}.,
@@ -739,7 +739,7 @@ STONE.MARBLE.NOUN,,Marble,
 STONE.MARBLE.TOOLTIP,,A metamorphic rock which is used as a high-quality material for sculpture and masonry due to its brilliant appearance.,
 STONE.SANDSTONE.ADJECTIVE,,Sandstone,
 STONE.SANDSTONE.NOUN,,Sandstone,
-STONE.SANDSTONE.TOOLTIP,,A sedimentary rock composed of sand-like fragments. ,
+STONE.SANDSTONE.TOOLTIP,,A sedimentary rock composed of sand-like fragments.,
 STONE.SHALE.ADJECTIVE,,Shale,
 STONE.SHALE.NOUN,,Shale,
 STONE.SHALE.TOOLTIP,,A fine-grained sedimentary rock composed of pressurized mud. It can be easily broken into thin layers.,
