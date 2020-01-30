@@ -1,15 +1,15 @@
 KEY,NOTES,ENGLISH,DANISH
 ,,,
 ACTION.JOB.CLEAR_GROUND,E.g. “Clearing shrub”,Clearing {{targetPlant}},Rydder {{targetPlant}
-ACTION.JOB.CONSTRUCT_FURNITURE,E.g. “Crafting furniture”,{{profession.verb}} {{targetDescription}},{{proffession.verb}} {{targetDescription}}
+ACTION.JOB.CONSTRUCT_FURNITURE,E.g. “Crafting furniture”,{{profession.verb}} {{targetDescription}},{{profession.verb}} {{targetDescription}}
 ACTION.JOB.CREATE_GENERIC,,Producing {{targetDescription}},Producerer {{targetDescription}}
 ACTION.JOB.DECONSTRUCT,E.g. “Removing stone wall” “Removing wooden wall”,Removing {{targetDescription}},Fjerner {{targetDescription}}
 ACTION.JOB.DIGGING,,Digging {{targetDescription}},Hakker {{targetDescription}}
 ACTION.JOB.FILL_GRAVE,For filling a grave with dirt,Filling {{targetDescription}},Fylder {{targetDescription}}
-ACTION.JOB.GENERIC,"E.g. “Smelting iron ore”, “Crafting wooden planks”",{{profession.verb}} {{targetDescription}},{{proffession.verb}} {{targetDescription}}
+ACTION.JOB.GENERIC,"E.g. “Smelting iron ore”, “Crafting wooden planks”",{{profession.verb}} {{targetDescription}},{{profession.verb}} {{targetDescription}}
 ACTION.JOB.HARVESTING,,Harvesting {{targetPlant}},Høster {{targetPlant}}
 ACTION.JOB.INNOCULATE_MUSHROOM_LOG,,Injecting mushroom spawn,Indsprøjter svampe spawn
-ACTION.JOB.LOGGING,,{{profession.verb}} {{targetPlant}},{{proffession.verb}} {{targetDescription}}
+ACTION.JOB.LOGGING,,{{profession.verb}} {{targetPlant}},{{profession.verb}} {{targetDescription}}
 ACTION.JOB.PLANTING,,Planting {{requiredItem}},Planter {{requiredItem}}
 ACTION.JOB.REMOVE_PESTS_FROM_CROP,,Removing pests from {{targetPlant}},Fjerner skadedyr fra {{targetPlant}}
 ACTION.JOB.SHOVELLING,,Shovelling {{targetDescription}},Graver {{targetDescription}}

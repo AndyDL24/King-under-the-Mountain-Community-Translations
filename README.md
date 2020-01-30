@@ -61,3 +61,7 @@ This project is licensed under the Creative Commons Legal Code License - see the
 
 ### German translation
 * Katharina Schrempf
+* Ferdinand Niedermann
+
+### Danish translation
+* Mathias kiær

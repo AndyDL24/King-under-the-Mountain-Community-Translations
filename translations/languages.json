@@ -69,7 +69,6 @@
     "labelEn": "Danish",
     "code": "da",
     "icon": "Denmark",
-    "enabled": false,
     "fallback": "en-gb",
     "filename": "danish.csv"
   },
