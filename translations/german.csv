@@ -486,7 +486,7 @@ PRIVACY.OPT_IN.ACCEPT_BUTTON,,I accept,Ich stimme zu
 PRIVACY.OPT_IN.DO_NOT_ACCEPT_BUTTON,,Disable reporting,Berichte deaktivieren
 PRIVACY.OPT_IN.LINE_1,,King under the Mountain is in active development. To help,King under the Mountain befindet sich in aktiver Entwicklung.
 PRIVACY.OPT_IN.LINE_10,,- The stack trace of the exception which caused the crash,Hilf uns die Ursache des Absturzes feststellen zu können
-PRIVACY.OPT_IN.LINE_2,,"diagnose and fix bugs, please click ""I accept"" below to","indem du unten auf "Ich stimme zu" klickst,"
+PRIVACY.OPT_IN.LINE_2,,"diagnose and fix bugs, please click 'I accept' below to","indem du unten auf 'Ich stimme zu' klickst,"
 PRIVACY.OPT_IN.LINE_3,,send anonymous crash reports automatically., um anonyme Absturzberichte zu senden.
 PRIVACY.OPT_IN.LINE_4,," "," "
 PRIVACY.OPT_IN.LINE_5,,This is made up of only the following data:,Diese bestehen aus folgenden Daten:
