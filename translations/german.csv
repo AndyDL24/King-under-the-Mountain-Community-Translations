@@ -368,169 +368,169 @@ MENU.TOGGLE_FULLSCREEN,,Toggle fullscreen,Vollbildschirm einstellen
 
 METAL.BRONZE.ADJECTIVE,,Bronze,Bronze
 METAL.BRONZE.NOUN,,Bronze,Bronze
-METAL.BRONZE.TOOLTIP,,Bronze is an alloy of copper and tin. It is harder and much more durable than copper alone. (Alloys have not yet been implemented in King under the Mountain),
+METAL.BRONZE.TOOLTIP,,Bronze is an alloy of copper and tin. It is harder and much more durable than copper alone. (Alloys have not yet been implemented in King under the Mountain),Bronze ist eine Legierung aus Kupfer und Zinn. Sie ist härter und viel haltbarer als Kupfer selbst. (Legierungen wurden noch nicht eingebaut.)
 METAL.COPPER.ADJECTIVE,,Copper,Kupfer
 METAL.COPPER.NOUN,,Copper,Kupfer
-METAL.COPPER.TOOLTIP,,"As well as occuring naturally as {{ORE.NATIVE_COPPER.NOUN}}, it is also easy to smelt from {{ORE.MALACHITE.NOUN}} ore. Copper has many uses, particularly in coinage, though it is not hard enough to create effective weapons.",
+METAL.COPPER.TOOLTIP,,"As well as occuring naturally as {{ORE.NATIVE_COPPER.NOUN}}, it is also easy to smelt from {{ORE.MALACHITE.NOUN}} ore. Copper has many uses, particularly in coinage, though it is not hard enough to create effective weapons.","Neben dem natürlichen {{ORE.NATIVE_COPPER.NOUN}}vorkommen, kann man es auch leicht aus {{ORE.MALACHITE.NOUN}}erz schmelzen. Kupfer ist vielseitig verwendbar, insbesondere in der Münzprägung, obwohl es nicht fest genug ist, um wirksame Waffen herzustellen."
 METAL.GOLD.ADJECTIVE,,Golden,Gold
 METAL.GOLD.NOUN,,Gold,Gold
-METAL.GOLD.TOOLTIP,,"The king of metals. Although it is not the rarest or most valuable, gold is the most coveted metal by most races – particularly dwarves.",
+METAL.GOLD.TOOLTIP,,"The king of metals. Although it is not the rarest or most valuable, gold is the most coveted metal by most races – particularly dwarves.","König der Metalle. Obwohl es nicht das seltenste oder wertvollste ist, ist Gold das begehrteste Metall bei den meisten Rassen - besonders bei den Zwergen."
 METAL.IRON.ADJECTIVE,,Iron,Eisen
 METAL.IRON.NOUN,,Iron,Eisen
-METAL.IRON.TOOLTIP,,It is a poor military which does not have access to iron. Dwarven metalsmiths know the secrets of working this into {{METAL.STEEL.NOUN}}.,
+METAL.IRON.TOOLTIP,,It is a poor military which does not have access to iron. Dwarven metalsmiths know the secrets of working this into {{METAL.STEEL.NOUN}}.,"Das Militär ist schwach, wenn es keinen Zugang zu Eisen hat. Zwergenmetallschmiede kennen die Geheimnisse der Verarbeitung zu {{METAL.STEEL.NOUN}}."
 METAL.PLATINUM.ADJECTIVE,,Platinum,Platin
 METAL.PLATINUM.NOUN,,Platinum,Platin
-METAL.PLATINUM.TOOLTIP,,A silver-white metal that is highly resistant to corrosion. Platinum is rarer and therefore more valuable than {{METAL.GOLD.NOUN}}.,
+METAL.PLATINUM.TOOLTIP,,A silver-white metal that is highly resistant to corrosion. Platinum is rarer and therefore more valuable than {{METAL.GOLD.NOUN}}.,"Ein silber-weißes Metall, das sehr korrosionsbeständig ist. Platin ist seltener und daher wertvoller als {{METAL.GOLD.NOUN}}."
 METAL.SILVER.ADJECTIVE,,Silver,Silber
 METAL.SILVER.NOUN,,Silver,Silber
-METAL.SILVER.TOOLTIP,,"Like {{METAL.GOLD.NOUN}}, silver is often used for coinage and as solid bars for the trading of wealth. ",
+METAL.SILVER.TOOLTIP,,"Like {{METAL.GOLD.NOUN}}, silver is often used for coinage and as solid bars for the trading of wealth.",Wie {{METAL.GOLD.NOUN}} wird Silber oft zur Münzprägung und als massive Barren für den Handel von Vermögen verwendet.
 METAL.STEEL.ADJECTIVE,,Steel,Stahl
 METAL.STEEL.NOUN,,Steel,Stahl
-METAL.STEEL.TOOLTIP,,"Far stronger than {{METAL.IRON.NOUN}} which makes for superior weapons and tools, only the dwarves know the secret of creating steel.",
+METAL.STEEL.TOOLTIP,,"Far stronger than {{METAL.IRON.NOUN}} which makes for superior weapons and tools, only the dwarves know the secret of creating steel.","Weit stärker als {{METAL.IRON.NOUN}}, was für überlegene Waffen und Werkzeuge sorgt. Nur die Zwerge kennen das Geheimnis der Stahlerzeugung."
 METAL.TIN.ADJECTIVE,,Tin,Zinn
 METAL.TIN.NOUN,,Tin,Zinn
-METAL.TIN.TOOLTIP,,Tin can be smelted from {{ORE.CASSITERITE.NOUN}} and alloyed with {{METAL.COPPER.NOUN}} to produce {{METAL.BRONZE.NOUN}}. (Alloys have not yet been implemented in King under the Mountain),
+METAL.TIN.TOOLTIP,,Tin can be smelted from {{ORE.CASSITERITE.NOUN}} and alloyed with {{METAL.COPPER.NOUN}} to produce {{METAL.BRONZE.NOUN}}. (Alloys have not yet been implemented in King under the Mountain),"Zinn kann aus {{ORE.CASSITERITE.NOUN}} geschmolzen und mit {{METAL.COPPER.NOUN}} legiert werden, um {{METAL.BRONZE.NOUN}} herzustellen. (Legierungen wurden noch nicht eingebaut.)"
 
-MODS.APPLY,,Apply,
-MODS.COMPATIBILITY.COMPATIBLE,,Yes,
-MODS.COMPATIBILITY.INCOMPATIBLE,,No,
-MODS.COMPATIBILITY.UNKNOWN,,Unknown,
-MODS.MISSING_MODS_DIALOG_TEXT,,This save file was last used while the following mods were active. These mods are now missing or disabled so the save may not load correctly.,
-MODS.MISSING_MODS_SAVE_EXCEPTION_DIALOG_TEXT,,"The save file could not be loaded because either it is incompatible with this version of the game, or because some mods have been disabled or removed since this save was last loaded. The following mods were expected but are no longer active:",
-MODS.TABLE.COMPATIBILITY,,Compatible?,
-MODS.TABLE.ENABLED,,Enabled?,
-MODS.TABLE.NAME,,Mod Name,
-MODS.TABLE.ORDERING,,Re-order,
-MODS.TABLE.VERSION,,Mod Version,
+MODS.APPLY,,Apply,Anwenden
+MODS.COMPATIBILITY.COMPATIBLE,,Yes,Ja
+MODS.COMPATIBILITY.INCOMPATIBLE,,No,Nein
+MODS.COMPATIBILITY.UNKNOWN,,Unknown,Unbekannt
+MODS.MISSING_MODS_DIALOG_TEXT,,This save file was last used while the following mods were active. These mods are now missing or disabled so the save may not load correctly.,"Dieser Spielstand wurde zuletzt verwendet, als die folgenden Mods aktiv waren. Diese Mods fehlen jetzt oder sind deaktiviert, so dass die Datei möglicherweise nicht korrekt geladen wird."
+MODS.MISSING_MODS_SAVE_EXCEPTION_DIALOG_TEXT,,"The save file could not be loaded because either it is incompatible with this version of the game, or because some mods have been disabled or removed since this save was last loaded. The following mods were expected but are no longer active:","Der Spielstand konnte nicht geladen werden, weil er entweder mit dieser Version des Spiels nicht kompatibel ist oder weil einige Mods seit dem letzten Laden des Spielstands deaktiviert oder entfernt wurden. Die folgenden Mods wurden erwartet, sind aber nicht mehr aktiv:"
+MODS.TABLE.COMPATIBILITY,,Compatible?,Kompatibel?
+MODS.TABLE.ENABLED,,Enabled?,Aktiviert?
+MODS.TABLE.NAME,,Mod Name,Mod Name
+MODS.TABLE.ORDERING,,Re-order,Neu ordnen
+MODS.TABLE.VERSION,,Mod Version,Mod Version
 
-MUSHROOM.DESCRIPTION,E.g. “Toadstool mushroom”,{{materialType.noun}},
+MUSHROOM.DESCRIPTION,E.g. “Toadstool mushroom”,{{materialType.noun}},{{materialType.noun}}
 
-NEEDS.DRINK,,Drink,
-NEEDS.FOOD,,Food,
-NEEDS.SLEEP,,Sleep,
+NEEDS.DRINK,,Drink,Trinken
+NEEDS.FOOD,,Food,Essen
+NEEDS.SLEEP,,Sleep,Schlafen
 
-NOTIFICATION.AREA_REVEALED.DESCRIPTION,,Your miners have discovered a new area!,
-NOTIFICATION.AREA_REVEALED.TITLE,,Exploration,
-NOTIFICATION.DEATH.DESCRIPTION,,"{{character}}, has died due to {{reason}}.",
-NOTIFICATION.DEATH.SHORT_DESCRIPTION,,Died due to {{reason}},
-NOTIFICATION.DEATH.TITLE,,Settler death,
-NOTIFICATION.GAME_OVER.DESCRIPTION,,All things must come to an end. Your settlement lies abandoned.,
-NOTIFICATION.GAME_OVER.TITLE,,Game Over,
-NOTIFICATION.IMMIGRANTS_ARRIVED.DESCRIPTION,,The prosperity of your settlement has attracted a number of new immigrants to boost your population.,
-NOTIFICATION.IMMIGRANTS_ARRIVED.TITLE,,Immigration,
-NOTIFICATION.MINING_COLLAPSE.DESCRIPTION,,An area has caved in due to a lack of pillars and supports.,
-NOTIFICATION.MINING_COLLAPSE.TITLE,,Mining collapse,
-NOTIFICATION.SETTLER_MENTAL_BREAK.DESCRIPTION,,The gruelling hardship has proven to be too much to handle for {{character}}.,
-NOTIFICATION.SETTLER_MENTAL_BREAK.TITLE,,Mental break,
+NOTIFICATION.AREA_REVEALED.DESCRIPTION,,Your miners have discovered a new area!,Deine Bergleute haben ein neues Gebiet entdeckt!
+NOTIFICATION.AREA_REVEALED.TITLE,,Exploration,Erkundung
+NOTIFICATION.DEATH.DESCRIPTION,,"{{character}}, has died due to {{reason}}.",{{character}} ist aufgrund von {{reason}} gestorben.
+NOTIFICATION.DEATH.SHORT_DESCRIPTION,,Died due to {{reason}},Wegen {{reason}} gestorben
+NOTIFICATION.DEATH.TITLE,,Settler death,Siedlertod
+NOTIFICATION.GAME_OVER.DESCRIPTION,,All things must come to an end. Your settlement lies abandoned.,Alle Dinge müssen zu einem Ende kommen. Deine Siedlung ist verlassen.
+NOTIFICATION.GAME_OVER.TITLE,,Game Over,Spielende
+NOTIFICATION.IMMIGRANTS_ARRIVED.DESCRIPTION,,The prosperity of your settlement has attracted a number of new immigrants to boost your population.,"Der Wohlstand deiner Siedlung hat eine Reihe neuer Einwanderer angezogen, um deine Bevölkerung zu verstärken."
+NOTIFICATION.IMMIGRANTS_ARRIVED.TITLE,,Immigration,Einwanderung
+NOTIFICATION.MINING_COLLAPSE.DESCRIPTION,,An area has caved in due to a lack of pillars and supports.,Ein Gebiet ist aufgrund fehlender Säulen und Abstützungen eingestürzt.
+NOTIFICATION.MINING_COLLAPSE.TITLE,,Mining collapse,Mineneinsturz
+NOTIFICATION.SETTLER_MENTAL_BREAK.DESCRIPTION,,The gruelling hardship has proven to be too much to handle for {{character}}.,Die zermürbende Not konnte von {{character}} nicht mehr ertragen werden.
+NOTIFICATION.SETTLER_MENTAL_BREAK.TITLE,,Mental break,Nervenzusammenbruch
 
-ORE.BAUXITE.ADJECTIVE,,Bauxite,
-ORE.BAUXITE.NOUN,,Bauxite,
-ORE.BAUXITE.TOOLTIP,,"Bauxite is the primary ore of aluminium. Unfortunately, a means of aluminium production is yet to be discovered.",
-ORE.BITUMINOUS_COAL.ADJECTIVE,,Bituminous coal,
+ORE.BAUXITE.ADJECTIVE,,Bauxite,Bauxit
+ORE.BAUXITE.NOUN,,Bauxite,Bauxit
+ORE.BAUXITE.TOOLTIP,,"Bauxite is the primary ore of aluminium. Unfortunately, a means of aluminium production is yet to be discovered.",Bauxit ist das Haupterz von Aluminium. Leider ist ein Weg zur Aluminiumproduktion noch nicht entdeckt worden.
+ORE.BITUMINOUS_COAL.ADJECTIVE,,Bituminous coal,Steinkohle
 ORE.BITUMINOUS_COAL.NOUN,,Bituminous coal,Steinkohle
-ORE.BITUMINOUS_COAL.TOOLTIP,,This can be converted into {{ORE.COKE.NOUN}} using a {{FURNITURE.COKE_OVEN}}.,
-ORE.CASSITERITE.ADJECTIVE,,Cassiterite,
+ORE.BITUMINOUS_COAL.TOOLTIP,,This can be converted into {{ORE.COKE.NOUN}} using a {{FURNITURE.COKE_OVEN}}.,Dies kann mithilfe eines {{FURNITURE.COKE_OVEN}} in {{ORE.COKE.NOUN}} umgewandelt werden. 
+ORE.CASSITERITE.ADJECTIVE,,Cassiterite,Kassiterit
 ORE.CASSITERITE.NOUN,,Cassiterite,Kassiterit
-ORE.CASSITERITE.TOOLTIP,,An ore that can be smelted to produce {{METAL.TIN.NOUN}}.,
-ORE.CHARCOAL.ADJECTIVE,,Charcoal,
-ORE.CHARCOAL.NOUN,,Charcoal,
-ORE.CHARCOAL.TOOLTIP,,{{FUEL.SACK}} produced from wooden {{RESOURCE.LOGS.PLURAL}}.,
-ORE.CHRYSOCOLLA.ADJECTIVE,,Chrysocolla,
-ORE.CHRYSOCOLLA.NOUN,,Chrysocolla,
-ORE.CHRYSOCOLLA.TOOLTIP,,"Often confused with turquoise, it is actually an ore of {{METAL.COPPER}}.",
-ORE.COKE.ADJECTIVE,,Coke,
-ORE.COKE.NOUN,,Coke,
-ORE.COKE.TOOLTIP,,A refined form of {{ORE.BITUMINOUS_COAL}} which can be used as {{FUEL.SACK}}.,
-ORE.GALENA.ADJECTIVE,,Galena,
+ORE.CASSITERITE.TOOLTIP,,An ore that can be smelted to produce {{METAL.TIN.NOUN}}.,"Ein Erz, das geschmolzen werden kann, um {{METAL.TIN.NOUN}} zu produzieren."
+ORE.CHARCOAL.ADJECTIVE,,Charcoal,Holzkohle
+ORE.CHARCOAL.NOUN,,Charcoal,Holzkohle
+ORE.CHARCOAL.TOOLTIP,,{{FUEL.SACK}} produced from wooden {{RESOURCE.LOGS.PLURAL}}.,{{FUEL.SACK}} hergestellt aus Holz{{RESOURCE.LOGS.PLURAL}}.
+ORE.CHRYSOCOLLA.ADJECTIVE,,Chrysocolla,Chrysokoll
+ORE.CHRYSOCOLLA.NOUN,,Chrysocolla,Chrysokoll
+ORE.CHRYSOCOLLA.TOOLTIP,,"Often confused with turquoise, it is actually an ore of {{METAL.COPPER}}.","Oft mit Türkis verwechselt, ist es in Wirklichkeit ein {{METAL.COPPER}}erz."
+ORE.COKE.ADJECTIVE,,Coke,Koks
+ORE.COKE.NOUN,,Coke,Koks
+ORE.COKE.TOOLTIP,,A refined form of {{ORE.BITUMINOUS_COAL}} which can be used as {{FUEL.SACK}}.,"Eine verfeinerte Form von {{ORE.BITUMINOUS_COAL}}, die als {{FUEL.SACK}} eingesetzt werden kann."
+ORE.GALENA.ADJECTIVE,,Galena,Galenit
 ORE.GALENA.NOUN,,Galena,Galenit
-ORE.GALENA.TOOLTIP,,An ore that can be smelted to produce {{METAL.SILVER}}.,
-ORE.HEMATITE.ADJECTIVE,,Hematite,
+ORE.GALENA.TOOLTIP,,An ore that can be smelted to produce {{METAL.SILVER}}.,"Ein Erz, das geschmolzen werden kann, um {{METAL.SILVER}} herzustellen."
+ORE.HEMATITE.ADJECTIVE,,Hematite,Hämatit
 ORE.HEMATITE.NOUN,,Hematite,Hämatit
-ORE.HEMATITE.TOOLTIP,,An ore that can be smelted to produce {{METAL.IRON}}.,
-ORE.ILMENITE.ADJECTIVE,,Ilmenite,
-ORE.ILMENITE.NOUN,,Ilmenite,
-ORE.ILMENITE.TOOLTIP,,"Ilmenite is the primary ore of titanium. Unfortunately, a means of titanium production is yet to be discovered.",
-ORE.MALACHITE.ADJECTIVE,,Malachite,
+ORE.HEMATITE.TOOLTIP,,An ore that can be smelted to produce {{METAL.IRON}}.,"Ein Erz, das geschmolzen werden kann, um {{METAL.IRON}} herzustellen."
+ORE.ILMENITE.ADJECTIVE,,Ilmenite,Ilemenit
+ORE.ILMENITE.NOUN,,Ilmenite,Ilmenit
+ORE.ILMENITE.TOOLTIP,,"Ilmenite is the primary ore of titanium. Unfortunately, a means of titanium production is yet to be discovered.","Ilmenit ist das Haupterz von Titan. Leider ist ein Mittel zur Herstellung von Titan noch nicht entdeckt worden."
+ORE.MALACHITE.ADJECTIVE,,Malachite,Malachit
 ORE.MALACHITE.NOUN,,Malachite,Malachit
-ORE.MALACHITE.TOOLTIP,,An ore that can be smelted to produce {{METAL.COPPER}}.,
-ORE.NATIVE_COPPER.ADJECTIVE,,Native copper,
+ORE.MALACHITE.TOOLTIP,,An ore that can be smelted to produce {{METAL.COPPER}}.,"Ein Erz, das geschmolzen werden kann, um {{METAL.COPPER}} herzustellen."
+ORE.NATIVE_COPPER.ADJECTIVE,,Native copper,Reinkupfer
 ORE.NATIVE_COPPER.NOUN,,Native copper,Reinkupfer
-ORE.NATIVE_COPPER.TOOLTIP,,Naturally-occuring {{METAL.COPPER}} which must be smelted before use.,
-ORE.NATIVE_GOLD.ADJECTIVE,,Native gold,
+ORE.NATIVE_COPPER.TOOLTIP,,Naturally-occuring {{METAL.COPPER}} which must be smelted before use.,"Natürlich vorkommendes {{METAL.COPPER}}, das geschmolzen werden muss bevor es verwendet werden kann."
+ORE.NATIVE_GOLD.ADJECTIVE,,Native gold,Reingold
 ORE.NATIVE_GOLD.NOUN,,Native gold,Reingold
-ORE.NATIVE_GOLD.TOOLTIP,,Naturally-occuring {{METAL.GOLD}} which must be smelted before use.,
-ORE.NATIVE_PLATINUM.ADJECTIVE,,Native platinum,
-ORE.NATIVE_PLATINUM.NOUN,,Native platinum,
-ORE.NATIVE_PLATINUM.TOOLTIP,,Naturally-occuring {{METAL.PLATINUM}} which must be smelted before use.,
-ORE.NATIVE_SILVER.ADJECTIVE,,Native silver,
+ORE.NATIVE_GOLD.TOOLTIP,,Naturally-occuring {{METAL.GOLD}} which must be smelted before use.,"Natürlich vorkommendes {{METAL.GOLD}}, das geschmolzen werden muss bevor es verwendet werden kann."
+ORE.NATIVE_PLATINUM.ADJECTIVE,,Native platinum,Reinplatin
+ORE.NATIVE_PLATINUM.NOUN,,Native platinum,Reinplatin
+ORE.NATIVE_PLATINUM.TOOLTIP,,Naturally-occuring {{METAL.PLATINUM}} which must be smelted before use.,"Natürlich vorkommendes {{METAL.PLATINUM}}, das geschmolzen werden muss bevor es verwendet werden kann."
+ORE.NATIVE_SILVER.ADJECTIVE,,Native silver,Reinsilber
 ORE.NATIVE_SILVER.NOUN,,Native silver,Reinsilber
-ORE.NATIVE_SILVER.TOOLTIP,,Naturally-occuring {{METAL.SILVER}} which must be smelted before use.,
-ORE.POLLUCITE.ADJECTIVE,,Pollucite,
-ORE.POLLUCITE.NOUN,,Pollucite,
-ORE.POLLUCITE.TOOLTIP,,"Pollucite is an ore of Caesium, which is currently too dangerous to produce. Particularly crazy dwarven metalsmiths are currently trying to find a reliable method of production.",
-ORE.PYRITE.ADJECTIVE,,Fool's gold,
-ORE.PYRITE.NOUN,,Fool's gold,
-ORE.PYRITE.TOOLTIP,,"Also known as Pyrite, its pale-yellow appearance causes some to mistake it for gold. It has several uses when crushed, but care must be taken as it sparks when struck.",
-ORE.THORIUM.ADJECTIVE,,Thorium,
-ORE.THORIUM.NOUN,,Thorium,
-ORE.THORIUM.TOOLTIP,,A silvery metallic ore which turns black when exposed to air. It is strangely warm to the touch.,
-ORE.WOLFRAMITE.ADJECTIVE,,Wolframite,
-ORE.WOLFRAMITE.NOUN,,Wolframite,
-ORE.WOLFRAMITE.TOOLTIP,,A metallic ore which complicates the smelting of tin. It has too high a melting point to be smelted with normal processes.,
+ORE.NATIVE_SILVER.TOOLTIP,,Naturally-occuring {{METAL.SILVER}} which must be smelted before use.,"Natürlich vorkommendes {{METAL.SILVER}}, das geschmolzen werden muss bevor es verwendet werden kann."
+ORE.POLLUCITE.ADJECTIVE,,Pollucite,Pollucit
+ORE.POLLUCITE.NOUN,,Pollucite,Pollucit
+ORE.POLLUCITE.TOOLTIP,,"Pollucite is an ore of Caesium, which is currently too dangerous to produce. Particularly crazy dwarven metalsmiths are currently trying to find a reliable method of production.","Pollucit ist ein Cäsiumerz, dessen Förderung derzeit zu gefährlich ist. Besonders verrückte zwergische Metallschmiede versuchen trotzdem eine zuverlässige Herstellungsmethode zu finden."
+ORE.PYRITE.ADJECTIVE,,Fool's gold,Katzengold
+ORE.PYRITE.NOUN,,Fool's gold,Katzengold
+ORE.PYRITE.TOOLTIP,,"Also known as Pyrite, its pale-yellow appearance causes some to mistake it for gold. It has several uses when crushed, but care must be taken as it sparks when struck.","Auch als Pyrit bekannt, wird es wegen seines blassgelben Aussehens von manchen mit Gold verwechselt. Es hat mehrere Verwendungen, wenn es zerkleinert wird, aber Vorsicht ist geboten, da es beim Schlagen Funken sprühen kann."
+ORE.THORIUM.ADJECTIVE,,Thorium,Thorium
+ORE.THORIUM.NOUN,,Thorium,Thorium
+ORE.THORIUM.TOOLTIP,,A silvery metallic ore which turns black when exposed to air. It is strangely warm to the touch.,"Ein silbrig metallisches Erz, das sich an der Luft schwarz färbt. Es fühlt sich seltsam warm an."
+ORE.WOLFRAMITE.ADJECTIVE,,Wolframite,Wolframit
+ORE.WOLFRAMITE.NOUN,,Wolframite,Wolframit
+ORE.WOLFRAMITE.TOOLTIP,,A metallic ore which complicates the smelting of tin. It has too high a melting point to be smelted with normal processes.,"Ein metallisches Erz, das das Schmelzen von Zinn erschwert. Es hat einen zu hohen Schmelzpunkt, um mit normalen Verfahren geschmolzen zu werden."
 
-OTHER.BRICK.NOUN,,Brick,Backstein
+OTHER.BRICK.NOUN,,Brick,Ziegel
 OTHER.CLAY_SOIL.NOUN,,Clay soil,Lehmboden
 OTHER.GRASS.NOUN,,,Gras
 
-PRIVACY.OPT_IN.ACCEPT_BUTTON,,I accept,
-PRIVACY.OPT_IN.DO_NOT_ACCEPT_BUTTON,,Disable reporting,
-PRIVACY.OPT_IN.LINE_1,,King under the Mountain is in active development. To help,
-PRIVACY.OPT_IN.LINE_10,,- The stack trace of the exception which caused the crash,
-PRIVACY.OPT_IN.LINE_2,,"diagnose and fix bugs, please click ""I accept"" below to",
-PRIVACY.OPT_IN.LINE_3,,send anonymous crash reports automatically.,
-PRIVACY.OPT_IN.LINE_4,," ",
-PRIVACY.OPT_IN.LINE_5,,This is made up of only the following data:,
-PRIVACY.OPT_IN.LINE_6,,- The version of the game client,
-PRIVACY.OPT_IN.LINE_7,,- Your operating system,
-PRIVACY.OPT_IN.LINE_8,,- Your graphics card and display settings,
-PRIVACY.OPT_IN.LINE_9,,- Your options settings,
+PRIVACY.OPT_IN.ACCEPT_BUTTON,,I accept,Ich stimme zu
+PRIVACY.OPT_IN.DO_NOT_ACCEPT_BUTTON,,Disable reporting,Berichte deaktivieren
+PRIVACY.OPT_IN.LINE_1,,King under the Mountain is in active development. To help,King under the Mountain befindet sich in aktiver Entwicklung.
+PRIVACY.OPT_IN.LINE_10,,- The stack trace of the exception which caused the crash,Hilf uns die Ursache des Absturzes feststellen zu können
+PRIVACY.OPT_IN.LINE_2,,"diagnose and fix bugs, please click ""I accept"" below to","indem du unten auf "Ich stimme zu" klickst,"
+PRIVACY.OPT_IN.LINE_3,,send anonymous crash reports automatically., um anonyme Absturzberichte zu senden.
+PRIVACY.OPT_IN.LINE_4,," "," "
+PRIVACY.OPT_IN.LINE_5,,This is made up of only the following data:,Diese bestehen aus folgenden Daten:
+PRIVACY.OPT_IN.LINE_6,,- The version of the game client,Die Version des Spielclients
+PRIVACY.OPT_IN.LINE_7,,- Your operating system,Dein Betriebssystem
+PRIVACY.OPT_IN.LINE_8,,- Your graphics card and display settings,Deine Graphikkarte und Bildschirmeinstellungen
+PRIVACY.OPT_IN.LINE_9,,- Your options settings,Deine Spieleinstellungen
 
-PRODUCT.ANVIL,,Anvil,
-PRODUCT.ANVIL.TOOLTIP,,A large block of metal used to hammer heated metal into shape. Required to construct a {{FURNITURE.FORGE}.,
+PRODUCT.ANVIL,,Anvil,Amboss
+PRODUCT.ANVIL.TOOLTIP,,A large block of metal used to hammer heated metal into shape. Required to construct a {{FURNITURE.FORGE}.,"Ein großer Metallblock auf dem erhitztes Metall in Form gehämmert wird. Erforderlich, um eine {{FURNITURE.FORGE} zu errichten."
 PRODUCT.BARREL.HOOPS,,Barrel hoops,Fassreifen
-PRODUCT.BARREL.HOOPS.TOOLTIP,,Metal hoops used to construct a {{PRODUCT.BARREL.NOUN}}. Also used in some machinery.,
+PRODUCT.BARREL.HOOPS.TOOLTIP,,Metal hoops used to construct a {{PRODUCT.BARREL.NOUN}}. Also used in some machinery.,"Metallreifen, die beim {{PRODUCT.BARREL.NOUN}}bau benötigt werden. Wird auch in einigen Maschinen verwendet."
 PRODUCT.BARREL.NOUN,,Barrel,Fass
-PRODUCT.BARREL.PLURAL,,Barrels,
+PRODUCT.BARREL.PLURAL,,Barrels,Fässer
 PRODUCT.BARREL.STAVES,,Barrel staves,Fassdauben
-PRODUCT.BARREL.STAVES.TOOLTIP,,Curved wooden planks used to construct a {{PRODUCT.BARREL.NOUN}}.,
-PRODUCT.BARREL.TOOLTIP,,A cylindrical container for liquids. The curved shape makes it easier to roll around.,
+PRODUCT.BARREL.STAVES.TOOLTIP,,Curved wooden planks used to construct a {{PRODUCT.BARREL.NOUN}}.,Gebogene Holzbretter aus denen ein {{PRODUCT.BARREL.NOUN}} konstruiert wird.
+PRODUCT.BARREL.TOOLTIP,,A cylindrical container for liquids. The curved shape makes it easier to roll around.,Ein zylindrischer Behälter für Flüssigkeiten. Die runde Form erleichtert das Herumrollen.
 PRODUCT.BOWL,A bowl for eating from,Bowl,Schale
 PRODUCT.BOWL.DESCRIPTION,E.g. “Bowl of vegetable soup”,Bowl of {{cooking.soup.description}},Schale mit {{cooking.soup.description}}
-PRODUCT.BREAD.DOUGH.NOUN,,Dough,
-PRODUCT.BREAD.DOUGH.PLURAL,,Dough,
-PRODUCT.BREAD.DOUGH.TOOLTIP,,A mix of ingredients that can be baked into {{PRODUCT.BREAD.LOAF.PLURAL}} using an {{FURNITURE.BAKING_OVEN}}.,
-PRODUCT.BREAD.LOAF.NOUN,Translations incorrect and need fixing,Bread loaf,Brot
-PRODUCT.BREAD.LOAF.PLURAL,Translations incorrect and need fixing,Bread loaves,Brot
-PRODUCT.BREAD.LOAF.TOOLTIP,,"Prepared bread, ready to eat!",
+PRODUCT.BREAD.DOUGH.NOUN,,Dough,Teig
+PRODUCT.BREAD.DOUGH.PLURAL,,Dough,Teige
+PRODUCT.BREAD.DOUGH.TOOLTIP,,A mix of ingredients that can be baked into {{PRODUCT.BREAD.LOAF.PLURAL}} using an {{FURNITURE.BAKING_OVEN}}.,"Eine Mischung aus Zutaten, die mit einem {{FURNITURE.BAKING_OVEN}} zu {{PRODUCT.BREAD.LOAF.PLURAL}} gebacken werden kann"
+PRODUCT.BREAD.LOAF.NOUN,Translations incorrect and need fixing,Bread loaf,Brotlaib
+PRODUCT.BREAD.LOAF.PLURAL,Translations incorrect and need fixing,Bread loaves,Brotlaibe
+PRODUCT.BREAD.LOAF.TOOLTIP,,"Prepared bread, ready to eat!","Zubereitetes Brot, fertig zum Essen!"
 PRODUCT.BUCKET.NOUN,,Bucket,Eimer
-PRODUCT.BUCKET.PLURAL,,Buckets,
-PRODUCT.BUCKET.TOOLTIP,,A small container used to move liquids around by hand.,
+PRODUCT.BUCKET.PLURAL,,Buckets,Eimer
+PRODUCT.BUCKET.TOOLTIP,,A small container used to move liquids around by hand.,"Ein kleiner Behälter, in dem Flüssigkeiten von Hand getragen werden."
 PRODUCT.CAULDRON,A large metal pot for cooking (common with Halloween),Cauldron,Kessel
-PRODUCT.CAULDRON.TOOLTIP,,"Used by a {{PROFESSION.CHEF}} to prepare soup in a {{ROOMS.KITCHEN}}, where it is then moved to a {{ROOMS.FEASTING_HALL}}.",
-PRODUCT.MILLSTONE,,Millstone,
-PRODUCT.MILLSTONE.TOOLTIP,,Two large stone discs that are ground together to mill harvested crops. Used to construct a {{FURNITURE.FLOUR_MILL}}.,
-PRODUCT.RATION.NOUN,,Ration,
-PRODUCT.RATION.PLURAL,,Rations,
-PRODUCT.RATION.TOOLTIP,,"These will last a long time to feed your settlers, but you will need other sources of food as a priority.",
+PRODUCT.CAULDRON.TOOLTIP,,"Used by a {{PROFESSION.CHEF}} to prepare soup in a {{ROOMS.KITCHEN}}, where it is then moved to a {{ROOMS.FEASTING_HALL}}.","Wird von einem {{PROFESSION.CHEF}} benutzt, um Suppe in der {{ROOMS.KITCHEN}} vorzubereiten von wo sie dann in die {{ROOMS.FEASTING_HALL}} gebracht wird."
+PRODUCT.MILLSTONE,,Millstone,Mühlstein
+PRODUCT.MILLSTONE.TOOLTIP,,Two large stone discs that are ground together to mill harvested crops. Used to construct a {{FURNITURE.FLOUR_MILL}}.,"Zwei große Steinscheiben, die gegeneinander gerieben werden, um das Erntegut zu mahlen. Wird zum Errichten einer {{FURNITURE.FLOUR_MILL}} gebraucht."
+PRODUCT.RATION.NOUN,,Ration,Ration
+PRODUCT.RATION.PLURAL,,Rations,Rationen
+PRODUCT.RATION.TOOLTIP,,"These will last a long time to feed your settlers, but you will need other sources of food as a priority.","Diese werden eine lange Zeit halten, um deine Siedler zu ernähren, doch du wirst dringend andere Nahrungsquellen benötigen."
 
 PROFESSION.BAKER.VERB,,Baking,Backt
 PROFESSION.BLACKSMITH.FEMALE_NOUN,,Blacksmith,Schmiedin
 PROFESSION.BLACKSMITH.MALE_NOUN,,Blacksmith,Schmied
-PROFESSION.BLACKSMITH.TOOLTIP,,Crafts items using metal and also produces metal from ore.,
+PROFESSION.BLACKSMITH.TOOLTIP,,Crafts items using metal and also produces metal from ore.,Fertigt Gegenstände aus Metall und stellt auch Metall aus Erz her.
 PROFESSION.BLACKSMITH.VERB,,Forging,Schmiedet
 PROFESSION.CARPENTER.FEMALE_NOUN,,Carpenter,Schreinerin
 PROFESSION.CARPENTER.MALE_NOUN,,Carpenter,Schreiner
-PROFESSION.CARPENTER.TOOLTIP,,Creates wooden furniture and items.,
+PROFESSION.CARPENTER.TOOLTIP,,Creates wooden furniture and items.,Erstellt Holzmöbel und -gegenstände.
 PROFESSION.CARPENTER.VERB,,Crafting,Schreinert
 PROFESSION.CHEF.FEMALE_NOUN,,Chef,Köchin
 PROFESSION.CHEF.MALE_NOUN,,Chef,Koch
@@ -559,7 +559,7 @@ PROFESSION.MINER.FEMALE_NOUN,,Miner,Bergarbeiterin
 PROFESSION.MINER.MALE_NOUN,,Miner,Bergarbeiter
 PROFESSION.MINER.TOOLTIP,,Excavates new areas using a {{TOOL.PICKAXE}}.,
 PROFESSION.MINER.VERB,,Mining,Schürft
-PROFESSION.NOBLE.FEMALE_NOUN,,Noble,Adliger
+PROFESSION.NOBLE.FEMALE_NOUN,,Noble,Adlige
 PROFESSION.NOBLE.MALE_NOUN,,Noble,Adliger
 PROFESSION.NOBLE.TOOLTIP,,"Nobles do not fulfil jobs in the same way as common settlers, but bring fame and prestige to your settlement.",
 PROFESSION.NOBLE.VERB,,Reigning,Regiert
