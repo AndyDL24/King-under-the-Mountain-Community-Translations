@@ -534,53 +534,53 @@ PROFESSION.CARPENTER.TOOLTIP,,Creates wooden furniture and items.,Erstellt Holzm
 PROFESSION.CARPENTER.VERB,,Crafting,Schreinert
 PROFESSION.CHEF.FEMALE_NOUN,,Chef,Köchin
 PROFESSION.CHEF.MALE_NOUN,,Chef,Koch
-PROFESSION.CHEF.TOOLTIP,,Prepares all of the food to be consumed by your settlers.,
+PROFESSION.CHEF.TOOLTIP,,Prepares all of the food to be consumed by your settlers.,"Bereitet das Essen vor, das von deinen Siedlern verzehrt wird."
 PROFESSION.CHEF.VERB,,Cooking,Kocht
 PROFESSION.FARMER.FEMALE_NOUN,,Farmer,Bäuerin
 PROFESSION.FARMER.MALE_NOUN,,Farmer,Bauer
-PROFESSION.FARMER.TOOLTIP,,"Plants, tends and harvests crops.",
+PROFESSION.FARMER.TOOLTIP,,"Plants, tends and harvests crops.","Setzt, pflegt und erntet Pflanzen."
 PROFESSION.FARMER.VERB,,Farming,Erntet
 PROFESSION.FISHER.FEMALE_NOUN,This could be “fisherman” and “fisherwoman”,Fisher,Fischerin
 PROFESSION.FISHER.MALE_NOUN,,Fisher,Fischer
-PROFESSION.FISHER.TOOLTIP,,Catches fish from bodies of water for use as food and resources.,
+PROFESSION.FISHER.TOOLTIP,,Catches fish from bodies of water for use as food and resources.,"Fängt Fische aus Gewässern, um sie als Nahrung und Ressource zu verwenden."
 PROFESSION.FISHER.VERB,,Fishing,Fischt
 PROFESSION.HUNTER.FEMALE_NOUN,This could be “huntsman” and “huntress”,Hunter,Jägerin
 PROFESSION.HUNTER.MALE_NOUN,,Hunter,Jäger
-PROFESSION.HUNTER.TOOLTIP,,Tracks and kills wild animals for their meat and pelts.,
+PROFESSION.HUNTER.TOOLTIP,,Tracks and kills wild animals for their meat and pelts.,Aufspüren und Töten von Wildtieren wegen ihres Fleisches und Fells.
 PROFESSION.HUNTER.VERB,,Hunting,Jagt
 PROFESSION.MAYOR.FEMALE_NOUN,"In English at least, “mayoress” is incorrect",Mayor,Bürgermeisterin
 PROFESSION.MAYOR.MALE_NOUN,,Mayor,Bürgermeister
 PROFESSION.MAYOR.VERB,,Governing,Verwaltet
 PROFESSION.MERCHANT.FEMALE_NOUN,,Merchant,Händlerin
 PROFESSION.MERCHANT.MALE_NOUN,,Merchant,Händler
-PROFESSION.MERCHANT.VERB,,Trading,Tauscht
-PROFESSION.MILLER.VERB,"Not a fully implemented profession, just used to describe “Milling flour”",Milling,
+PROFESSION.MERCHANT.VERB,,Trading,Handelt
+PROFESSION.MILLER.VERB,"Not a fully implemented profession, just used to describe “Milling flour”",Milling,Mahlt
 PROFESSION.MINER.FEMALE_NOUN,,Miner,Bergarbeiterin
 PROFESSION.MINER.MALE_NOUN,,Miner,Bergarbeiter
-PROFESSION.MINER.TOOLTIP,,Excavates new areas using a {{TOOL.PICKAXE}}.,
+PROFESSION.MINER.TOOLTIP,,Excavates new areas using a {{TOOL.PICKAXE}}.,Hebt neue Gebiete mit einer {{TOOL.PICKAXE}} aus.
 PROFESSION.MINER.VERB,,Mining,Schürft
 PROFESSION.NOBLE.FEMALE_NOUN,,Noble,Adlige
 PROFESSION.NOBLE.MALE_NOUN,,Noble,Adliger
-PROFESSION.NOBLE.TOOLTIP,,"Nobles do not fulfil jobs in the same way as common settlers, but bring fame and prestige to your settlement.",
+PROFESSION.NOBLE.TOOLTIP,,"Nobles do not fulfil jobs in the same way as common settlers, but bring fame and prestige to your settlement.","Adlige übernehmen keine Aufgaben wie gewöhnliche Siedler, sondern bringen Ruhm und Prestige in deine Siedlung."
 PROFESSION.NOBLE.VERB,,Reigning,Regiert
 PROFESSION.RUNESMITH.FEMALE_NOUN,from “runes” and “blacksmith”,Runesmith,Runenschmiedin
 PROFESSION.RUNESMITH.MALE_NOUN,"This is an invented term for the game, but should be derived",Runesmith,Runenschmied
-PROFESSION.RUNESMITH.TOOLTIP,,"Enchants weapons, armour and items with magical runes to boost their abilities.",
+PROFESSION.RUNESMITH.TOOLTIP,,"Enchants weapons, armour and items with magical runes to boost their abilities.","Verzaubert Waffen, Rüstungen und Gegenstände mit magischen Runen, um ihre Fähigkeiten zu verbessern."
 PROFESSION.RUNESMITH.VERB,,Enchanting,Verzaubert
 PROFESSION.STONEMASON.FEMALE_NOUN,,Stonemason,Steinmetzin
 PROFESSION.STONEMASON.MALE_NOUN,,Stonemason,Steinmetz
-PROFESSION.STONEMASON.TOOLTIP,,Crafts furniture and items from stone.,
+PROFESSION.STONEMASON.TOOLTIP,,Crafts furniture and items from stone.,Stellt Möbel und Gegenstände aus Stein her.
 PROFESSION.STONEMASON.VERB,,Sculpting,Bearbeitet
 PROFESSION.TINKERER.FEMALE_NOUN,,Tinker,Kesselflickerin
 PROFESSION.TINKERER.MALE_NOUN,,Tinker,Kesselflicker
 PROFESSION.TINKERER.VERB,,Tinkering,Flickt
 PROFESSION.VILLAGER.FEMALE_NOUN,,Villager,Dorfbewohnerin
 PROFESSION.VILLAGER.MALE_NOUN,,Villager,Dorfbewohner
-PROFESSION.VILLAGER.TOOLTIP,,This settler does not have any specific professions and will fulfil any mundane tasks like hauling items.,
+PROFESSION.VILLAGER.TOOLTIP,,This settler does not have any specific professions and will fulfil any mundane tasks like hauling items.,Dieser Siedler hat keine spezifischen Berufe und wird alltägliche Aufgaben wie das Transportieren von Gegenständen übernehmen.
 PROFESSION.VILLAGER.VERB,,Working,Arbeitet
 PROFESSION.WOODCUTTER.FEMALE_NOUN,This could be “lumberjack” and “lumberjane”,Woodcutter,Holzfällerin
 PROFESSION.WOODCUTTER.MALE_NOUN,,Woodcutter,Holzfäller
-PROFESSION.WOODCUTTER.TOOLTIP,,Cuts down trees as lumber that can be used in a {{ROOMS.SAWMILL}}.,
+PROFESSION.WOODCUTTER.TOOLTIP,,Cuts down trees as lumber that can be used in a {{ROOMS.SAWMILL}}.,"Fällt Bäume für Nutzholz, das in einer {{ROOMS.SAWMILL}} verwendet werden kann."
 PROFESSION.WOODCUTTER.VERB,,Chopping,Fällt
 
 RACE.DWARF.FEMALE_ADJECTIVE,,Dwarven,zwergische
@@ -589,60 +589,60 @@ RACE.DWARF.FEMALE_PLURAL,,Dwarves,Zwerge
 RACE.DWARF.MALE_ADJECTIVE,,Dwarven,zwergischer
 RACE.DWARF.MALE_NOUN,The male and female forms are only for languages that need them,Dwarf,Zwerg
 RACE.DWARF.MALE_PLURAL,Note that I'm going with Tolkein's spelling of “dwarves” rather than “dwarfs”,Dwarves,Zwerge
-RACE.DWARF.TOOLTIP,,Dwarves are short and stocky humanoids. They are masters of working with stone and metal. Most dwarves distrust the sky and prefer to stay underground.,
+RACE.DWARF.TOOLTIP,,Dwarves are short and stocky humanoids. They are masters of working with stone and metal. Most dwarves distrust the sky and prefer to stay underground.,"Zwerge sind kleine und stämmige, humanoide Wesen. Sie sind Meister im Umgang mit Stein und Metall. Die meisten Zwerge misstrauen dem Himmel und ziehen es vor unterirdisch zu leben."
 
-RESOURCE.CRUSHED.VITRIOL.NOUN,,Vitriol,
-RESOURCE.CRUSHED.VITRIOL.PLURAL,,Vitriol,
-RESOURCE.CRUSHED.VITRIOL.TOOLTIP,,A salt of sulphuric acid with many uses in industry. (Usages of vitriol are not yet implemented in King under the Mountain),
-RESOURCE.FLOUR.SACK.NOUN,,Flour,
-RESOURCE.FLOUR.SACK.PLURAL,,Flour,
-RESOURCE.FLOUR.SACK.TOOLTIP,,Grain that has been milled into a fine powder ready to be used as an ingredient in the production of food.,
+RESOURCE.CRUSHED.VITRIOL.NOUN,,Vitriol,Vitriol
+RESOURCE.CRUSHED.VITRIOL.PLURAL,,Vitriol,Vitriol
+RESOURCE.CRUSHED.VITRIOL.TOOLTIP,,A salt of sulphuric acid with many uses in industry. (Usages of vitriol are not yet implemented in King under the Mountain),Ein schwefelsäurehaltiges Salz mit vielen Verwendungen in der Industrie. (Noch nicht eingebaut.)
+RESOURCE.FLOUR.SACK.NOUN,,Flour,Mehl
+RESOURCE.FLOUR.SACK.PLURAL,,Flour,Mehl
+RESOURCE.FLOUR.SACK.TOOLTIP,,Grain that has been milled into a fine powder ready to be used as an ingredient in the production of food.,"Getreide, das zu einem feinen Pulver gemahlen wurde, das als Zutat für die Herstellung von Nahrungsmitteln benutzt werden kann."
 RESOURCE.GEM.NOUN,,Gem,Edelstein
 RESOURCE.GEM.PLURAL,,Gems,Edelsteine
-RESOURCE.GEM.TOOLTIP,,Gems that have been cut and polished to enhance their beauty. Most commonly used as ornamentation.,
+RESOURCE.GEM.TOOLTIP,,Gems that have been cut and polished to enhance their beauty. Most commonly used as ornamentation.,"Edelsteine, die geschliffen und poliert wurden, um ihre Schönheit zu vergrößern. Am häufigsten zur Verzierung verwendet."
 RESOURCE.GEMS.UNREFINED.NOUN,,Uncut gem,Rohedelstein
 RESOURCE.GEMS.UNREFINED.PLURAL,,Uncut gems,Rohedelsteine
-RESOURCE.GEMS.UNREFINED.TOOLTIP,,A hunk of rock containing gems ready to be cut and polished.,
+RESOURCE.GEMS.UNREFINED.TOOLTIP,,A hunk of rock containing gems ready to be cut and polished.,"Ein Gesteinsbrocken mit Edelsteinen, bereit geschliffen und poliert zu werden."
 RESOURCE.LOGS.NOUN,,Log,Stamm
 RESOURCE.LOGS.PLURAL,,Logs,Stämme
-RESOURCE.LOGS.TOOLTIP,,"Sections of a tree that are most commonly prepared into {{RESOURCE.PLANKS.PLURAL}}, but have other uses as well.",
-RESOURCE.METAL.BLOOM.NOUN,,Bloom,
-RESOURCE.METAL.BLOOM.PLURAL,,Blooms,
-RESOURCE.METAL.BLOOM.TOOLTIP,,A lump of metal mixed with slag which must be hammered into a usable form.,
+RESOURCE.LOGS.TOOLTIP,,"Sections of a tree that are most commonly prepared into {{RESOURCE.PLANKS.PLURAL}}, but have other uses as well.","Teil eines Baumes, der am häufigsten zu {{RESOURCE.PLANKS.PLURAL}} verarbeitet wird, aber auch andere Verwendungen hat."
+RESOURCE.METAL.BLOOM.NOUN,,Bloom,Luppe
+RESOURCE.METAL.BLOOM.PLURAL,,Blooms,Luppen
+RESOURCE.METAL.BLOOM.TOOLTIP,,A lump of metal mixed with slag which must be hammered into a usable form.,"Ein mit Schlacke vermischter Metallklumpen, der in brauchbare Form gehämmert werden muss."
 RESOURCE.METAL.INGOT.NOUN,,Ingot,Barren
 RESOURCE.METAL.INGOT.PLURAL,,Ingots,Barren
-RESOURCE.METAL.INGOT.TOOLTIP,,"Refined metal blocks, ready to be used as a crafting ingredient.",
-RESOURCE.METAL.PLATE.NOUN,,Plate,
-RESOURCE.METAL.PLATE.PLURAL,,Plates,
-RESOURCE.METAL.PLATE.TOOLTIP,,"Large, flat plates that are used in some of the larger machinery.",
-RESOURCE.MUSHROOM.LOG.NOUN,,Mushroom log,
-RESOURCE.MUSHROOM.LOG.PLURAL,,Mushroom logs,
-RESOURCE.MUSHROOM.LOG.TOOLTIP,,A log that has been infused with {{INGREDIENT.MUSHROOM.SPAWN.NOUN}}. The body of the log itself is where the mushrooms draw nutrients from. It requires dousing in a {{FURNITURE.MUSHROOM_SHOCK_TANK}} after becoming fully innoculated.,
-RESOURCE.MUSHROOM.LUMBER.NOUN,,Log,Stamm
-RESOURCE.MUSHROOM.LUMBER.PLURAL,,Logs,Stämme
-RESOURCE.MUSHROOM.LUMBER.TOOLTIP,,Sections of a giant mushroom that can be used in the same way as wooden {{RESOURCE.LOGS.PLURAL}}.,
-RESOURCE.ORE.CRUSHED.NOUN,,Crushed ore,
-RESOURCE.ORE.CRUSHED.PLURAL,,Crushed ore,
-RESOURCE.ORE.CRUSHED.TOOLTIP,,"A metallic sand created by breaking down raw metal ore, ready for use in a {{FURNITURE.BLOOMERY_FURNACE}}.",
-RESOURCE.ORE.UNREFINED.NOUN,,Ore,Erzbrocken
-RESOURCE.ORE.UNREFINED.PLURAL,,Ore,Erzbrocken
-RESOURCE.ORE.UNREFINED.TOOLTIP,,Stone that contains metallic ores which can be processed into usable metal.,
+RESOURCE.METAL.INGOT.TOOLTIP,,"Refined metal blocks, ready to be used as a crafting ingredient.","Veredelte Metallblöcke, bereit zur Verwendung als Handwerkszutat."
+RESOURCE.METAL.PLATE.NOUN,,Plate,Platte
+RESOURCE.METAL.PLATE.PLURAL,,Plates,Platten
+RESOURCE.METAL.PLATE.TOOLTIP,,"Large, flat plates that are used in some of the larger machinery.","Große, flache Platten, die in einen der größeren Maschinen eingesetzt werden."
+RESOURCE.MUSHROOM.LOG.NOUN,,Mushroom log,Pilzstamm
+RESOURCE.MUSHROOM.LOG.PLURAL,,Mushroom logs,Pilzstämme
+RESOURCE.MUSHROOM.LOG.TOOLTIP,,A log that has been infused with {{INGREDIENT.MUSHROOM.SPAWN.NOUN}}. The body of the log itself is where the mushrooms draw nutrients from. It requires dousing in a {{FURNITURE.MUSHROOM_SHOCK_TANK}} after becoming fully innoculated.,"Ein Stamm, der mit {{INGREDIENT.MUSHROOM.SPAWN.NOUN}} versehen wurde. Aus dem Baumstamm selbst ziehen die Pilze ihre Nährstoffe. Erfordert nach der vollständigen Einimpfung das Eintauchen in einen {{FURNITURE.MUSHROOM_SHOCK_TANK}}."
+RESOURCE.MUSHROOM.LUMBER.NOUN,,Log,Pilzholz
+RESOURCE.MUSHROOM.LUMBER.PLURAL,,Logs,Pilzhölzer
+RESOURCE.MUSHROOM.LUMBER.TOOLTIP,,Sections of a giant mushroom that can be used in the same way as wooden {{RESOURCE.LOGS.PLURAL}}.,"Teile eines riesigen Pilzes, der auf die gleiche Weise wie hölzerne {{RESOURCE.LOGS.PLURAL}} verwendet werden kann."
+RESOURCE.ORE.CRUSHED.NOUN,,Crushed ore,Erzbrocken
+RESOURCE.ORE.CRUSHED.PLURAL,,Crushed ore,Erzbrocken
+RESOURCE.ORE.CRUSHED.TOOLTIP,,"A metallic sand created by breaking down raw metal ore, ready for use in a {{FURNITURE.BLOOMERY_FURNACE}}.","Ein metallischer Sand, der durch Zerkleinerung von rohem Metallerz erzeugt wird und zur Verwendung in einer {{FURNITURE.BLOOMERY_FURNACE}} bereit ist."
+RESOURCE.ORE.UNREFINED.NOUN,,Ore,Erz
+RESOURCE.ORE.UNREFINED.PLURAL,,Ore,Erz
+RESOURCE.ORE.UNREFINED.TOOLTIP,,Stone that contains metallic ores which can be processed into usable metal.,"Gestein, das metallische Erze enthält, die zu brauchbarem Metall verarbeitet werden können."
 RESOURCE.PLANKS.NOUN,,Plank,Brett
 RESOURCE.PLANKS.PLURAL,,Planks,Bretter
-RESOURCE.PLANKS.TOOLTIP,,Sections of wood of a fixed size so they can be easily used in constructions and crafting.,
+RESOURCE.PLANKS.TOOLTIP,,Sections of wood of a fixed size so they can be easily used in constructions and crafting.,"Holzabschnitte von festgelegter Größe, so dass sie leicht in Bau und Handwerk verwendet werden können."
 RESOURCE.SHOCKED.MUSHROOM.LOG.NOUN,,Mushroom log,
 RESOURCE.SHOCKED.MUSHROOM.LOG.PLURAL,,Mushroom logs,
-RESOURCE.SHOCKED.MUSHROOM.LOG.TOOLTIP,,This mushroom-infused log has been “shocked” in water to encourage the mushrooms to develop and should produce a harvest soon.,
+RESOURCE.SHOCKED.MUSHROOM.LOG.TOOLTIP,,This mushroom-infused log has been “shocked” in water to encourage the mushrooms to develop and should produce a harvest soon.,"Dieser mit Pilzen angereicherte Stamm wurde im Wasser "geschockt", um das Wachstum der Pilze zu fördern, und sollte bald eine Ernte bringen."
 RESOURCE.STONE.BLOCK.NOUN,,Block,Block
 RESOURCE.STONE.BLOCK.PLURAL,,Blocks,Blöcke
-RESOURCE.STONE.BLOCK.TOOLTIP,,Stone that has been shaped into a cube so that is can be easily used in construction or crafting.,
+RESOURCE.STONE.BLOCK.TOOLTIP,,Stone that has been shaped into a cube so that is can be easily used in construction or crafting.,"Zu einem Würfel gehauener Stein, so dass er leicht für Bau und Handwerk verwendet werden kann."
 RESOURCE.STONE.UNREFINED.NOUN,,Rough stone boulder,Steinbrocken
 RESOURCE.STONE.UNREFINED.PLURAL,,Rough stone boulders,Steinbrocken
-RESOURCE.STONE.UNREFINED.TOOLTIP,,A huge piece of stone that must be chiselled into a more useful shape by a {{PROFESSION.STONEMASON}}.,
+RESOURCE.STONE.UNREFINED.TOOLTIP,,A huge piece of stone that must be chiselled into a more useful shape by a {{PROFESSION.STONEMASON}}.,"Ein riesiges Stück Stein, das von einem {{PROFESSION.STONEMASON}} in eine nützlichere Form gemeißelt werden muss."
 
 ROOMS.BEDROOM,,Bedroom,Schlafzimmer
 ROOMS.BEDROOM.TOOLTIP,,"A place for your settlers to sleep. They prefer to have individual bedrooms that are at least 9 tiles in size, and preferably at least 13 tiles in size.",
-ROOMS.BRIDGE,,Bridge,
+ROOMS.BRIDGE,,Bridge,Brücke
 ROOMS.BRIDGE.TOOLTIP,,Placed across the river to allow access to the other side.,
 ROOMS.CARPENTRY_WORKSHOP,,Carpentry workshop,Schreinerei
 ROOMS.CARPENTRY_WORKSHOP.TOOLTIP,,This workshop produces most wooden tools and items.,
@@ -653,7 +653,7 @@ ROOMS.FARM,,Farm plot,Feld
 ROOMS.FARM.TOOLTIP,,Grows crops using {{INGREDIENT.SEEDS.PLURAL}}. Must be placed on {{MATERIAL_TYPE.EARTH.NOUN}}.,
 ROOMS.FEASTING_HALL,,Feasting hall,"Speisesaal "
 ROOMS.FEASTING_HALL.TOOLTIP,,"A place for settlers to gather to eat, drink and be merry!",
-ROOMS.GRAVEYARD,,Graveyard,
+ROOMS.GRAVEYARD,,Graveyard,Friedhof
 ROOMS.GRAVEYARD.TOOLTIP,,Deceased settlers are laid to rest here.,
 ROOMS.KITCHEN,,Kitchen,Küche
 ROOMS.KITCHEN.TOOLTIP,,Most food is prepared here before being served in a {{ROOMS.FEASTING_HALL}}.,
@@ -661,7 +661,7 @@ ROOMS.MASONRY_WORKSHOP,,Masonry workshop,Maurerei
 ROOMS.MASONRY_WORKSHOP.TOOLTIP,,This workshop produces most items made out of stone.,
 ROOMS.METALWORKS,,Metalworks,
 ROOMS.METALWORKS.TOOLTIP,,Metal ore is refined and used in crafting here.,
-ROOMS.MUSHROOM_FARM,,Mushroom farm,
+ROOMS.MUSHROOM_FARM,,Mushroom farm,Pilzfarm
 ROOMS.MUSHROOM_FARM.TOOLTIP,,Mushrooms can be grown using {{INGREDIENT.MUSHROOM.SPAWN.NOUN}} and wooden {{RESOURCE.LOGS.PLURAL}}.,
 ROOMS.SAWMILL,,Sawmill,Sägewerk
 ROOMS.SAWMILL.TOOLTIP,,Wooden {{RESOURCE.LOGS.PLURAL}} are refined into {{RESOURCE.PLANKS.PLURAL}} here.,
