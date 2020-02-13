@@ -52,6 +52,8 @@ Ideally, also please join the [game's Discord](https://discord.gg/qF2S3tf) and j
 
 * 1.0.0
     * Initial Release
+* 1.0.X
+    * Added contributions to languages
 
 ## License
 
