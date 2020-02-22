@@ -684,8 +684,8 @@ SEASON.WINTER,,Winter,Zima
 
 SEED.BARLEY_SEED,,Barley,Jęczmień
 SEED.BARLEY_SEED.TOOLTIP,{{VEGETABLE.BARLEY.TOOLTIP}},"A grain used only in the production of beer. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Ziarno używane tylko do produkcji piwa. Można sadzić w {{SEASON.SPRING}}, {{SEASON.SUMMER}} lub {{SEASON.AUTUMN}}."
-SEED.BERSERKER_SPAWN,,Berserker,Berserkera
-SEED.BERSERKER_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,"Grzyb z różowo-czerwoną czapką z białymi plamami. Ma właściwości halucynogenne, których wojownicy czasami używają w przygotowaniach do bitwy."
+SEED.BERSERKER_MUSHROOM_SPAWN,,Berserker,Berserkera
+SEED.BERSERKER_MUSHROOM_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,"Grzyb z różowo-czerwoną czapką z białymi plamami. Ma właściwości halucynogenne, których wojownicy czasami używają w przygotowaniach do bitwy."
 SEED.CARROT_SEED,,Carrot,Marchewka
 SEED.CARROT_SEED.TOOLTIP,{{VEGETABLE.CARROT.TOOLTIP}},"A hardy root vegetable that survives the {{SEASON.WINTER}} frost. Carrots grow quickly but only produce a small crop. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Warzywo korzeniowe, które przetrwa mróz {{SEASON.WINTER}}. Marchewki rosną szybko, ale tylko produkują małe plony. Można sadzić w {{SEASON.SPRING}}, {{SEASON.SUMMER}} lub {{SEASON.AUTUMN}}."
 SEED.CORN_SEED,,Corn,Kukurydza

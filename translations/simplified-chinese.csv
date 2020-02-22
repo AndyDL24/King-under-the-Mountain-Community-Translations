@@ -684,8 +684,8 @@ SEASON.WINTER,,Winter,冬天
 
 SEED.BARLEY_SEED,,Barley,大麦
 SEED.BARLEY_SEED.TOOLTIP,{{VEGETABLE.BARLEY.TOOLTIP}},"A grain used only in the production of beer. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.",只用于生产啤酒的谷物。 可以在 {{季节. 春季}}，{{季节. 夏季}} 或 {{季节. 秋季}} 种植。
-SEED.BERSERKER_SPAWN,,Berserker,-是狂暴者
-SEED.BERSERKER_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,蘑菇与粉红色的帽子轴承白色斑点。 它具有致幻特性，战士有时用于战斗准备。
+SEED.BERSERKER_MUSHROOM_SPAWN,,Berserker,-是狂暴者
+SEED.BERSERKER_MUSHROOM_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,蘑菇与粉红色的帽子轴承白色斑点。 它具有致幻特性，战士有时用于战斗准备。
 SEED.CARROT_SEED,,Carrot,胡萝卜
 SEED.CARROT_SEED.TOOLTIP,{{VEGETABLE.CARROT.TOOLTIP}},"A hardy root vegetable that survives the {{SEASON.WINTER}} frost. Carrots grow quickly but only produce a small crop. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.",一种耐寒的根茎蔬菜，能够在 {{季节. 冬季}} 霜冻中生存下来。 胡萝卜生长迅速，但只产生一个小作物。 可以在 {{季节. 春季}}，{{季节. 夏季}} 或 {{季节. 秋季}} 种植。
 SEED.CORN_SEED,,Corn,玉米

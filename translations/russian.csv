@@ -684,8 +684,8 @@ SEASON.WINTER,,Winter,Зима
 
 SEED.BARLEY_SEED,,Barley,Ячмень
 SEED.BARLEY_SEED.TOOLTIP,{{VEGETABLE.BARLEY.TOOLTIP}},"A grain used only in the production of beer. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Зерно используется только при производстве пива. Можно посадить в {{SEASON.SPRING}}, {{SEASON.SUMMER}} или {{SEASON.AUTUMN}}."
-SEED.BERSERKER_SPAWN,,Berserker,Берсеркер
-SEED.BERSERKER_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,"Гриб с розово-красной крышкой с белыми пятнами. Он обладает галлюциногенными свойствами, которые иногда используют воины при подготовке к бою."
+SEED.BERSERKER_MUSHROOM_SPAWN,,Berserker,Берсеркер
+SEED.BERSERKER_MUSHROOM_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,"Гриб с розово-красной крышкой с белыми пятнами. Он обладает галлюциногенными свойствами, которые иногда используют воины при подготовке к бою."
 SEED.CARROT_SEED,,Carrot,Морковь
 SEED.CARROT_SEED.TOOLTIP,{{VEGETABLE.CARROT.TOOLTIP}},"A hardy root vegetable that survives the {{SEASON.WINTER}} frost. Carrots grow quickly but only produce a small crop. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","выносливый корневой овощ, который выживает от мороза {{SEASON.WINTER}}. Морковь растет быстро, но производит только небольшой урожай. Можно посадить в {{SEASON.SPRING}}, {{SEASON.SUMMER}} или {{SEASON.AUTUMN}}."
 SEED.CORN_SEED,,Corn,Кукуруза

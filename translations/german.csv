@@ -684,8 +684,8 @@ SEASON.WINTER,,Winter,Winter
 
 SEED.BARLEY_SEED,,Barley,Gersten
 SEED.BARLEY_SEED.TOOLTIP,{{VEGETABLE.BARLEY.TOOLTIP}},"A grain used only in the production of beer. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Ein Getreide, das nur bei der Herstellung von Bier verwendet wird. Kann in {{SEASON.SPRING}}, {{SEASON.SUMMER}} oder {{SEASON.AUTUMN}} gepflanzt werden."
-SEED.BERSERKER_SPAWN,,Berserker,Berserker
-SEED.BERSERKER_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,"Ein Pilz mit einer rosa-roten Kappe mit weißen Flecken. Es hat halluzinogene Eigenschaften, die Krieger manchmal in Vorbereitung auf den Kampf verwenden."
+SEED.BERSERKER_MUSHROOM_SPAWN,,Berserker,Berserker
+SEED.BERSERKER_MUSHROOM_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,"Ein Pilz mit einer rosa-roten Kappe mit weißen Flecken. Es hat halluzinogene Eigenschaften, die Krieger manchmal in Vorbereitung auf den Kampf verwenden."
 SEED.CARROT_SEED,,Carrot,Karotten
 SEED.CARROT_SEED.TOOLTIP,{{VEGETABLE.CARROT.TOOLTIP}},"A hardy root vegetable that survives the {{SEASON.WINTER}} frost. Carrots grow quickly but only produce a small crop. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Ein hartes Wurzelgemüse, das den {{SEASON.WINTER}} Frost überlebt. Karotten wachsen schnell, produzieren aber nur eine kleine Ernte. Kann in {{SEASON.SPRING}}, {{SEASON.SUMMER}} oder {{SEASON.AUTUMN}} gepflanzt werden."
 SEED.CORN_SEED,,Corn,Mais

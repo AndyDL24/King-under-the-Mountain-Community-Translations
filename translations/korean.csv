@@ -684,8 +684,8 @@ SEASON.WINTER,,Winter,겨울
 
 SEED.BARLEY_SEED,,Barley,보리
 SEED.BARLEY_SEED.TOOLTIP,{{VEGETABLE.BARLEY.TOOLTIP}},"A grain used only in the production of beer. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","맥주의 생산에만 사용되는 곡물. {{SEASON.SPRING}}, {{SEASON.SUMMER}} 또는 {{SEASON.AUTUMN}} 에 심을 수 있습니다."
-SEED.BERSERKER_SPAWN,,Berserker,버서커
-SEED.BERSERKER_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,흰 반점이 있는 핑크 레드 캡이 달린 버섯. 그것은 전사가 전투 준비에 사용하는 환각 특성을 가지고 있습니다.
+SEED.BERSERKER_MUSHROOM_SPAWN,,Berserker,버서커
+SEED.BERSERKER_MUSHROOM_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,흰 반점이 있는 핑크 레드 캡이 달린 버섯. 그것은 전사가 전투 준비에 사용하는 환각 특성을 가지고 있습니다.
 SEED.CARROT_SEED,,Carrot,당근
 SEED.CARROT_SEED.TOOLTIP,{{VEGETABLE.CARROT.TOOLTIP}},"A hardy root vegetable that survives the {{SEASON.WINTER}} frost. Carrots grow quickly but only produce a small crop. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","{{SEASON.WINTER}} 서리에서 살아남은 튼튼한 뿌리 채소. 당근은 빨리 자라지 만 작은 작물을 생산합니다. {{SEASON.SPRING}}, {{SEASON.SUMMER}} 또는 {{SEASON.AUTUMN}} 에 심을 수 있습니다."
 SEED.CORN_SEED,,Corn,옥수수

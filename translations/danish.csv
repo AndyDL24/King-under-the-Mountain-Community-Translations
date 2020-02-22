@@ -684,8 +684,8 @@ SEASON.WINTER,,Winter,Vinter
 
 SEED.BARLEY_SEED,,Barley,Byg
 SEED.BARLEY_SEED.TOOLTIP,{{VEGETABLE.BARLEY.TOOLTIP}},"A grain used only in the production of beer. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Et korn, der kun anvendes til fremstilling af øl. Kan plantes i {{SEASON.SPRING}}, {{SEASON.SUMMER}} eller {{SEASON.AUTUMN}}."
-SEED.BERSERKER_SPAWN,,Berserker,Bersærker
-SEED.BERSERKER_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,"En svamp med en pink-rød hætte med hvide pletter. Det har hallucinogene egenskaber, som krigere sommetider bruger som forberedelse til kamp."
+SEED.BERSERKER_MUSHROOM_SPAWN,,Berserker,Bersærker
+SEED.BERSERKER_MUSHROOM_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,"En svamp med en pink-rød hætte med hvide pletter. Det har hallucinogene egenskaber, som krigere sommetider bruger som forberedelse til kamp."
 SEED.CARROT_SEED,,Carrot,Gulerod
 SEED.CARROT_SEED.TOOLTIP,{{VEGETABLE.CARROT.TOOLTIP}},"A hardy root vegetable that survives the {{SEASON.WINTER}} frost. Carrots grow quickly but only produce a small crop. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","En hårdfør rodfrugt, der overlever {{SEASON.WINTER}} frost. Gulerødder vokser hurtigt, men producerer kun en lille afgrøde. Kan plantes i {{SEASON.SPRING}}, {{SEASON.SUMMER}} eller {{SEASON.AUTUMN}}."
 SEED.CORN_SEED,,Corn,Majs

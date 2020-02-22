@@ -684,8 +684,8 @@ SEASON.WINTER,,Winter,Invierno
 
 SEED.BARLEY_SEED,,Barley,de cebada
 SEED.BARLEY_SEED.TOOLTIP,{{VEGETABLE.BARLEY.TOOLTIP}},"A grain used only in the production of beer. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un grano utilizado sólo en la producción de cerveza. Se puede plantar en {{SEASON.SPRING}}, {SEASON.SUMMER}} o {{SEASON.OTOWN}}."
-SEED.BERSERKER_SPAWN,,Berserker,Berserker
-SEED.BERSERKER_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,Un hongo con una tapa rosa-roja que lleva manchas blancas. Tiene propiedades alucinógenas que los guerreros usan a veces en preparación para la batalla.
+SEED.BERSERKER_MUSHROOM_SPAWN,,Berserker,Berserker
+SEED.BERSERKER_MUSHROOM_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,Un hongo con una tapa rosa-roja que lleva manchas blancas. Tiene propiedades alucinógenas que los guerreros usan a veces en preparación para la batalla.
 SEED.CARROT_SEED,,Carrot,de zanahoria
 SEED.CARROT_SEED.TOOLTIP,{{VEGETABLE.CARROT.TOOLTIP}},"A hardy root vegetable that survives the {{SEASON.WINTER}} frost. Carrots grow quickly but only produce a small crop. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un vegetal de raíz resistente que sobrevive a las heladas {{SEASON.WINTER}}. Las zanahorias crecen rápidamente, pero solo producen una pequeña cosecha. Se puede plantar en {{SEASON.SPRING}}, {SEASON.SUMMER}} o {{SEASON.OTOWN}}."
 SEED.CORN_SEED,,Corn,de maíz

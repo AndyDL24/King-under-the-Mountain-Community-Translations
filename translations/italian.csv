@@ -684,8 +684,8 @@ SEASON.WINTER,,Winter,Inverno
 
 SEED.BARLEY_SEED,,Barley,Orzo
 SEED.BARLEY_SEED.TOOLTIP,{{VEGETABLE.BARLEY.TOOLTIP}},"A grain used only in the production of beer. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un grano utilizzato solo nella produzione di birra. Può essere piantato in {{SEASONON.SPRING}}, {{SEASONON.SUMMER}} o {{SEASON.AUTUMN}}."
-SEED.BERSERKER_SPAWN,,Berserker,Berserker
-SEED.BERSERKER_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,Un fungo con un cappuccio rosa-rosso che porta macchie bianche. Ha proprietà allucinogene che i guerrieri a volte usano in preparazione alla battaglia.
+SEED.BERSERKER_MUSHROOM_SPAWN,,Berserker,Berserker
+SEED.BERSERKER_MUSHROOM_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,Un fungo con un cappuccio rosa-rosso che porta macchie bianche. Ha proprietà allucinogene che i guerrieri a volte usano in preparazione alla battaglia.
 SEED.CARROT_SEED,,Carrot,Carota
 SEED.CARROT_SEED.TOOLTIP,{{VEGETABLE.CARROT.TOOLTIP}},"A hardy root vegetable that survives the {{SEASON.WINTER}} frost. Carrots grow quickly but only produce a small crop. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un ortaggio a radice resistente che sopravvive al gelo {{SEASONON.WINTER}}. Le carote crescono rapidamente ma producono solo un piccolo raccolto. Può essere piantato in {{SEASONON.SPRING}}, {{SEASONON.SUMMER}} o {{SEASON.AUTUMN}}."
 SEED.CORN_SEED,,Corn,Mais

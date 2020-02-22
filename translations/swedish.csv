@@ -684,8 +684,8 @@ SEASON.WINTER,,Winter,Vinter
 
 SEED.BARLEY_SEED,,Barley,Korn
 SEED.BARLEY_SEED.TOOLTIP,{{VEGETABLE.BARLEY.TOOLTIP}},"A grain used only in the production of beer. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Ett korn som endast används vid produktion av öl. Kan planteras i {{SEASON.SPRING}}, {{SEASON.SOMR}} eller {{SEASON.HENT}}"
-SEED.BERSERKER_SPAWN,,Berserker,Berserkern
-SEED.BERSERKER_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,En svamp med en rosa-röd mössa med vita fläckar. Det har hallucinogena egenskaper som krigare ibland använder för att förbereda sig för strid.
+SEED.BERSERKER_MUSHROOM_SPAWN,,Berserker,Berserkern
+SEED.BERSERKER_MUSHROOM_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,En svamp med en rosa-röd mössa med vita fläckar. Det har hallucinogena egenskaper som krigare ibland använder för att förbereda sig för strid.
 SEED.CARROT_SEED,,Carrot,Morot
 SEED.CARROT_SEED.TOOLTIP,{{VEGETABLE.CARROT.TOOLTIP}},"A hardy root vegetable that survives the {{SEASON.WINTER}} frost. Carrots grow quickly but only produce a small crop. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","En härdig rotgrönsak som överlever {{SEASON.WINTER} -frosten. Morötter växer snabbt men producerar bara en liten gröda. Kan planteras i {{SEASON.SPRING}}, {{SEASON.SOMR}} eller {{SEASON.HENT}}"
 SEED.CORN_SEED,,Corn,Majs
