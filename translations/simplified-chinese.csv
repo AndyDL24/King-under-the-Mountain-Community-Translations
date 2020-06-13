@@ -264,6 +264,7 @@ GUI.OPTIONS.GAMEPLAY.TITLE,,"Gameplay Options ",游戏选项
 GUI.OPTIONS.GAMEPLAY.USE_EDGE_SCROLLING,This is for a question to ask if the player would like the camera to scroll/pan by placing the mouse at the edge of the screen,Scroll when cursor is at the edge of the screen,当光标位于屏幕边缘时滚动
 GUI.OPTIONS.GRAPHICS.TITLE,,"Graphics Options ",图形选项
 GUI.OPTIONS.MISC.CRASH_REPORTING_ENABLED,,Allow automatic crash reports,允许自动崩溃报告
+GUI.OPTIONS.MISC.HINTS_ENABLED,,Show hints and tutorials in-game,
 GUI.OPTIONS.MISC.TITLE,,Miscellaneous,杂项
 GUI.ORDERS.CHOP_WOOD,This should be as short as possible,Chop,印章
 GUI.ORDERS.CLEAR_GROUND,This should be as short as possible,Clear,清除
@@ -307,11 +308,13 @@ HAPPINESS_MODIFIER.VERY_TIRED,,Extremely tired,极度疲惫
 HAULING.ASSIGNMENT.DESCRIPTION,,{{quantity}} assigned to {{targetDescription}},{{quantity}} 已分配给 {{targetDescription}}
 
 HINT.BUTTON.DISABLE_ALL,,Disable all hints,禁用所有提示
+HINT.BUTTON.DISMISS,,Dismiss,
 HINT.BUTTON.HINTS_ONLY,,Hints only,仅提示
 HINT.BUTTON.NEXT,,Next,下一个
 HINT.BUTTON.TUTORIAL,,Tutorial,教程
-HINT.WELCOME.INTRO,,"Welcome to the world of King under the Mountain! This is an early alpha version of the game with many more features and gameplay elements still to be implemented. Your intrepid band of dwarven settlers have chosen this location to found a new colony of their kingdom. Provide food, shelter and prosperity and who knows, maybe one day this will be the capital of a kingdom of its own!",欢迎来到山下王的世界！ 这是游戏的早期 alpha 版本，还有更多的功能和游戏元素有待实现。 你们勇敢的矮人定居者们选择了这个位置，找到了他们王国的新殖民地。 提供食物，住所和繁荣，谁知道，也许有一天，这将是自己的王国的首都！
-HINT.WELCOME.NEXT_STEPS,,TEXT,文本
+HINT.PROGRESS.HEADER,,Progress:,
+HINT.WELCOME.INTRO,,"Welcome to the world of King under the Mountain! This is an early alpha version of the game with many more features and gameplay elements still to be implemented. Your intrepid band of dwarven settlers have chosen this location to found a new colony of their kingdom. Provide food, shelter and prosperity for them and who knows, maybe one day this will be the capital of a kingdom of its own!",欢迎来到山下王的世界！ 这是游戏的早期 alpha 版本，还有更多的功能和游戏元素有待实现。 你们勇敢的矮人定居者们选择了这个位置，找到了他们王国的新殖民地。 提供食物，住所和繁荣，谁知道，也许有一天，这将是自己的王国的首都！
+HINT.WELCOME.NEXT_STEPS,,"Click “Tutorial” to be guided through the basics, “Hints only” to skip the tutorial but be provided with info as you play, or “Disable all hints” to stop showing these messages.",文本
 
 HUMANOID.BROKEN.DESCRIPTION,"E.g. “Urist McScrooge, insane dwarf”","{{name}}, {{madness.adjective}} {{race.noun}}",{{name}}，{{疯狂. 形容词}} {{种族. 名词}}
 HUMANOID.DESCRIPTION,"E.g. “Urist McScrooge, Dwarven miner”","{{name}}, {{race.adjective}} {{profession.noun}}",{{name}}，{{种族. 形容词}} {{专业. 名词}}
@@ -802,11 +805,21 @@ TUTORIAL.7.B,,"Most items and furniture are produced out of {{MATERIAL_TYPE.WOOD
 TUTORIAL.8.A,,"Now you are ready to produce {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.PLANKS.PLURAL}} and {{MATERIAL_TYPE.STONE.ADJECTIVE}} {{RESOURCE.STONE.BLOCK.PLURAL}}, but they require other resources to craft them - {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.LOGS.PLURAL}} and {{RESOURCE.STONE.UNREFINED.PLURAL}}. Fortunately these can usually be harvested from the game world quite easily.",现在你已经准备好生产 {{{材料 _ 类型. 木材. 形容词}} {{资源. 浮游. 复数}} 和 {{材料 _ 类型. 石头形容词}} {{资源. 块. 复数}}，但它们需要其他资源来制造它们-{{材料 _ 类型. 木材. 形容词}} {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{资源. {{RESOURCE.PLANKS.PLURAL}}。 幸运的是，这些通常可以很容易地从游戏世界收获.
 TUTORIAL.8.B,,Select {{GUI.ORDERS_LABEL}} > {{GUI.ORDERS.CHOP_WOOD}} and click-and-drag over trees to let your woodcutters know to cut them down. Similarly you can select select {{GUI.ORDERS_LABEL}} > {{GUI.ORDERS.MINE}} and click-and-drag an area of the mountain to designate to be mined. Select enough of both to build your stockpiles back up to 40 of each.,选择 {{GUI.ORDERS_LABEL}} > {{GUI.ORDERS.CHOP_WOOD}}，然后单击并拖动树木，让您的伐木师知道要砍伐它们。 同样，您可以选择 {{GUI.ORDERS_LABEL}} > {{GUI.ORDERS.MINE}}，然后单击并拖动要指定开采的山区。 从两者中选择足够多的备份库存，可以建立多达 40 个库存。
 TUTORIAL.8.C,,"Be careful with mining! A mined-out area of 7 by 7 tiles without a {{FURNITURE.PILLAR}} built within that area will collapse! ",小心采矿！ 在该区域内没有 {{家具 .PARE}}} 的开采区域将崩溃！
+TUTORIAL.CAMERA.A,,"You can use the W, A, S and D keys or the arrow keys to pan the camera around. Moving the cursor to the edge of the screen also pans the camera, but this can be disabled in the options menu.",
+TUTORIAL.CAMERA.B,,Scrolling the mouse wheel or pressing the Q and E keys zooms the camera in or out.,
+TUTORIAL.CAMERA.C,,"In the lower-right section of the screen is the minimap, and you can click on this to jump the camera to that point. Click on the “Minimap” label to show or hide the minimap.",
+TUTORIAL.CAMERA.D,,Try out these camera controls and then click “Next” to proceed.,
 TUTORIAL.FINAL.A,,"This covers the basics of playing King under the Mountain. For your next challenge, aim to set up a functioning {{ROOMS.METALWORKS}} with a {{FURNITURE.FORGE}} provided with fuel and refined metal ore. Refined metal ores are produced at the {{FURNITURE.ORE_CRUSHING_STATION}}, and fuel can be crushed from coal or produced out of {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.LOGS.PLURAL}} with a {{FURNITURE.CHARCOAL_CLAMP}} in an {{ROOMS.EARTHWORKS}}. Good luck!",这涵盖了在山下玩王的基础知识。 对于您的下一个挑战，目标是建立一个可运作的 {{ROOMS.METALWORKS}}，提供燃料和精炼金属矿石。 精制金属矿石是在 {{{家具 .ORE_CLOG}} 生产的，燃料可以从煤粉碎或从 {{材料 _ 类型. 木材. 形容词}} {{资源. LOG. 复数}} 中加上 {{家具 .CARC}} 在 {{房间. 土方工程}}} 中生产的。 祝你好运！
 TUTORIAL.PROGRESS_DESCRIPTION.FARM_PLOT_SELECTIONS,Used to show a progress indicator for how many farm plots have a crop selected e.g. 2 of 10 farm plots with a crop assigned,{{ROOMS.FARM.PLURAL}} with a crop assigned,{{房间. 法院. 复数}}，并指定了一个裁剪
 TUTORIAL.PROGRESS_DESCRIPTION.PROFESSIONS_ASSIGNED,Used to show a progress indicator for how many of a certain profession have been assigned e.g. 2 of 10 farmers assigned,{{professionPlural}} assigned,{{professionPlural}} 分配
 TUTORIAL.PROGRESS_DESCRIPTION.TEXT,Used to show a progress indicator in the form: 2 of 10 stone blocks,{{currentQuantity}} of {{requiredQuantity}} {{targetDescription}},{{currentQuantity}} {{requiredQuantity}} {{targetDescription}}
 TUTORIAL.PROGRESS_DESCRIPTION.TILES,Used to show a progress indicator for a certain number of tiles e.g. 2 of 10 farm plot tiles,{{roomName}} tiles,{{roomName}} 张瓷砖
+TUTORIAL.SAVING.A,,"Your progress is saved automatically at midnight, and also whenever you exit the game. You can also quicksave by pressing the F5 key.",
+TUTORIAL.SAVING.B,,"Currently the game only works with a single save file at a time, but during the alpha managing multiple save files will be available.",
+TUTORIAL.TIME.A,,"The upper-right section of the screen shows the current date and time, and has controls for the game speed.",
+TUTORIAL.TIME.B,,You can press the spacebar to pause or unpause the game.,
+TUTORIAL.TIME.C,,"The 1 key sets the game to run at normal speed, while the 2, 3 and 4 keys make the game run at an increasingly faster pace. The game will automatically jump to speed 4 while all your settlers are asleep.",
+TUTORIAL.TIME.D,,You can also click the speed icons to change the speed or pause the game.,
 
 VEGETABLE.BARLEY,,Barley,大麦
 VEGETABLE.BARLEY.PLURAL,,Barley,大麦

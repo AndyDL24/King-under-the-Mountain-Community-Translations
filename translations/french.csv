@@ -264,6 +264,7 @@ GUI.OPTIONS.GAMEPLAY.TITLE,,"Gameplay Options ","Options de jeu "
 GUI.OPTIONS.GAMEPLAY.USE_EDGE_SCROLLING,This is for a question to ask if the player would like the camera to scroll/pan by placing the mouse at the edge of the screen,Scroll when cursor is at the edge of the screen,Faites défiler lorsque le curseur est sur le bord de l'écran
 GUI.OPTIONS.GRAPHICS.TITLE,,"Graphics Options ","Options graphiques "
 GUI.OPTIONS.MISC.CRASH_REPORTING_ENABLED,,Allow automatic crash reports,Autoriser les rapports d'incident automatiques
+GUI.OPTIONS.MISC.HINTS_ENABLED,,Show hints and tutorials in-game,
 GUI.OPTIONS.MISC.TITLE,,Miscellaneous,Divers
 GUI.ORDERS.CHOP_WOOD,This should be as short as possible,Chop,Couper
 GUI.ORDERS.CLEAR_GROUND,This should be as short as possible,Clear,Arracher
@@ -307,11 +308,13 @@ HAPPINESS_MODIFIER.VERY_TIRED,,Extremely tired,Extrêmement fatigué
 HAULING.ASSIGNMENT.DESCRIPTION,,{{quantity}} assigned to {{targetDescription}},{{quantity}} affecté à {{targetDescription}}
 
 HINT.BUTTON.DISABLE_ALL,,Disable all hints,Désactiver tous les conseils
+HINT.BUTTON.DISMISS,,Dismiss,
 HINT.BUTTON.HINTS_ONLY,,Hints only,Indications uniquement
 HINT.BUTTON.NEXT,,Next,Prochain
 HINT.BUTTON.TUTORIAL,,Tutorial,Tutoriel
-HINT.WELCOME.INTRO,,"Welcome to the world of King under the Mountain! This is an early alpha version of the game with many more features and gameplay elements still to be implemented. Your intrepid band of dwarven settlers have chosen this location to found a new colony of their kingdom. Provide food, shelter and prosperity and who knows, maybe one day this will be the capital of a kingdom of its own!","Bienvenue dans le monde du Roi sous la Montagne ! Il s'agit d'une version alpha précoce du jeu avec beaucoup plus de fonctionnalités et d'éléments de gameplay encore à mettre en œuvre. Votre bande intrépide de colons nains a choisi cet endroit pour fonder une nouvelle colonie de leur royaume. Fournir de la nourriture, du logement et de la prospérité et qui sait, peut-être un jour ce sera la capitale d'un royaume à lui seul !"
-HINT.WELCOME.NEXT_STEPS,,TEXT,TEXTE
+HINT.PROGRESS.HEADER,,Progress:,
+HINT.WELCOME.INTRO,,"Welcome to the world of King under the Mountain! This is an early alpha version of the game with many more features and gameplay elements still to be implemented. Your intrepid band of dwarven settlers have chosen this location to found a new colony of their kingdom. Provide food, shelter and prosperity for them and who knows, maybe one day this will be the capital of a kingdom of its own!","Bienvenue dans le monde du Roi sous la Montagne ! Il s'agit d'une version alpha précoce du jeu avec beaucoup plus de fonctionnalités et d'éléments de gameplay encore à mettre en œuvre. Votre bande intrépide de colons nains a choisi cet endroit pour fonder une nouvelle colonie de leur royaume. Fournir de la nourriture, du logement et de la prospérité et qui sait, peut-être un jour ce sera la capitale d'un royaume à lui seul !"
+HINT.WELCOME.NEXT_STEPS,,"Click “Tutorial” to be guided through the basics, “Hints only” to skip the tutorial but be provided with info as you play, or “Disable all hints” to stop showing these messages.",TEXTE
 
 HUMANOID.BROKEN.DESCRIPTION,"E.g. “Urist McScrooge, insane dwarf”","{{name}}, {{madness.adjective}} {{race.noun}}","{{name}}, {{madness.adjectif}} {{race.noun}}"
 HUMANOID.DESCRIPTION,"E.g. “Urist McScrooge, Dwarven miner”","{{name}}, {{race.adjective}} {{profession.noun}}","{{name}}, {{profession.noun}} {{race.adjective}}"
@@ -802,11 +805,21 @@ TUTORIAL.7.B,,"Most items and furniture are produced out of {{MATERIAL_TYPE.WOOD
 TUTORIAL.8.A,,"Now you are ready to produce {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.PLANKS.PLURAL}} and {{MATERIAL_TYPE.STONE.ADJECTIVE}} {{RESOURCE.STONE.BLOCK.PLURAL}}, but they require other resources to craft them - {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.LOGS.PLURAL}} and {{RESOURCE.STONE.UNREFINED.PLURAL}}. Fortunately these can usually be harvested from the game world quite easily.","Maintenant, vous êtes prêt à produire {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.PLANKS.PLURAL}} et {{MATERIAL_TYPE.STONE.ADJECTIVE}} {{RESOURCE.STONE.BLOCK.PLURAL}} et {{MATERIAL_TYPE.WOOD.ADJECTIVE}} ONE.UNRFINE.PLURAL}}. Heureusement, ceux-ci peuvent généralement être récoltés dans le monde du jeu assez facilement."
 TUTORIAL.8.B,,Select {{GUI.ORDERS_LABEL}} > {{GUI.ORDERS.CHOP_WOOD}} and click-and-drag over trees to let your woodcutters know to cut them down. Similarly you can select select {{GUI.ORDERS_LABEL}} > {{GUI.ORDERS.MINE}} and click-and-drag an area of the mountain to designate to be mined. Select enough of both to build your stockpiles back up to 40 of each.,"Sélectionnez {{GUI.ORDERS_LABEL}} > {{GUI.ORDERS.CHOP_WOOD}} et cliquez sur les arbres pour laisser vos bûcherons savoir de les couper. De même, vous pouvez sélectionner {{GUI.ORDERS_LABEL}} > {{GUI.ORDERS.MINE}} et cliquer et faire glisser une zone de la montagne pour désigner à miner. Sélectionnez suffisamment des deux pour reconstituer vos stocks jusqu'à 40 de chacun."
 TUTORIAL.8.C,,"Be careful with mining! A mined-out area of 7 by 7 tiles without a {{FURNITURE.PILLAR}} built within that area will collapse! ",Soyez prudent avec l'exploitation minière ! Une zone minée de 7 par 7 tuiles sans {{FURNITURE.PILLAR}} construite dans cette zone va s'effondrer !
+TUTORIAL.CAMERA.A,,"You can use the W, A, S and D keys or the arrow keys to pan the camera around. Moving the cursor to the edge of the screen also pans the camera, but this can be disabled in the options menu.",
+TUTORIAL.CAMERA.B,,Scrolling the mouse wheel or pressing the Q and E keys zooms the camera in or out.,
+TUTORIAL.CAMERA.C,,"In the lower-right section of the screen is the minimap, and you can click on this to jump the camera to that point. Click on the “Minimap” label to show or hide the minimap.",
+TUTORIAL.CAMERA.D,,Try out these camera controls and then click “Next” to proceed.,
 TUTORIAL.FINAL.A,,"This covers the basics of playing King under the Mountain. For your next challenge, aim to set up a functioning {{ROOMS.METALWORKS}} with a {{FURNITURE.FORGE}} provided with fuel and refined metal ore. Refined metal ores are produced at the {{FURNITURE.ORE_CRUSHING_STATION}}, and fuel can be crushed from coal or produced out of {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.LOGS.PLURAL}} with a {{FURNITURE.CHARCOAL_CLAMP}} in an {{ROOMS.EARTHWORKS}}. Good luck!","Cela couvre les bases du jeu King under the Mountain. Pour votre prochain défi, visez à mettre en place un {{ROOMS.METALWORKS}} fonctionnel avec un {{FURNITURE.FORGE}} fourni avec du carburant et du minerai de métal raffiné. Des minerais métalliques raffinés sont produits à la {{FURNITURE.ORE_CRUSHING_STATION}}, et le combustible peut être broyé à partir de charbon ou produit à partir de {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.LOGS.PLURAL}} avec un {{FURNITURE.CHARCOAL_CLAMP}} dans un {{ROOMS.EARTHWORKS}}. Bonne chance !"
 TUTORIAL.PROGRESS_DESCRIPTION.FARM_PLOT_SELECTIONS,Used to show a progress indicator for how many farm plots have a crop selected e.g. 2 of 10 farm plots with a crop assigned,{{ROOMS.FARM.PLURAL}} with a crop assigned,{{ROOMS.FARM.PLURAL}} avec une récolte attribuée
 TUTORIAL.PROGRESS_DESCRIPTION.PROFESSIONS_ASSIGNED,Used to show a progress indicator for how many of a certain profession have been assigned e.g. 2 of 10 farmers assigned,{{professionPlural}} assigned,{{professionPlural}} affecté
 TUTORIAL.PROGRESS_DESCRIPTION.TEXT,Used to show a progress indicator in the form: 2 of 10 stone blocks,{{currentQuantity}} of {{requiredQuantity}} {{targetDescription}},{{currentQuantity}} sur {{requiredQuantity}} {{targetDescription}}
 TUTORIAL.PROGRESS_DESCRIPTION.TILES,Used to show a progress indicator for a certain number of tiles e.g. 2 of 10 farm plot tiles,{{roomName}} tiles,{{roomName}} tuiles
+TUTORIAL.SAVING.A,,"Your progress is saved automatically at midnight, and also whenever you exit the game. You can also quicksave by pressing the F5 key.",
+TUTORIAL.SAVING.B,,"Currently the game only works with a single save file at a time, but during the alpha managing multiple save files will be available.",
+TUTORIAL.TIME.A,,"The upper-right section of the screen shows the current date and time, and has controls for the game speed.",
+TUTORIAL.TIME.B,,You can press the spacebar to pause or unpause the game.,
+TUTORIAL.TIME.C,,"The 1 key sets the game to run at normal speed, while the 2, 3 and 4 keys make the game run at an increasingly faster pace. The game will automatically jump to speed 4 while all your settlers are asleep.",
+TUTORIAL.TIME.D,,You can also click the speed icons to change the speed or pause the game.,
 
 VEGETABLE.BARLEY,,Barley,Orge
 VEGETABLE.BARLEY.PLURAL,,Barley,Orge
