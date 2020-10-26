@@ -71,6 +71,10 @@ FURNITURE.BAKERS_WORKTOP.TOOLTIP,,A {{PROFESSION.CHEF}} works here to turn {{RES
 FURNITURE.BAKING_OVEN,For the baking of bread,Baker's oven,貝克烤箱
 FURNITURE.BAKING_OVEN.TOOLTIP,,A {{PROFESSION.CHEF}} bakes loaves here using prepared {{INGREDIENT.DOUGH}}.,一个 {{PROFESSION.CHEF}} 烘烤面包在这里使用准备 {{成分. 面团}}。
 FURNITURE.BEER_TAPPER,,Beer tapper,
+FURNITURE.BEER_TAPPER.STATE.BEER_AVAILABLE,,Beer is available,
+FURNITURE.BEER_TAPPER.STATE.BEER_BARREL_INCOMING,,A beer barrel is on the way,
+FURNITURE.BEER_TAPPER.STATE.BEER_EXHAUSTED,,The beer has all gone!,
+FURNITURE.BEER_TAPPER.STATE.IDLE,,Idle (no beer available),
 FURNITURE.BEER_TAPPER.TOOLTIP,,This is where fermented {{LIQUID.BEER}} is served from.,
 FURNITURE.BLOOMERY_FURNACE,A simple type of furnace to smelt metal from ore,Bloomery furnace,花火炉
 FURNITURE.BLOOMERY_FURNACE.TOOLTIP,,A {{PROFESSION.BLACKSMITH}} uses this hand-operated furnace to turn {{RESOURCE.ORE.CRUSHED.PLURAL}} and {{FUEL.SACK}} into {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.,A {{{{专业. 铁匠}} 使用这个手动操作的炉子将 {{资源. 金属. 复数}} 和 {{燃料. 麻袋}} 转化为 {{材料 _ 类型. 金属. 形容词}}} {{资源. 金属. 复数}}。

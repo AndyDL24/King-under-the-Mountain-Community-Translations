@@ -71,6 +71,10 @@ FURNITURE.BAKERS_WORKTOP.TOOLTIP,,A {{PROFESSION.CHEF}} works here to turn {{RES
 FURNITURE.BAKING_OVEN,For the baking of bread,Baker's oven,Forno de padaria
 FURNITURE.BAKING_OVEN.TOOLTIP,,A {{PROFESSION.CHEF}} bakes loaves here using prepared {{INGREDIENT.DOUGH}}.,Um {{PROFISSION.CHEF}} assa pães aqui usando {{INGREIENT.DATHY}} preparados.
 FURNITURE.BEER_TAPPER,,Beer tapper,
+FURNITURE.BEER_TAPPER.STATE.BEER_AVAILABLE,,Beer is available,
+FURNITURE.BEER_TAPPER.STATE.BEER_BARREL_INCOMING,,A beer barrel is on the way,
+FURNITURE.BEER_TAPPER.STATE.BEER_EXHAUSTED,,The beer has all gone!,
+FURNITURE.BEER_TAPPER.STATE.IDLE,,Idle (no beer available),
 FURNITURE.BEER_TAPPER.TOOLTIP,,This is where fermented {{LIQUID.BEER}} is served from.,
 FURNITURE.BLOOMERY_FURNACE,A simple type of furnace to smelt metal from ore,Bloomery furnace,Forno de Bloomery
 FURNITURE.BLOOMERY_FURNACE.TOOLTIP,,A {{PROFESSION.BLACKSMITH}} uses this hand-operated furnace to turn {{RESOURCE.ORE.CRUSHED.PLURAL}} and {{FUEL.SACK}} into {{MATERIAL_TYPE.METAL.ADJECTIVE}} {{RESOURCE.METAL.INGOT.PLURAL}}.,Um {{PROFISSION.BLACKSMITH}} usa este forno operado à mão para transformar {{RESOURCE.ORE.CROSSHED.PLURAL}} e {{FUEL.SACK}} em {{MATERIAL_TYPE.METAL.ADJECTIVE}} {RESOURCE.METAL.INGOT.PLURAL}}.
