@@ -33,6 +33,20 @@ COOKING.BREAD.DESCRIPTION,E.g. “Wheat bread”,{{materialDescription}} bread,{
 COOKING.DUAL_INGREDIENT.DESCRIPTION,"E.g. “Tomato and potato”, to be used for for two ingredients together as below",{{materialOne}} and {{materialTwo}},{{materialOne}} et {{materialTwo}}
 COOKING.SOUP.DESCRIPTION,"E.g. “Tomato soup”, “Tomato and potato soup”, “Vegetable soup”",{{materialDescription}} soup,Soupe: {{materialDescription}}
 
+CRAFTING_TYPE.BAKING,,Baking,
+CRAFTING_TYPE.BLACKSMITHING,,Blacksmithing,
+CRAFTING_TYPE.CARPENTRY,,Carpentry,
+CRAFTING_TYPE.COKE_OVEN_BAKING,,Coke baking,
+CRAFTING_TYPE.FERMENTING,,Fermenting,
+CRAFTING_TYPE.MALTING,,Malting,
+CRAFTING_TYPE.MALT_MASHING,,Malt mashing,
+CRAFTING_TYPE.MILLING,,Milling,
+CRAFTING_TYPE.ORE_CRUSHING,,Ore crushing,
+CRAFTING_TYPE.SMELTING,,Smelting,
+CRAFTING_TYPE.STONEMASONRY,,Stonemasonry,
+CRAFTING_TYPE.WOODCUTTING,,Woodcutting,
+CRAFTING_TYPE.WORT_BREWING,,Brewing,
+
 CROP.AFFLICTED_BY_PESTS,For when a crop plant is infested with insects and other pests and needs some work to remove them,Afflicted by pests,Infesté de nuisibles
 CROP.AFFLICTED_BY_PESTS.TOOLTIP,,This crop has been afflicted by an excessive number of aphids and other insects which need to be removed by a {{PROFESSION.FARMER}} before it can flourish again. Not removing the pests in time could mean that this crop dies!,Cette culture a été contaminée par un nombre excessif de pucerons et d'autres insectes qui doivent être enlevés par un {{PROFESSIONN.FARMER}} avant de pouvoir prospérer à nouveau. Ne pas enlever les nuisibles à temps pourrait signifier que cette récolte va mourir!
 CROP.DESCRIPTION,,{{materialType.noun}} plant,Plante:{{materialType.noun}}
@@ -244,8 +258,13 @@ GUI.BUILD_FURNITURE,This should be as short as possible,Furniture,Meubles
 GUI.BUILD_LABEL,This should be as short as possible,Build,"Construire "
 GUI.CANCEL_LABEL,This should be as short as possible,Cancel,"Annuler "
 GUI.CHANGE_PROFESSION_LABEL,,Change profession,Changer de profession
+GUI.CRAFTING_MANAGEMENT.MAINTAINING_TEXT,As in keeping a fixed number of items in stock,Maintaining,
+GUI.CRAFTING_MANAGEMENT.TITLE,,Crafting,
+GUI.CRAFTING_MANAGEMENT.TOTAL_QUANTITY_ACTUAL,,Current total: {{quantity}},
+GUI.CRAFTING_MANAGEMENT.TOTAL_QUANTITY_HINT,,({{quantity}} in total),
 GUI.CROP_SELECTION,,Crop:,Culture:
 GUI.DATE_TIME_LABEL,"E.g. 09:20, day 4, spring","{{timeOfDay}}, day {{dayNumber}}, {{season}}","{{timeOfDay}}, jour{{dayNumber}}, {{season}}"
+GUI.DECONSTRUCT_LABEL,This should be as short as possible,Demolish,
 GUI.DIALOG.DISMISS,,Dismiss,Rejeter
 GUI.DIALOG.ERROR_ROOM_NAME_ALREADY_EXISTS,Error message when the player attempts to rename a room to the same name as another room,A room with that name already exists.,Une chambre avec ce nom existe déjà.
 GUI.DIALOG.ERROR_SAVE_INCOMPATIBLE,"Error loading a save as it is from an older, incompatible version of the game",The save file could not be loaded because it is incompatible with this version of the game.,Le fichier de sauvegarde n'a pas pu être chargé car il est incompatible avec cette version du jeu.
@@ -259,6 +278,7 @@ GUI.DIALOG.MOD_CHANGES_OUTSTANDING,,You have selected a different set of mods to
 GUI.DIALOG.MOD_INCOMPATIBLE,,One or more mods are incompatible with this version of the game and have been deactivated. You can check for updates in the mods menu.,Un ou plusieurs mods sont incompatibles avec cette version du jeu et ont été désactivés. Vous pouvez vérifier les mises à jour dans le menu mods.
 GUI.DIALOG.OK_BUTTON,Single button shown to dismiss an error dialog,OK,OK
 GUI.DIALOG.RENAME_ROOM_TITLE,,Rename room,Renommer la salle
+GUI.DIALOG.RENAME_SETTLER_TITLE,,Rename settler,
 GUI.DIALOG.RESTART_REQUIRED,,You must restart the game for this change to take effect,Vous devez redémarrer le jeu pour que cette modification prenne effet
 GUI.FURNITURE_ASSIGNED_TO,Used to show who owns a piece of furniture,Assigned to {{name}},Appartient à {{name}}
 GUI.FURNITURE_BEING_REMOVED,Label for when a piece of furniture is in the process of being removed,Currently being removed,Retrait en cours
@@ -280,13 +300,32 @@ GUI.OPTIONS.GAMEPLAY.USE_EDGE_SCROLLING,This is for a question to ask if the pla
 GUI.OPTIONS.GRAPHICS.TITLE,,"Graphics Options ","Options graphiques "
 GUI.OPTIONS.MISC.CRASH_REPORTING_ENABLED,,Allow automatic crash reports,Autoriser les rapports d'incident automatiques
 GUI.OPTIONS.MISC.HINTS_ENABLED,,Show hints and tutorials in-game,
+GUI.OPTIONS.MISC.MAIN_MENU_BACKGROUND_SCROLLING,,Scroll the background on the main menu,
 GUI.OPTIONS.MISC.TITLE,,Miscellaneous,Divers
+GUI.OPTIONS.TAB.AUDIO,,Audio,
+GUI.OPTIONS.TAB.GAMEPLAY,,Gameplay,
+GUI.OPTIONS.TAB.GRAPHICS,,Graphics,
+GUI.OPTIONS.TAB.MISC,,Other,
+GUI.OPTIONS.TAB.TWITCH,,Twitch,
+GUI.OPTIONS.TWITCH.ACCOUNT_LABEL,,Twitch Account:,
+GUI.OPTIONS.TWITCH.CODE_LABEL,,Code,
+GUI.OPTIONS.TWITCH.CONNECTED_LABEL,,Twitch account connected,
+GUI.OPTIONS.TWITCH.DISCONNECT,,Disconnect,
+GUI.OPTIONS.TWITCH.DISCONNECTED_LABEL,,Twitch account disconnected,
+GUI.OPTIONS.TWITCH.ENABLED,,Twitch integration enabled,
+GUI.OPTIONS.TWITCH.GENERAL_ERROR,,An error occured while communicating with Twitch,
+GUI.OPTIONS.TWITCH.LINK_ACCOUNT_BUTTON,,Click here to connect your Twitch account,
+GUI.OPTIONS.TWITCH.PRIORITISE_SUBSCRIBERS,,Give priority to subscribers,
+GUI.OPTIONS.TWITCH.SUBMIT_BUTTON,,Submit,
+GUI.OPTIONS.TWITCH.TITLE,,Twitch Integration,
+GUI.OPTIONS.TWITCH.VIEWERS_AS_SETTLERS,,Use viewers as settler names,
 GUI.ORDERS.CHOP_WOOD,This should be as short as possible,Chop,Couper
 GUI.ORDERS.CLEAR_GROUND,This should be as short as possible,Clear,Arracher
 GUI.ORDERS.HARVEST_PLANTS,This should be as short as possible,Harvest,"Récolter "
 GUI.ORDERS.MINE,This should be as short as possible,Mine,Miner
 GUI.ORDERS_LABEL,This should be as short as possible,Orders,"Ordres "
 GUI.PLACE_BRIDGE.HINT,This is a longer label as a hint to the player,A bridge must cover both sides of the river and be at least 3x3 tiles in size,Un pont doit couvrir les deux côtés de la rivière et avoir au moins 3x3 tuiles de taille
+GUI.PRIORITY_LABEL,This should be as short as possible,Priority,
 GUI.REMOVE_LABEL,This should be as short as possible,Remove,Retirer
 GUI.REMOVE_TILES,This should be as short as possible,Remove tiles,Retirer des cases
 GUI.RESOURCE_MANAGEMENT.TITLE,,Resources,Ressources
@@ -295,10 +334,13 @@ GUI.ROTATE_FURNITURE.HINT,This is a longer label as a hint to the player,Press (
 GUI.SAVING_PROMPT,Displayed to the player when the game is paused for autosaving,Saving…,Sauvegarde en cours...
 GUI.SETTLER_MANAGEMENT.DEAD_COUNTER,,Dead: {{count}},Mort: {{count}}
 GUI.SETTLER_MANAGEMENT.LIVING_COUNTER,,Population: {{count}},Population: {{count}}
+GUI.SETTLER_MANAGEMENT.SORT.BY_NAME,,Sort by name,
+GUI.SETTLER_MANAGEMENT.SORT.BY_UNHAPPINESS,,Sort by unhappiness,
 GUI.SETTLER_MANAGEMENT.TITLE,,Settlers,Les colons
 GUI.SETTLER_MANAGEMENT.TOTAL_QUANTITY_LABEL,,Total: {{count}},Total: {{count}}
 GUI.SOUND_EFFECT_VOLUME,,Sound effect volume,Volume des effets sonores
 GUI.UI_SCALE,Used to make the game interface larger or smaller,UI scale:,Dimension de l'interface:
+GUI.VIEW_ROADMAP,,View development roadmap,
 GUI.ZONES_LABEL,This should be as short as possible,Zones,Zones
 
 HAPPINESS_MODIFIER.ALCOHOL_WITHDRAWL,,Going sober,
@@ -329,6 +371,8 @@ HINT.BUTTON.DISMISS,,Dismiss,
 HINT.BUTTON.HINTS_ONLY,,Hints only,Indications uniquement
 HINT.BUTTON.NEXT,,Next,Prochain
 HINT.BUTTON.TUTORIAL,,Tutorial,Tutoriel
+HINT.OPEN_PRIORITY_MENU.1,,"You can use this menu to change the priority of jobs and tasks, so that higher priority jobs will be assigned before lower priority jobs.",
+HINT.OPEN_PRIORITY_MENU.2,,"While the Priority menu is open, the priority icons are shown in the game world where there is a job or task to be performed, or where a room or item of furniture may create jobs in the future.",
 HINT.PROGRESS.HEADER,,Progress:,
 HINT.TOOL_DEPLETED.AXE1,,Your settlement no longer has an {{TOOL.AXE}} available. You will no longer be able to chop down trees.,
 HINT.TOOL_DEPLETED.AXE2,,"More axes can be crafted at the {{FURNITURE.FORGE}}. If you do not have a {{FURNITURE.FORGE}} up and running, you may need to remove a {{FURNITURE.WOODCUTTERS_BENCH}}.",
@@ -527,6 +571,13 @@ OTHER.BRICK.NOUN,,Brick,Brique
 OTHER.CLAY_SOIL.NOUN,,Clay soil,Argile
 OTHER.GRASS.NOUN,,,Herbe
 
+PRIORITY.DISABLED,,Disabled,
+PRIORITY.HIGHER,,Higher,
+PRIORITY.HIGHEST,,Highest,
+PRIORITY.LOWER,,Lower,
+PRIORITY.LOWEST,,Lowest,
+PRIORITY.NORMAL,,Normal,
+
 PRIVACY.OPT_IN.ACCEPT_BUTTON,,I accept,J'accepte
 PRIVACY.OPT_IN.DO_NOT_ACCEPT_BUTTON,,Disable reporting,Désactiver les rapports
 PRIVACY.OPT_IN.LINE_1,,King under the Mountain is in active development. To help,King Under The Mountain est en cours développement. Pour aider
@@ -634,6 +685,9 @@ PROFESSION.WOODCUTTER.FEMALE_NOUN,This could be “lumberjack” and “lumberja
 PROFESSION.WOODCUTTER.MALE_NOUN,,Woodcutter,Scieur
 PROFESSION.WOODCUTTER.TOOLTIP,,Cuts down trees as lumber that can be used in a {{ROOMS.SAWMILL}}.,Découpe les arbres en tant que buche qui peut être utilisé dans un {{ROOMS.SAWMILL}}.
 PROFESSION.WOODCUTTER.VERB,,Chopping,Coupe
+
+QUOTA.FIXED_AMOUNT,,in total,
+QUOTA.PER_SETTLER,,per settler,
 
 RACE.DWARF.FEMALE_ADJECTIVE,,Dwarven,Naine
 RACE.DWARF.FEMALE_NOUN,,Dwarf,Naine
