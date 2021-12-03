@@ -77,3 +77,6 @@ This project is licensed under the Creative Commons Legal Code License - see the
 
 ### Turkish translation
 * Fırat Gülmez
+
+### Japanese translation
+* SPQR
