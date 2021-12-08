@@ -78,7 +78,10 @@ CARCASS.PERCH.PREPARED.PLURAL,,Perch fillets,Filetti di pesce persico
 CARCASS.PIKE.PREPARED.NOUN,,Pike fillet,Filetto di luccio
 CARCASS.PIKE.PREPARED.PLURAL,,Pike fillets,Filetti di luccio
 
+CLOTH.BRONZED_HEMP,,Hemp,
 CLOTH.HEMP-LINEN,,Hemp,Canapa
+CLOTH.LIGHT_HEMP,,Hemp,
+CLOTH.TOBACCO_CLOTH,,Tobacco cloth,
 
 CONSTRUCTION.DESCRIPTION,E.g. “Construction of granite stonemason workbench”,Construction of {{materialType.adjective}} {{furnitureType.noun}},Costruzione di: {{furnitureType.noun}} {{materialType.adjective}}
 CONSTRUCTION.ITEM_ALLOCATION,E.g. “1 of 3 marble blocks allocated” (or assigned),{{quantity}} of {{itemDescription}} allocated,Assegnazione di {{itemDescription}}: {{quantity}}
@@ -131,6 +134,7 @@ DEATH_REASON.DEHYDRATION,These are used in conjunction with the NOTIFICATION.DEA
 DEATH_REASON.EXHAUSTION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Exhaustion,Stanchezza
 DEATH_REASON.FOOD_POISONING,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Food poisoning,Intossicazione alimentare
 DEATH_REASON.FROZEN,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Exposure to freezing weather,Esposizione al gelo
+DEATH_REASON.GIVEN_UP_ON_LIFE,,having given up on life,
 DEATH_REASON.INTERNAL_BLEEDING,,Internal bleeding,Emorragia interna
 DEATH_REASON.STARVATION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Starvation,La fame
 DEATH_REASON.SUFFOCATION,,Suffocation,
@@ -222,7 +226,7 @@ FURNITURE.LANTERN.TOOLTIP,,A lantern provides light – this does not currently 
 FURNITURE.LARGE_TABLE,,Large table,Tavolo grande
 FURNITURE.LOOM,,Loom,Telaio
 FURNITURE.MALTING_STATION,,Malting station,Stazione del malto
-FURNITURE.MALTING_STATION.TOOLTIP,,"Here brewers steep barley and then dry it out using a kiln to produce malt. ","Qui i birrai mettono in infusione l'orzo e poi lo asciugano con un forno per produrre il malto."
+FURNITURE.MALTING_STATION.TOOLTIP,,"Here brewers steep barley and then dry it out using a kiln to produce malt. ",Qui i birrai mettono in infusione l'orzo e poi lo asciugano con un forno per produrre il malto.
 FURNITURE.MASH_TUN,,Mash tun,Tino di ammostamento
 FURNITURE.MASH_TUN.TOOLTIP,,This is used to produce wort (unfermented beer) from milled malt and water.,Si usa per produrre mosto (birra non fermentata) dal malto macinato e dall'acqua.
 FURNITURE.MUSHROOM_LOG,,Mushroom log,Tronco di funghi
@@ -378,7 +382,7 @@ GUI.CANCEL_LABEL,This should be as short as possible,Cancel,Annulla
 GUI.CHANGE_PROFESSION_LABEL,,Change profession,Cambia professione
 GUI.CHANGE_WEAPON_LABEL,,Select weapon,Seleziona l'arma
 GUI.CRAFTING_MANAGEMENT.MAINTAINING_TEXT,As in keeping a fixed number of items in stock,Maintaining,Mantenere
-GUI.CRAFTING_MANAGEMENT.TITLE,,Crafting,Creazione di 
+GUI.CRAFTING_MANAGEMENT.TITLE,,Crafting,"Creazione di"
 GUI.CRAFTING_MANAGEMENT.TOTAL_QUANTITY_ACTUAL,,Current total: {{quantity}},Totale attuale: {{quantity}}
 GUI.CRAFTING_MANAGEMENT.TOTAL_QUANTITY_HINT,,({{quantity}} in total),({{quantity}} in totale)
 GUI.CROP_SELECTION,,Crop:,Coltura:
@@ -439,7 +443,7 @@ GUI.OPTIONS.GAMEPLAY.HIDE_TREES_OBSCURING_SETTLERS,This is an option that makes 
 GUI.OPTIONS.GAMEPLAY.PAUSE_ON_NOTIFICATION,,Pause for notifications,Pausa per le notifiche
 GUI.OPTIONS.GAMEPLAY.TITLE,,"Gameplay Options ",Opzioni di gioco
 GUI.OPTIONS.GAMEPLAY.USE_EDGE_SCROLLING,This is for a question to ask if the player would like the camera to scroll/pan by placing the mouse at the edge of the screen,Scroll when cursor is at the edge of the screen,Scorri quando il cursore si trova sul bordo dello schermo
-GUI.OPTIONS.GAMEPLAY.ZOOM_TO_CURSOR,This is for a question to ask if the player would like the camera to scroll/pan based on where the mouse cursor is when they zoom in or out,Scroll to cursor when zooming,Questo è per una domanda che chiede se il giocatore vuole che la telecamera scorrimento/panoramica in base a dove si trova il cursore del mouse quando ingrandisce o riduce, Scorrere verso il cursore quando si fa lo zoom
+GUI.OPTIONS.GAMEPLAY.ZOOM_TO_CURSOR,This is for a question to ask if the player would like the camera to scroll/pan based on where the mouse cursor is when they zoom in or out,Scroll to cursor when zooming,"Questo è per una domanda che chiede se il giocatore vuole che la telecamera scorrimento/panoramica in base a dove si trova il cursore del mouse quando ingrandisce o riduce, Scorrere verso il cursore quando si fa lo zoom"
 GUI.OPTIONS.GRAPHICS.FULLSCREENMODE.BORDERLESS_FULLSCREEN,,Borderless,Senza bordi
 GUI.OPTIONS.GRAPHICS.FULLSCREENMODE.EXCLUSIVE_FULLSCREEN,,Exclusive fullscreen,Schermo intero esclusivo
 GUI.OPTIONS.GRAPHICS.FULLSCREENMODE.WINDOWED,,Windowed,Finestrato
@@ -1180,6 +1184,7 @@ TREE.DESCRIPTION,E.g. “Oak tree”,{{materialType.noun}} tree,Pianta {{materia
 TUTORIAL.1.A,,"Your settlers have three basic needs to fulfil: food, drink and somewhere to sleep. Although they will complain about it for now, they can drink from the nearby river and sleep on the ground. What they can’t do is magic up some food from nowhere (at least, not without a mage around!) so we will focus on food to begin with.","I tuoi coloni hanno tre bisogni fondamentali da soddisfare: cibo, bevande e un posto dove dormire. Anche se per ora si lamenteranno, possono bere dal vicino fiume e dormire a terra. Quello che non possono fare è magia un po 'di cibo dal nulla (almeno, non senza un mago intorno!) quindi ci concentreremo sul cibo per cominciare."
 TUTORIAL.1.B,,"The first thing you should do each spring is ensure that enough crops have been planted for the harvest in autumn. Farming is a reliable and sustainable food source, but you need to make sure you have enough crops to feed your population between each annual harvest.","La prima cosa che dovresti fare ogni primavera è assicurarti che siano state piantate abbastanza colture per il raccolto in autunno. L'agricoltura è una fonte alimentare affidabile e sostenibile, ma devi assicurarti di avere abbastanza colture per nutrire la tua popolazione tra ogni raccolto annuale."
 TUTORIAL.1.C,,"A good rule of thumb to follow is to ensure you have 10 tiles of crops being sown for each settler in your population. Currently there are 7 settlers milling around, so go ahead and click “{{GUI.ZONES_LABEL}}” > “{{ROOMS.FARM}}”, and designate / drag out several farm plots on a grassy area.","Una buona regola generale da seguire è assicurarsi di avere 10 piastrelle di colture da seminare per ogni colono nella vostra popolazione. Attualmente ci sono 7 coloni che fresatura, quindi vai avanti e fai clic su «{{GUI.ZONES_LABEL}}» > «{{ROOMS.FARM}}» e designa/trascina diversi appezzamenti agricoli su un'area erbosa."
+TUTORIAL.1.D,,Use right-click to cancel and go back in menus.,
 TUTORIAL.2.A,,"With nothing else to do, your settlers will start preparing these {{ROOMS.FARM.PLURAL}} by tilling the earth to be ready for seeds to be sown. This doesn’t require any special tools or knowledge so everyone should get involved.","Con nient'altro da fare, i tuoi coloni inizieranno a preparare questi {{ROOMS.FARM.PLURAL}} seminando la terra per essere pronti per la semina dei semi. Questo non richiede strumenti o conoscenze speciali, quindi tutti dovrebbero essere coinvolti."
 TUTORIAL.2.B,,"This prepares the plot to be sown, but you need to select which crop to grow on each farm plot before a farmer will come and plant the relevant seeds. Your settlers have brought with them a selection of different seeds. You can click “Resources” in the upper-right to get a breakdown of all the items in your settlement.","Questo prepara la trama da seminare, ma è necessario selezionare quale coltura coltivare su ogni appezzamento agricolo prima che un agricoltore arrivi a piantare i semi pertinenti. I tuoi coloni hanno portato con sé una selezione di semi diversi. Puoi fare clic su «Risorse» in alto a destra per ottenere una ripartizione di tutti gli elementi nel tuo saldo."
 TUTORIAL.2.C,,"For the seeds to actually be available to your farmers, they need to be in a stockpile compared to being held in a dwarf’s inventory like they are currently. Click {{GUI.ZONES_LABEL}} > {{ROOMS.STOCKPILES}} > {{STOCKPILE.GROUP.SEEDS}} (you can right-click to go back up to a previous menu) and designate an area to be used for seeds to be stored.","Perché i semi siano effettivamente disponibili per i vostri agricoltori, devono trovarsi in una riserva rispetto ad essere tenuti nell'inventario di un nano come sono attualmente. Fare clic su {{GUI.ZONES_LABEL}} > {{ROOMS.STOCKPILES}} > {{STOCKPILE.GRANARY}} (è possibile fare clic con il pulsante destro del mouse per tornare a un menu precedente) e designare un'area da utilizzare come {{STOCKPILE.GRANARY}}, dove sono conservati semi e cereali."
@@ -1200,9 +1205,9 @@ TUTORIAL.8.A,,"Now you are ready to produce {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{R
 TUTORIAL.8.B,,Select {{GUI.ORDERS_LABEL}} > {{GUI.ORDERS.CHOP_WOOD}} and click-and-drag over trees to let your woodcutters know to cut them down. Similarly you can select select {{GUI.ORDERS_LABEL}} > {{GUI.ORDERS.MINE}} and click-and-drag an area of the mountain to designate to be mined. Select enough of both to build your stockpiles back up to 40 of each.,Seleziona {{GUI.ORDERS_LABEL}} > {{GUI.ORDERS.CHOP_WOOD}} e fai clic e trascina sugli alberi per far sapere ai tuoi boscaioli di tagliarli. Allo stesso modo è possibile selezionare {{GUI.ORDERS_LABEL}} > {{GUI.ORDERS.MINE}} e fare clic e trascinare un'area della montagna per designare da estrarre. Seleziona abbastanza di entrambi per costruire le tue scorte fino a 40 di ciascuna.
 TUTORIAL.8.C,,"Be careful with mining! A mined-out area of 7 by 7 tiles without a {{FURNITURE.PILLAR}} built within that area will collapse! ",Fai attenzione con l'estrazione! Un'area estraccata di piastrelle 7 per 7 senza un {{FURNITURE.PILLAR}} costruito all'interno di quell'area crollerà!
 TUTORIAL.CAMERA.A,,"You can use the W, A, S and D keys or the arrow keys to pan the camera around. Moving the cursor to the edge of the screen also pans the camera, but this can be disabled in the options menu.","È possibile utilizzare i tasti W, A, S e D o i tasti freccia per spostare la telecamera. Spostando il cursore sul bordo dello schermo anche la telecamera si sposta, ma questo può essere disabilitato nel menu delle opzioni."
-TUTORIAL.CAMERA.B,,Scrolling the mouse wheel or pressing the Q and E keys zooms the camera in or out.,Scorrendo la rotella del mouse o premendo i tasti Q ed E, la telecamera viene ingrandita o ridotta.
+TUTORIAL.CAMERA.B,,Scrolling the mouse wheel or pressing the Q and E keys zooms the camera in or out.,"Scorrendo la rotella del mouse o premendo i tasti Q ed E, la telecamera viene ingrandita o ridotta."
 TUTORIAL.CAMERA.C,,"In the lower-right section of the screen is the minimap, and you can click on this to jump the camera to that point. Click on the “Minimap” label to show or hide the minimap.","Nella sezione in basso a destra dello schermo c'è la minimappa, e puoi cliccare su questa per far saltare la telecamera in quel punto. Clicca sull'etichetta “Minimappa“ per mostrare o nascondere la minimappa."
-TUTORIAL.CAMERA.D,,Try out these camera controls and then click “Next” to proceed.,Prova questi controlli della fotocamera e poi clicca su "Avanti" per procedere.
+TUTORIAL.CAMERA.D,,Try out these camera controls and then click “Next” to proceed.,"Prova questi controlli della fotocamera e poi clicca su "Avanti" per procedere."
 TUTORIAL.FINAL.A,,"This covers the basics of playing King under the Mountain. For your next challenge, aim to set up a functioning {{ROOMS.METALWORKS}} with a {{FURNITURE.FORGE}} provided with fuel and refined metal ore. Refined metal ores are produced at the {{FURNITURE.ORE_CRUSHING_STATION}}, and fuel can be crushed from coal or produced out of {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.LOGS.PLURAL}} with a {{FURNITURE.CHARCOAL_CLAMP}} in an {{ROOMS.EARTHWORKS}}. Good luck!","Questo copre le basi di giocare a re sotto la montagna. Per la tua prossima sfida, mira a creare un {{ROOMS.METALWORKS}} funzionante con un {{FURNITURE.FORGE}} fornito di combustibile e minerale metallico raffinato. I minerali metallici raffinati sono prodotti presso il {{FURNITURE.ORE_CRUSHING_STATION}} e il combustibile può essere frantumato dal carbone o prodotto da {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.LOGS.PLURAL}} con un {{FURNITURE.CHARCOAL_CLAMP}}. Buona fortuna!"
 TUTORIAL.PROGRESS_DESCRIPTION.FARM_PLOT_SELECTIONS,Used to show a progress indicator for how many farm plots have a crop selected e.g. 2 of 10 farm plots with a crop assigned,{{ROOMS.FARM.PLURAL}} with a crop assigned,{{ROOMS.FARM.PLURAL}} con un raccolto assegnato
 TUTORIAL.PROGRESS_DESCRIPTION.PROFESSIONS_ASSIGNED,Used to show a progress indicator for how many of a certain profession have been assigned e.g. 2 of 10 farmers assigned,{{professionPlural}} assigned,{{professionPlural}} assegnato
