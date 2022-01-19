@@ -78,10 +78,10 @@ CARCASS.PERCH.PREPARED.PLURAL,,Perch fillets,Filetti di pesce persico
 CARCASS.PIKE.PREPARED.NOUN,,Pike fillet,Filetto di luccio
 CARCASS.PIKE.PREPARED.PLURAL,,Pike fillets,Filetti di luccio
 
-CLOTH.BRONZED_HEMP,,Hemp,
-CLOTH.HEMP-LINEN,,Hemp,Canapa
-CLOTH.LIGHT_HEMP,,Hemp,
-CLOTH.TOBACCO_CLOTH,,Tobacco cloth,
+CLOTH.BRONZED_HEMP,,Hemp,Canapa bronzata				 
+CLOTH.HEMP-LINEN,,Hemp,Canapa-Lino
+CLOTH.LIGHT_HEMP,,Hemp,Canapa leggera
+CLOTH.TOBACCO_CLOTH,,Tobacco cloth,Panno di tabacco				   
 
 CONSTRUCTION.DESCRIPTION,E.g. “Construction of granite stonemason workbench”,Construction of {{materialType.adjective}} {{furnitureType.noun}},Costruzione di: {{furnitureType.noun}} {{materialType.adjective}}
 CONSTRUCTION.ITEM_ALLOCATION,E.g. “1 of 3 marble blocks allocated” (or assigned),{{quantity}} of {{itemDescription}} allocated,Assegnazione di {{itemDescription}}: {{quantity}}
@@ -134,7 +134,7 @@ DEATH_REASON.DEHYDRATION,These are used in conjunction with the NOTIFICATION.DEA
 DEATH_REASON.EXHAUSTION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Exhaustion,Stanchezza
 DEATH_REASON.FOOD_POISONING,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Food poisoning,Intossicazione alimentare
 DEATH_REASON.FROZEN,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Exposure to freezing weather,Esposizione al gelo
-DEATH_REASON.GIVEN_UP_ON_LIFE,,having given up on life,
+DEATH_REASON.GIVEN_UP_ON_LIFE,,having given up on life,avendo rinunciato alla vita													   
 DEATH_REASON.INTERNAL_BLEEDING,,Internal bleeding,Emorragia interna
 DEATH_REASON.STARVATION,These are used in conjunction with the NOTIFICATION.DEATH.DESCRIPTION translation,Starvation,La fame
 DEATH_REASON.SUFFOCATION,,Suffocation,
@@ -382,7 +382,7 @@ GUI.CANCEL_LABEL,This should be as short as possible,Cancel,Annulla
 GUI.CHANGE_PROFESSION_LABEL,,Change profession,Cambia professione
 GUI.CHANGE_WEAPON_LABEL,,Select weapon,Seleziona l'arma
 GUI.CRAFTING_MANAGEMENT.MAINTAINING_TEXT,As in keeping a fixed number of items in stock,Maintaining,Mantenere
-GUI.CRAFTING_MANAGEMENT.TITLE,,Crafting,Creazione di
+GUI.CRAFTING_MANAGEMENT.TITLE,,Crafting,Creazione di 
 GUI.CRAFTING_MANAGEMENT.TOTAL_QUANTITY_ACTUAL,,Current total: {{quantity}},Totale attuale: {{quantity}}
 GUI.CRAFTING_MANAGEMENT.TOTAL_QUANTITY_HINT,,({{quantity}} in total),({{quantity}} in totale)
 GUI.CROP_SELECTION,,Crop:,Coltura:
@@ -982,14 +982,14 @@ RESOURCE.METAL.BLOOM.TOOLTIP,,A lump of metal mixed with slag which must be hamm
 RESOURCE.METAL.INGOT.NOUN,,Ingot,Lingotto
 RESOURCE.METAL.INGOT.PLURAL,,Ingots,Lingotti
 RESOURCE.METAL.INGOT.TOOLTIP,,"Refined metal blocks, ready to be used as a crafting ingredient.","Raffinati blocchi di metallo, pronti per essere utilizzati come ingrediente artigianale."
-RESOURCE.METAL.PLATE.NOUN,,Plate,Piatto
-RESOURCE.METAL.PLATE.PLURAL,,Plates,Piatti
+RESOURCE.METAL.PLATE.NOUN,,Plate,Piastra
+RESOURCE.METAL.PLATE.PLURAL,,Plates,Piastre
 RESOURCE.METAL.PLATE.TOOLTIP,,"Large, flat plates that are used in some of the larger machinery.",Piastre grandi e piane utilizzate in alcuni dei macchinari più grandi.
 RESOURCE.MUSHROOM.LOG.NOUN,,Mushroom log,Log di funghi
 RESOURCE.MUSHROOM.LOG.PLURAL,,Mushroom logs,Tronchi di funghi
 RESOURCE.MUSHROOM.LOG.TOOLTIP,,A log that has been infused with {{INGREDIENT.MUSHROOM.SPAWN.NOUN}}. The body of the log itself is where the mushrooms draw nutrients from. It requires dousing in a {{FURNITURE.MUSHROOM_SHOCK_TANK}} after becoming fully innoculated.,Un registro che è stato infuso con {{INDIENT.MUSHROOM.SPAWN.NOUN}}. Il corpo del tronco stesso è dove i funghi attingono sostanze nutritive. Richiede il bagnamento in un {{FURNITURE.MUSHROOM_SHOCK_TANK}} dopo essere diventato completamente innoculato.
-RESOURCE.MUSHROOM.LUMBER.NOUN,,Mushroom log,Tronco
-RESOURCE.MUSHROOM.LUMBER.PLURAL,,Mushroom logs,Tronchi
+RESOURCE.MUSHROOM.LUMBER.NOUN,,Mushroom log,Tronco di fungo
+RESOURCE.MUSHROOM.LUMBER.PLURAL,,Mushroom logs,Tronchi di funghi
 RESOURCE.MUSHROOM.LUMBER.TOOLTIP,,Sections of a giant mushroom that can be used in the same way as wooden {{RESOURCE.LOGS.PLURAL}}.,Sezioni di un fungo gigante che possono essere utilizzate allo stesso modo del legno {{RESOURCE.LOGS.PLURAL}}.
 RESOURCE.ORE.CRUSHED.NOUN,,Crushed ore,Minerale tritato
 RESOURCE.ORE.CRUSHED.PLURAL,,Crushed ore,Minerale tritato
@@ -1060,13 +1060,13 @@ SEASON.SUMMER,,Summer,Estate
 SEASON.WINTER,,Winter,Inverno
 
 SEED.BARLEY_SEED,,Barley,Orzo
-SEED.BARLEY_SEED.TOOLTIP,{{VEGETABLE.BARLEY.TOOLTIP}},"A grain used only in the production of beer. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un grano utilizzato solo nella produzione di birra. Può essere piantato in {{SEASONON.SPRING}}, {{SEASONON.SUMMER}} o {{SEASON.AUTUMN}}."
+SEED.BARLEY_SEED.TOOLTIP,{{VEGETABLE.BARLEY.TOOLTIP}},"A grain used only in the production of beer. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un grano utilizzato solo nella produzione di birra. Può essere piantato in {{SEASON.SPRING}}, {{SEASON.SUMMER}} o {{SEASON.AUTUMN}}."
 SEED.BERSERKER_MUSHROOM_SPAWN,,Berserker,Berserker
 SEED.BERSERKER_MUSHROOM_SPAWN.TOOLTIP,{{VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP}},A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,Un fungo con un cappuccio rosa-rosso che porta macchie bianche. Ha proprietà allucinogene che i guerrieri a volte usano in preparazione alla battaglia.
 SEED.CARROT_SEED,,Carrot,Carota
-SEED.CARROT_SEED.TOOLTIP,{{VEGETABLE.CARROT.TOOLTIP}},"A hardy root vegetable that survives the {{SEASON.WINTER}} frost. Carrots grow quickly but only produce a small crop. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un ortaggio a radice resistente che sopravvive al gelo {{SEASONON.WINTER}}. Le carote crescono rapidamente ma producono solo un piccolo raccolto. Può essere piantato in {{SEASONON.SPRING}}, {{SEASONON.SUMMER}} o {{SEASON.AUTUMN}}."
+SEED.CARROT_SEED.TOOLTIP,{{VEGETABLE.CARROT.TOOLTIP}},"A hardy root vegetable that survives the {{SEASON.WINTER}} frost. Carrots grow quickly but only produce a small crop. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un ortaggio a radice resistente che sopravvive al gelo {{SEASON.WINTER}}. Le carote crescono rapidamente ma producono solo un piccolo raccolto. Può essere piantato in {{SEASON.SPRING}}, {{SEASON.SUMMER}} o {{SEASON.AUTUMN}}."
 SEED.CORN_SEED,,Corn,Mais
-SEED.CORN_SEED.TOOLTIP,{{VEGETABLE.CORN.TOOLTIP}},"A cereal grain also known as maize. It produces a bountiful crop but takes around 2 seasons to grow and can not survive {{SEASON.WINTER}}, so it requires planting in early {{SEASON.SPRING}}.","Un grano di cereali conosciuto anche come mais. Produce un raccolto abbondante ma richiede circa 2 stagioni per crescere e non può sopravvivere a {{SEASONON.WINTER}}, quindi richiede la semina all'inizio di {{SEASONON.SPRING}}."
+SEED.CORN_SEED.TOOLTIP,{{VEGETABLE.CORN.TOOLTIP}},"A cereal grain also known as maize. It produces a bountiful crop but takes around 2 seasons to grow and can not survive {{SEASON.WINTER}}, so it requires planting in early {{SEASON.SPRING}}.","Un grano di cereali conosciuto anche come mais. Produce un raccolto abbondante ma richiede circa 2 stagioni per crescere e non può sopravvivere a {{SEASON.WINTER}}, quindi richiede la semina all'inizio di {{SEASON.SPRING}}."
 SEED.DEATH_CAP_SPAWN,,Death cap,Berretto mortale
 SEED.DEATH_CAP_SPAWN.TOOLTIP,{{VEGETABLE.DEATH_CAP_MUSHROOM.TOOLTIP}},"A very poisonous mushroom with a wide, flat cap. Eating even a tiny amount will almost certainly cause poisoning which can lead to death.",Un fungo molto velenoso con un cappuccio largo e piatto. Mangiare anche una piccola quantità sarà quasi certamente causare avvelenamento che può portare alla morte.
 SEED.ELFSBANE_SPAWN,,Elfsbane,Elfsbane
@@ -1078,11 +1078,11 @@ SEED.GLOW_SPAWN.TOOLTIP,{{VEGETABLE.GLOW_MUSHROOM.TOOLTIP}},A magic-infused mush
 SEED.HEMP_SEED,,Hemp,Canapa
 SEED.HEMP_SEED.TOOLTIP,,Used to produce rope and fabric after it hsa been processed.,Utilizzato per produrre corda e tessuto dopo che è stato lavorato.
 SEED.HOPS_SEED,,Hops,Luppolo
-SEED.HOPS_SEED.TOOLTIP,{{VEGETABLE.HOPS.TOOLTIP}},A flower used for the flavouring of beer. Must be planted in {{SEASON.SPRING}}.,Un fiore utilizzato per l'aromatizzazione della birra. Deve essere piantato in {{SEASONON.SPRING}}.
+SEED.HOPS_SEED.TOOLTIP,{{VEGETABLE.HOPS.TOOLTIP}},A flower used for the flavouring of beer. Must be planted in {{SEASON.SPRING}}.,Un fiore utilizzato per l'aromatizzazione della birra. Deve essere piantato in {{SEASON.SPRING}}.
 SEED.MILTONIA_SPAWN,,Miltonia,Miltonia
 SEED.MILTONIA_SPAWN.TOOLTIP,{{VEGETABLE.MILTONIA_MUSHROOM.TOOLTIP}},"Once thought to exist only in the Hudds region, it is now found throughout the world.","Un tempo si pensava di esistere solo nella regione di Hudds, ora si trova in tutto il mondo."
 SEED.POTATO_SEED,,Potato,Patata
-SEED.POTATO_SEED.TOOLTIP,{{VEGETABLE.POTATO.TOOLTIP}},"A starchy root vegetable which can survive {{SEASON.WINTER}} making it a good choice for most settlements. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un ortaggio a radice amidacea che può sopravvivere {{SEASONON.WINTER}} che lo rende una buona scelta per la maggior parte degli insediamenti. Può essere piantato in {{SEASONON.SPRING}}, {{SEASONON.SUMMER}} o {{SEASON.AUTUMN}}."
+SEED.POTATO_SEED.TOOLTIP,{{VEGETABLE.POTATO.TOOLTIP}},"A starchy root vegetable which can survive {{SEASON.WINTER}} making it a good choice for most settlements. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un ortaggio a radice amidacea che può sopravvivere {{SEASON.WINTER}} che lo rende una buona scelta per la maggior parte degli insediamenti. Può essere piantato in {{SEASON.SPRING}}, {{SEASON.SUMMER}} o {{SEASON.AUTUMN}}."
 SEED.PURPLE_HELMET_SPAWN,,Purple helmet,Casco viola
 SEED.PURPLE_HELMET_SPAWN.TOOLTIP,{{VEGETABLE.PURPLE_HELMET_MUSHROOM.TOOLTIP}},"Fat Hat, Plump Turban, Puffy Helmet; This fabled mushroom goes by many names. Legend holds that long ago, many communities of dwarves subsisted entirely on a domesticated strain of this fungus.","Cappello grasso, turbante paffuto, casco gonfio; questo leggendario fungo va con molti nomi. La leggenda sostiene che molto tempo fa, molte comunità di nani sussistevano interamente su un ceppo addomesticato di questo fungo."
 SEED.ROCIOMYCOTA_MUSHROOM_SPAWN,,Rociomycota,Rociomycota
@@ -1092,9 +1092,9 @@ SEED.SUNGLOW_SPAWN.TOOLTIP,{{VEGETABLE.SUNGLOW_MUSHROOM.TOOLTIP}},A bright yello
 SEED.SYRUP_POWDER_SPAWN,,Syrup powder,Sciroppo in polvere
 SEED.SYRUP_POWDER_SPAWN.TOOLTIP,{{VEGETABLE.SYRUP_POWDER_MUSHROOM.TOOLTIP}},"A round orange/yellow mushroom with a white underside. It is said to have been used by mages long ago, but for what purpose, nobody knows.","Un fungo rotondo arancione/giallo con una parte inferiore bianca. Si dice che sia stato usato dai maghi molto tempo fa, ma per quale scopo, nessuno lo sa."
 SEED.TOMATO_SEED,,Tomato,Pomodoro
-SEED.TOMATO_SEED.TOOLTIP,{{VEGETABLE.TOMATO.TOOLTIP}},A plant which grows large red berries often used as a vegetable. Can only be planted in {{SEASON.SPRING}}.,Una pianta che coltiva grandi bacche rosse spesso utilizzate come ortaggio. Può essere piantato solo in {{SEASONON.SPRING}}.
+SEED.TOMATO_SEED.TOOLTIP,{{VEGETABLE.TOMATO.TOOLTIP}},A plant which grows large red berries often used as a vegetable. Can only be planted in {{SEASON.SPRING}}.,Una pianta che coltiva grandi bacche rosse spesso utilizzate come ortaggio. Può essere piantato solo in {{SEASON.SPRING}}.
 SEED.WHEAT_SEED,,Wheat,Grano
-SEED.WHEAT_SEED.TOOLTIP,{{VEGETABLE.WHEAT.TOOLTIP}},"A cereal grain generally used for the production of bread. It can survive {{SEASON.WINTER}} but takes a while to grow, so it is either planted in {{SEASON.SPRING}} or {{SEASON.AUTUMN}}.","Un grano di cereali generalmente utilizzato per la produzione di pane. Può sopravvivere a {{SEASONON.WINTER}} ma richiede un po' di tempo per crescere, quindi è piantato in {{SEASONON.SPRING}} o {{SEASON.AUTUMN}}."
+SEED.WHEAT_SEED.TOOLTIP,{{VEGETABLE.WHEAT.TOOLTIP}},"A cereal grain generally used for the production of bread. It can survive {{SEASON.WINTER}} but takes a while to grow, so it is either planted in {{SEASON.SPRING}} or {{SEASON.AUTUMN}}.","Un grano di cereali generalmente utilizzato per la produzione di pane. Può sopravvivere a {{SEASON.WINTER}} ma richiede un po' di tempo per crescere, quindi è piantato in {{SEASON.SPRING}} o {{SEASON.AUTUMN}}."
 
 SHRUB.DESCRIPTION,Shrub or bush should do,Bush,Cespuglio
 
@@ -1117,7 +1117,7 @@ STATUS.VERY_THIRSTY,,Very thirsty,Molto assetato
 
 STOCKPILE.GROUP.FOOD,,Food,Cibo
 STOCKPILE.GROUP.FOOD.TOOLTIP,,Stores harvested fruit and vegetables which can expire.,Conserva frutta e verdura raccolte che possono scadere.
-STOCKPILE.GROUP.FUEL,,Fuel,Carburante
+STOCKPILE.GROUP.FUEL,,Fuel,Combustibile
 STOCKPILE.GROUP.GRANARY,,Granary,Granaio
 STOCKPILE.GROUP.GRANARY.TOOLTIP,,Stores grains and seeds which will not expire.,Conserva grani e semi che non scadono.
 STOCKPILE.GROUP.PRODUCTS,,Products,Prodotti
@@ -1184,7 +1184,7 @@ TREE.DESCRIPTION,E.g. “Oak tree”,{{materialType.noun}} tree,Pianta {{materia
 TUTORIAL.1.A,,"Your settlers have three basic needs to fulfil: food, drink and somewhere to sleep. Although they will complain about it for now, they can drink from the nearby river and sleep on the ground. What they can’t do is magic up some food from nowhere (at least, not without a mage around!) so we will focus on food to begin with.","I tuoi coloni hanno tre bisogni fondamentali da soddisfare: cibo, bevande e un posto dove dormire. Anche se per ora si lamenteranno, possono bere dal vicino fiume e dormire a terra. Quello che non possono fare è magia un po 'di cibo dal nulla (almeno, non senza un mago intorno!) quindi ci concentreremo sul cibo per cominciare."
 TUTORIAL.1.B,,"The first thing you should do each spring is ensure that enough crops have been planted for the harvest in autumn. Farming is a reliable and sustainable food source, but you need to make sure you have enough crops to feed your population between each annual harvest.","La prima cosa che dovresti fare ogni primavera è assicurarti che siano state piantate abbastanza colture per il raccolto in autunno. L'agricoltura è una fonte alimentare affidabile e sostenibile, ma devi assicurarti di avere abbastanza colture per nutrire la tua popolazione tra ogni raccolto annuale."
 TUTORIAL.1.C,,"A good rule of thumb to follow is to ensure you have 10 tiles of crops being sown for each settler in your population. Currently there are 7 settlers milling around, so go ahead and click “{{GUI.ZONES_LABEL}}” > “{{ROOMS.FARM}}”, and designate / drag out several farm plots on a grassy area.","Una buona regola generale da seguire è assicurarsi di avere 10 piastrelle di colture da seminare per ogni colono nella vostra popolazione. Attualmente ci sono 7 coloni che fresatura, quindi vai avanti e fai clic su «{{GUI.ZONES_LABEL}}» > «{{ROOMS.FARM}}» e designa/trascina diversi appezzamenti agricoli su un'area erbosa."
-TUTORIAL.1.D,,Use right-click to cancel and go back in menus.,
+TUTORIAL.1.D,,Use right-click to cancel and go back in menus.,Usa il tasto destro del mouse per annullare e tornare indietro nei menu.													  
 TUTORIAL.2.A,,"With nothing else to do, your settlers will start preparing these {{ROOMS.FARM.PLURAL}} by tilling the earth to be ready for seeds to be sown. This doesn’t require any special tools or knowledge so everyone should get involved.","Con nient'altro da fare, i tuoi coloni inizieranno a preparare questi {{ROOMS.FARM.PLURAL}} seminando la terra per essere pronti per la semina dei semi. Questo non richiede strumenti o conoscenze speciali, quindi tutti dovrebbero essere coinvolti."
 TUTORIAL.2.B,,"This prepares the plot to be sown, but you need to select which crop to grow on each farm plot before a farmer will come and plant the relevant seeds. Your settlers have brought with them a selection of different seeds. You can click “Resources” in the upper-right to get a breakdown of all the items in your settlement.","Questo prepara la trama da seminare, ma è necessario selezionare quale coltura coltivare su ogni appezzamento agricolo prima che un agricoltore arrivi a piantare i semi pertinenti. I tuoi coloni hanno portato con sé una selezione di semi diversi. Puoi fare clic su «Risorse» in alto a destra per ottenere una ripartizione di tutti gli elementi nel tuo saldo."
 TUTORIAL.2.C,,"For the seeds to actually be available to your farmers, they need to be in a stockpile compared to being held in a dwarf’s inventory like they are currently. Click {{GUI.ZONES_LABEL}} > {{ROOMS.STOCKPILES}} > {{STOCKPILE.GROUP.SEEDS}} (you can right-click to go back up to a previous menu) and designate an area to be used for seeds to be stored.","Perché i semi siano effettivamente disponibili per i vostri agricoltori, devono trovarsi in una riserva rispetto ad essere tenuti nell'inventario di un nano come sono attualmente. Fare clic su {{GUI.ZONES_LABEL}} > {{ROOMS.STOCKPILES}} > {{STOCKPILE.GRANARY}} (è possibile fare clic con il pulsante destro del mouse per tornare a un menu precedente) e designare un'area da utilizzare come {{STOCKPILE.GRANARY}}, dove sono conservati semi e cereali."
@@ -1208,7 +1208,7 @@ TUTORIAL.CAMERA.A,,"You can use the W, A, S and D keys or the arrow keys to pan 
 TUTORIAL.CAMERA.B,,Scrolling the mouse wheel or pressing the Q and E keys zooms the camera in or out.,"Scorrendo la rotella del mouse o premendo i tasti Q ed E, la telecamera viene ingrandita o ridotta."
 TUTORIAL.CAMERA.C,,"In the lower-right section of the screen is the minimap, and you can click on this to jump the camera to that point. Click on the “Minimap” label to show or hide the minimap.","Nella sezione in basso a destra dello schermo c'è la minimappa, e puoi cliccare su questa per far saltare la telecamera in quel punto. Clicca sull'etichetta “Minimappa“ per mostrare o nascondere la minimappa."
 TUTORIAL.CAMERA.D,,Try out these camera controls and then click “Next” to proceed.,Prova questi controlli della fotocamera e poi clicca su “Avanti“ per procedere.
-TUTORIAL.FINAL.A,,"This covers the basics of playing King under the Mountain. For your next challenge, aim to set up a functioning {{ROOMS.METALWORKS}} with a {{FURNITURE.FORGE}} provided with fuel and refined metal ore. Refined metal ores are produced at the {{FURNITURE.ORE_CRUSHING_STATION}}, and fuel can be crushed from coal or produced out of {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.LOGS.PLURAL}} with a {{FURNITURE.CHARCOAL_CLAMP}} in an {{ROOMS.EARTHWORKS}}. Good luck!","Questo copre le basi di giocare a re sotto la montagna. Per la tua prossima sfida, mira a creare un {{ROOMS.METALWORKS}} funzionante con un {{FURNITURE.FORGE}} fornito di combustibile e minerale metallico raffinato. I minerali metallici raffinati sono prodotti presso il {{FURNITURE.ORE_CRUSHING_STATION}} e il combustibile può essere frantumato dal carbone o prodotto da {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.LOGS.PLURAL}} con un {{FURNITURE.CHARCOAL_CLAMP}}. Buona fortuna!"
+TUTORIAL.FINAL.A,,"This covers the basics of playing King under the Mountain. For your next challenge, aim to set up a functioning {{ROOMS.METALWORKS}} with a {{FURNITURE.FORGE}} provided with fuel and refined metal ore. Refined metal ores are produced at the {{FURNITURE.ORE_CRUSHING_STATION}}, and fuel can be crushed from coal or produced out of {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.LOGS.PLURAL}} with a {{FURNITURE.CHARCOAL_CLAMP}} in an {{ROOMS.EARTHWORKS}}. Good luck!","Questo copre le basi di giocare a re sotto la montagna. Per la tua prossima sfida, mira a creare un {{ROOMS.METALWORKS}} funzionante con un {{FURNITURE.FORGE}} fornito di combustibile e minerale metallico raffinato. I minerali metallici raffinati sono prodotti presso il {{FURNITURE.ORE_CRUSHING_STATION}} e il combustibile può essere frantumato dal carbone o prodotto da {{MATERIAL_TYPE.WOOD.ADJECTIVE}} {{RESOURCE.LOGS.PLURAL}} con un {{FURNITURE.CHARCOAL_CLAMP}} in un {{ROOMS.EARTHWORKS}}. Buona fortuna!"
 TUTORIAL.PROGRESS_DESCRIPTION.FARM_PLOT_SELECTIONS,Used to show a progress indicator for how many farm plots have a crop selected e.g. 2 of 10 farm plots with a crop assigned,{{ROOMS.FARM.PLURAL}} with a crop assigned,{{ROOMS.FARM.PLURAL}} con un raccolto assegnato
 TUTORIAL.PROGRESS_DESCRIPTION.PROFESSIONS_ASSIGNED,Used to show a progress indicator for how many of a certain profession have been assigned e.g. 2 of 10 farmers assigned,{{professionPlural}} assigned,{{professionPlural}} assegnato
 TUTORIAL.PROGRESS_DESCRIPTION.TEXT,Used to show a progress indicator in the form: 2 of 10 stone blocks,{{currentQuantity}} of {{requiredQuantity}} {{targetDescription}},{{currentQuantity}} di {{requiredQuantity}} {{targetDescription}}
@@ -1221,16 +1221,16 @@ TUTORIAL.TIME.D,,You can also click the speed icons to change the speed or pause
 
 VEGETABLE.BARLEY,,Barley,Orzo
 VEGETABLE.BARLEY.PLURAL,,Barley,Orzo
-VEGETABLE.BARLEY.TOOLTIP,,"A grain used only in the production of beer. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un grano utilizzato solo nella produzione di birra. Può essere piantato in {{SEASONON.SPRING}}, {{SEASONON.SUMMER}} o {{SEASON.AUTUMN}}."
+VEGETABLE.BARLEY.TOOLTIP,,"A grain used only in the production of beer. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un grano utilizzato solo nella produzione di birra. Può essere piantato in {{SEASON.SPRING}}, {{SEASON.SUMMER}} o {{SEASON.AUTUMN}}."
 VEGETABLE.BERSERKER_MUSHROOM,,Berserker mushroom,Berserker fungo
 VEGETABLE.BERSERKER_MUSHROOM.PLURAL,,Berserker mushrooms,Funghi Berserker
 VEGETABLE.BERSERKER_MUSHROOM.TOOLTIP,,A mushroom with a pink-red cap bearing white spots. It has hallucinogenic properties which warriors sometimes use in preparation for battle.,Un fungo con un cappuccio rosa-rosso che porta macchie bianche. Ha proprietà allucinogene che i guerrieri a volte usano in preparazione alla battaglia.
 VEGETABLE.CARROT,,Carrot,Carota
 VEGETABLE.CARROT.PLURAL,,Carrots,Carote
-VEGETABLE.CARROT.TOOLTIP,,"A hardy root vegetable that survives the {{SEASON.WINTER}} frost. Carrots grow quickly but only produce a small crop. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un ortaggio a radice resistente che sopravvive al gelo {{SEASONON.WINTER}}. Le carote crescono rapidamente ma producono solo un piccolo raccolto. Può essere piantato in {{SEASONON.SPRING}}, {{SEASONON.SUMMER}} o {{SEASON.AUTUMN}}."
+VEGETABLE.CARROT.TOOLTIP,,"A hardy root vegetable that survives the {{SEASON.WINTER}} frost. Carrots grow quickly but only produce a small crop. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un ortaggio a radice resistente che sopravvive al gelo {{SEASON.WINTER}}. Le carote crescono rapidamente ma producono solo un piccolo raccolto. Può essere piantato in {{SEASON.SPRING}}, {{SEASON.SUMMER}} o {{SEASON.AUTUMN}}."
 VEGETABLE.CORN,,Sweetcorn,Mais
 VEGETABLE.CORN.PLURAL,,Sweetcorn,Mais
-VEGETABLE.CORN.TOOLTIP,,"A cereal grain also known as maize. It produces a bountiful crop but takes around 2 seasons to grow and can not survive {{SEASON.WINTER}}, so it requires planting in early {{SEASON.SPRING}}.","Un grano di cereali conosciuto anche come mais. Produce un raccolto abbondante ma richiede circa 2 stagioni per crescere e non può sopravvivere a {{SEASONON.WINTER}}, quindi richiede la semina all'inizio di {{SEASONON.SPRING}}."
+VEGETABLE.CORN.TOOLTIP,,"A cereal grain also known as maize. It produces a bountiful crop but takes around 2 seasons to grow and can not survive {{SEASON.WINTER}}, so it requires planting in early {{SEASON.SPRING}}.","Un grano di cereali conosciuto anche come mais. Produce un raccolto abbondante ma richiede circa 2 stagioni per crescere e non può sopravvivere a {{SEASON.WINTER}}, quindi richiede la semina all'inizio di {{SEASON.SPRING}}."
 VEGETABLE.DEATH_CAP_MUSHROOM,,Death cap mushroom,Fungo Berretto mortale
 VEGETABLE.DEATH_CAP_MUSHROOM.PLURAL,,Death cap mushrooms,Funghi Berretto mortale
 VEGETABLE.DEATH_CAP_MUSHROOM.TOOLTIP,,"A very poisonous mushroom with a wide, flat cap. Eating even a tiny amount will almost certainly cause poisoning which can lead to death.",Un fungo molto velenoso con un cappuccio largo e piatto. Mangiare anche una piccola quantità sarà quasi certamente causare avvelenamento che può portare alla morte.
@@ -1252,7 +1252,7 @@ VEGETABLE.HEMP_FIBRE,,Hemp fibre,Fibra di canapa
 VEGETABLE.HEMP_FIBRE.PLURAL,,Hemp fibre,Fibre di canapa
 VEGETABLE.HOPS,,Hops,Luppolo
 VEGETABLE.HOPS.PLURAL,,Hops,Luppolo
-VEGETABLE.HOPS.TOOLTIP,,A flower used for the flavouring of beer. Must be planted in {{SEASON.SPRING}}.,Un fiore utilizzato per l'aromatizzazione della birra. Deve essere piantato in {{SEASONON.SPRING}}.
+VEGETABLE.HOPS.TOOLTIP,,A flower used for the flavouring of beer. Must be planted in {{SEASON.SPRING}}.,Un fiore utilizzato per l'aromatizzazione della birra. Deve essere piantato in {{SEASON.SPRING}}.
 VEGETABLE.LOQUAT,,Loquat,Nocciolo
 VEGETABLE.LOQUAT.PLURAL,,Loquats,Noccioli
 VEGETABLE.MILTONIA_MUSHROOM,,Miltonia mushroom,Fungo Miltonia
@@ -1260,7 +1260,7 @@ VEGETABLE.MILTONIA_MUSHROOM.PLURAL,,Miltonia mushrooms,Funghi Miltonia
 VEGETABLE.MILTONIA_MUSHROOM.TOOLTIP,,"Once thought to exist only in the Hudds region, it is now found throughout the world.","Un tempo si pensava di esistere solo nella regione di Hudds, ora si trova in tutto il mondo."
 VEGETABLE.POTATO,,Potato,Patata
 VEGETABLE.POTATO.PLURAL,,Potatoes,Patate
-VEGETABLE.POTATO.TOOLTIP,,"A starchy root vegetable which can survive {{SEASON.WINTER}} making it a good choice for most settlements. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un ortaggio a radice amidacea che può sopravvivere {{SEASONON.WINTER}} che lo rende una buona scelta per la maggior parte degli insediamenti. Può essere piantato in {{SEASONON.SPRING}}, {{SEASONON.SUMMER}} o {{SEASON.AUTUMN}}."
+VEGETABLE.POTATO.TOOLTIP,,"A starchy root vegetable which can survive {{SEASON.WINTER}} making it a good choice for most settlements. Can be planted in {{SEASON.SPRING}}, {{SEASON.SUMMER}} or {{SEASON.AUTUMN}}.","Un ortaggio a radice amidacea che può sopravvivere {{SEASON.WINTER}} che lo rende una buona scelta per la maggior parte degli insediamenti. Può essere piantato in {{SEASON.SPRING}}, {{SEASON.SUMMER}} o {{SEASON.AUTUMN}}."
 VEGETABLE.PURPLE_HELMET_MUSHROOM,,Purple helmet mushroom,Fungo Casco viola
 VEGETABLE.PURPLE_HELMET_MUSHROOM.PLURAL,,Purple helmet mushrooms,Funghi Casco viola
 VEGETABLE.PURPLE_HELMET_MUSHROOM.TOOLTIP,,"Fat Hat, Plump Turban, Puffy Helmet; This fabled mushroom goes by many names. Legend holds that long ago, many communities of dwarves subsisted entirely on a domesticated strain of this fungus.","Cappello grasso, turbante paffuto, casco gonfio; questo leggendario fungo va con molti nomi. La leggenda sostiene che molto tempo fa, molte comunità di nani sussistevano interamente su un ceppo addomesticato di questo fungo."
@@ -1279,10 +1279,10 @@ VEGETABLE.THIMBLEBERRY,,Thimbleberry,Mirtillo rosso
 VEGETABLE.THIMBLEBERRY.PLURAL,,Thimbleberries,Mirtillo rosso
 VEGETABLE.TOMATO,,Tomato,Pomodoro
 VEGETABLE.TOMATO.PLURAL,,Tomatoes,Pomodori
-VEGETABLE.TOMATO.TOOLTIP,,A plant which grows large red berries often used as a vegetable. Can only be planted in {{SEASON.SPRING}}.,Una pianta che coltiva grandi bacche rosse spesso utilizzate come ortaggio. Può essere piantato solo in {{SEASONON.SPRING}}.
+VEGETABLE.TOMATO.TOOLTIP,,A plant which grows large red berries often used as a vegetable. Can only be planted in {{SEASON.SPRING}}.,Una pianta che coltiva grandi bacche rosse spesso utilizzate come ortaggio. Può essere piantato solo in {{SEASON.SPRING}}.
 VEGETABLE.WHEAT,,Wheat,Grano
 VEGETABLE.WHEAT.PLURAL,,Wheat,Grano
-VEGETABLE.WHEAT.TOOLTIP,,"A cereal grain generally used for the production of bread. It can survive {{SEASON.WINTER}} but takes a while to grow, so it is either planted in {{SEASON.SPRING}} or {{SEASON.AUTUMN}}.","Un grano di cereali generalmente utilizzato per la produzione di pane. Può sopravvivere a {{SEASONON.WINTER}} ma richiede un po' di tempo per crescere, quindi è piantato in {{SEASONON.SPRING}} o {{SEASON.AUTUMN}}."
+VEGETABLE.WHEAT.TOOLTIP,,"A cereal grain generally used for the production of bread. It can survive {{SEASON.WINTER}} but takes a while to grow, so it is either planted in {{SEASON.SPRING}} or {{SEASON.AUTUMN}}.","Un grano di cereali generalmente utilizzato per la produzione di pane. Può sopravvivere a {{SEASON.WINTER}} ma richiede un po' di tempo per crescere, quindi è piantato in {{SEASON.SPRING}} o {{SEASON.AUTUMN}}."
 
 VITRIOL.GREEN_VITRIOL.ADJECTIVE,,Green,Verde
 VITRIOL.GREEN_VITRIOL.NOUN,,Green,Verde
